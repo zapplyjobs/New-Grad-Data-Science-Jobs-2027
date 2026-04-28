@@ -26,6 +26,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "dashboards",
+        "data science",
+        "dbt",
+        "deep learning",
+        "machine learning",
+        "python",
+        "reporting",
+        "risk management",
+        "snowflake",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-28T15:03:59.006Z"
   },
   {
