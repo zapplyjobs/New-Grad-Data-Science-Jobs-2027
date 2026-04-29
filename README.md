@@ -280,8 +280,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Fidelity Investments** | Manager, Data Analytics and Insights | Smithfield, RI + ... | 11m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Manager--Data-Analytics-and-Insights_2126203-1) |
-| 🏢 **Crusoe** | Strategic Sourcing Data Analyst | Denver, CO - US | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) |
+| 🏢 **Fidelity Investments** | Manager, Data Analytics and Insights | Smithfield, RI + ... | 12m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Manager--Data-Analytics-and-Insights_2126203-1) |
+| 🏢 **Crusoe** | Strategic Sourcing Data Analyst | Denver, CO - US | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/b4c946a9-6ea4-4f73-83a5-79868fcaa851/application) |
 | 🏢 **Citadel Securities** | Quantitative Researcher - PhD Graduate (US) | Unknown | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/) |
 | 🏢 **Akuna Capital** | Junior Quantitative Researcher - Prediction Markets | Chicago, IL | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.akunacapital.com/careers/job/7863348/?gh_jid=7863348) |
 | 🏢 **Lyft** | Data Analyst - Global Growth Luxury Strategy | New York, NY | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://app.careerpuck.com/job-board/lyft/job/8514400002?gh_jid=8514400002) |
