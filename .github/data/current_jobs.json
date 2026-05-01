@@ -39223,51 +39223,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T21:54:17.175Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7793749",
-    "job_title": "Associate, Operations Data Analytics",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7793749?gh_jid=7793749",
-    "job_posted_at_datetime_utc": "2026-04-24T20:20:58.976Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7691b428acd6819de6ed55ed6c274dac40bd491fd2d3d5694585922432628fee",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T20:20:58.976Z"
   }
 ]
