@@ -39045,45 +39045,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T23:03:38.000Z"
-  },
-  {
-    "job_id": "greenhouse-xai-5120884007",
-    "job_title": "Data Engineer",
-    "employer_name": "xAI",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Palo Alto, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
-    "job_posted_at_datetime_utc": "2026-04-24T22:46:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ae3394d48ad1dfe4c5217815c85e0ab5beb231e6ec1b09f3580c8d4fae689a4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T22:46:13.000Z"
   }
 ]
