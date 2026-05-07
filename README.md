@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-271-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-99-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-269-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Apple** | Data Scientist | San Diego | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
+| 🏢 **Apple** | Data Scientist | San Diego | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
 | 🏢 **Apple** | Biomedical Data Science Engineer - Health Technologies | San Diego | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661942/biomedical-data-science-engineer-health-technologies) |
 | 🏢 **Apple** | ML Data Science Manager, ISE Analytics and User Studies | Cupertino | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200642063/ml-data-science-manager-ise-analytics-and-user-studies) |
 | 🏢 **Microsoft** | Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science | United States | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556652525) |
@@ -143,7 +143,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **TransUnion** | Data Scientist | Chicago, Illinois | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist_19040229) |
 | 🏢 **Leidos** | Machine Learning Engineer | Beavercreek, OH | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Machine-Learning-Engineer_R-00181757) |
 | 🏢 **Comcast** | Data Scientist | Philadelphia, PA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R435597) |
-| 🏢 **Motional** | Machine Learning Engineer, Data Mining | Remote U.S. | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motional.com/open-positions/?gh_jid=7694846003#/7694846003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -156,10 +155,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
+| 🏢 **Susquehanna International Group (SIG)** | HR Data Analyst - Operations Analyst Program | Ardmore, PA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false) |
 | 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | United States | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - PhD: 2026 | Ardmore, PA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
 | 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA + 1 more | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_174107-1) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412277/applied-science-manager-sponsored-products-and-brands) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
@@ -297,7 +296,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Apple** | Machine Learning Research Engineer - NLP,  Input Experience | Cupertino | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200651071/machine-learning-research-engineer-nlp-input-experience) |
 | 🏢 **HubSpot** | AI Engineer (AIMS Martek) | USA | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.hubspot.com/careers/jobs/7453272?gh_jid=7453272) |
-| 🏢 **DoorDash** | Software Engineer, Machine Learning - Fraud | Sunnyvale, CA; Sa... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5516835) |
+| 🏢 **DoorDash** | Software Engineer, Machine Learning - Fraud | Sunnyvale, CA; Sa... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/5516835) |
 | 🏢 **JP Morgan Chase** | 2026 Machine Learning Center of Excellence – Summer Associate - NLP | United States | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664814) |
 | 🏢 **Pendo** | AI Engineer | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/pendo/jobs/8533491002) |
 | 🏢 **Red Hat** | Forward Deployed AI Engineer, Customer Adoption and Innovation | US, NC + 1 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-US-NC/Forward-Deployed-AI-Engineer--Customer-Adoption-and-Innovation_R-052818) |
@@ -325,7 +324,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Morningstar** | Product AI Engineer | Chicago | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/AI-Engineer_REQ-055251) |
 | 🏢 **Boeing** | Machine Learning Infrastructure Engineer (Associate or Experienced) | Huntsville, AL | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Machine-Learning-Infrastructure-Engineer--Associate-or-Experienced-_JR2026508407-2) |
 | 🏢 **Booz Allen Hamilton** | AI Engineer | Arlington, VA + 1... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/AI-Engineer_R0239119) |
-| 🏢 **Zoom** | AI Engineer | Seattle | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Software-Development-Engineer---Zoom-AI-API-Suite_R17822-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -381,7 +379,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 271 current opportunities from 99 companies**
+**🎯 269 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
