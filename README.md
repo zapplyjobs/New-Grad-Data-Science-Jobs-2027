@@ -18,7 +18,7 @@
 <div align="center">
 
 ![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-270-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-96-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-97-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | McLean, VA | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Artificial-Intelligence-and-Machine-Learning-Engineer_R0239728) |
-| 🏢 **Ibotta** | Data Scientist, Client Data & Measurement | Denver | 41m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Hybrid---Denver/Data-Scientist--Client-Data---Measurement_R-102487) |
+| 🏢 **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | McLean, VA | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Artificial-Intelligence-and-Machine-Learning-Engineer_R0239728) |
+| 🏢 **Ibotta** | Data Scientist, Client Data & Measurement | Denver | 56m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Hybrid---Denver/Data-Scientist--Client-Data---Measurement_R-102487) |
 | 🏢 **Visa** | Associate Data Scientist, New College Grad - 2026 | Foster City, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Scientist--New-College-Grad---2026_REF081770W-1) |
 | 🏢 **Zoom** | Data Scientist | San Jose, CA + 1 ... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Data-Scientist_R19158-1) |
 | 🏢 **TD Bank** | Data Scientist -FCRM Model Risk Governance Strategy | New York New York... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Data-Scientist--FCRM-Model-Risk-Governance-Strategy_R_1484079) |
@@ -93,7 +93,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Unity** | Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD) | Bellevue, WA, USA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7906593?gh_jid=7906593) |
 | 🏢 **Unity** | Machine Learning Engineer, Offline Infrastructure (Entry-Level / New Grad PhD) | Mountain View, CA... | 3h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7902260?gh_jid=7902260) |
 | 🏢 **Match Group** | Machine Learning Engineer, Trust & Safety | New York, New York | 3h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/b35b9af9-3055-4aed-b40c-18936566afa4/apply) |
-| 🏢 **Spotify** | Data Scientist - Advertising | New York, NY | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/8ab5051b-81e0-4705-b640-c73c5eba3607/apply) |
+| 🏢 **Spotify** | Data Scientist - Advertising | New York, NY | 6h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/spotify/8ab5051b-81e0-4705-b640-c73c5eba3607/apply) |
 | 🏢 **Anduril** | People Data Analytics Engineer | Boston, Massachus... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4918732007?gh_jid=4918732007) |
 | 🏢 **Anduril** | People Data Analytics Engineer | Costa Mesa, Calif... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4859842007?gh_jid=4859842007) |
 | 🏢 **Chan Zuckerberg Biohub** | Machine Learning Engineer, AI | Redwood City, CA ... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/biohub/jobs/7793658) |
@@ -164,6 +164,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🏢 **PIMCO** | Data Analyst, Transaction Management | Newport Beach, CA... | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416) |
 | 🏢 **Vanguard** | Data Analyst, Specialist | Malvern, PA + 3 more | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_177819-1) |
 | 🏢 **RTX** | Intelligence Analyst | Buckley, CO | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01843787) |
 | 🏢 **Morgan Stanley** | Data Analyst - US Banks Analytics, Assistant Vice President | 1 New York Plaza | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ms.wd5.myworkdayjobs.com/External/job/1-New-York-Plaza/Data-Analyst---US-Banks-Analytics--Assistant-Vice-President_PT-JR035070) |
@@ -188,7 +189,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Abbott** | Biostatistician | California | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Biostatistician_31145530-1) |
 | 🏢 **Adobe** | Advanced Analytics & Reporting Analyst 3 | San Jose | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Advanced-Analytics---Reporting-Analyst-3_R168028) |
 | 🏢 **Ameriprise Financial** | Data, Analytics & Reporting Analyst -  Investment Consultancy & Oversight and Multi-Manager Solutions | Boston Massachuse... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Data--Analytics---Reporting-Analyst_R26_1511-1) |
-| 🏢 **Anthropic** | Analytics Data Engineer | San Francisco, CA... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4956672008) |
+| 🏢 **Anthropic** | Analytics Data Engineer | San Francisco, CA... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/4956672008) |
 | 🏢 **WHOOP** | Product Analyst | Boston, MA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/whoop/566b9ef6-7f00-4dfc-a5d7-a5e9c165ed4d/apply) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Software Development Engineer, Data Analytics Integration AI and Platform Excellence | New York, NY | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10415238/software-development-engineer-data-analytics-integration-ai-and-platform-excellence) |
 | 🏢 **LinkedIn** | People Analytics Manager - Insights Enablement | Sunnyvale, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125214639) |
@@ -197,10 +198,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | Intelligence Analyst | Hampton, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451) |
 | 🏢 **Guidehouse** | Data Analytics and Reporting Specialist | MD Rockville + 1 ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Rockville/Data-Analytics-and-Reporting-Specialist_38581) |
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
-| 🏢 **Susquehanna International Group (SIG)** | HR Data Analyst - Operations Analyst Program | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false) |
-| 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - PhD: 2026 | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9437/job?mobile=true&needsRedirect=false) |
+| 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412277/applied-science-manager-sponsored-products-and-brands) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
 | 🏢 **Oscar Health** | Associate, Provider Data Analytics | Dallas, Texas, Un... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895868?gh_jid=7895868) |
@@ -223,7 +224,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **IMC Trading** | Quantitative Researcher | Chicago, United S... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4832704101) |
 | 🏢 **Samba TV** | Measurement Science Associate | San Francisco, Ca... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/d2811733-0db2-4f75-8757-5e5d9cd6e53c/apply) |
 | 🏢 **Match Group** | Product Analyst | New York, New York | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/5ebb103e-5c81-4772-aef5-0bf767f52157/apply) |
-| 🏢 **Microsoft** | Sales Insights Analytics Manager | United States | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556863207) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -241,8 +241,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ibotta** | Data Engineer | Denver, CO | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Denver-CO/Data-Engineer_R-102413) |
 | 🏢 **Caterpillar** | Data Engineer - Technical/User support | Irving Texas + 1 ... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Irving-Texas/Data-Engineer---Technical-User-support_R0000366221) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Chantilly, VA + 1... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Chantilly-VA/Data-Engineer_R0239616-1) |
+| 🏢 **Booz Allen Hamilton** | Data Engineer | McLean, VA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0239684) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400) |
-| 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843) |
 | 🏢 **Amazon Data Services, Inc.** | Data Engineer, Data Center Capacity Delivery | Seattle, WA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10415151/data-engineer-data-center-capacity-delivery) |
 | 🏢 **Apple** | EPM, Applied Machine Learning, AI & Data Platforms (AiDP) | Sunnyvale | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200642447/epm-applied-machine-learning-ai-data-platforms-aidp) |
 | 🏢 **Apple** | Software Data Engineer, App Store | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661956/software-data-engineer-app-store) |
@@ -277,7 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **KeyBank** | Data & Business Intelligence Manager - Client Assurance, Protection & Controls (Commercial Onboarding & Servicing) | Brooklyn, OH | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager----Loan---Payment--and-Operational-Services--LPOS-_R-38909) |
+| 🏢 **KeyBank** | Data & Business Intelligence Manager - Client Assurance, Protection & Controls (Commercial Onboarding & Servicing) | Brooklyn, OH | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Data---Business-Intelligence-Manager----Loan---Payment--and-Operational-Services--LPOS-_R-38909) |
 | 🏢 **Citi** | Virtual Branch Support Centralized Review and Reporting Analyst | NC CHARLOTTE BALL... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Virtual-Branch-Support-Centralized-Review-and-Reporting-Analyst_26951446) |
 | 🏢 **JP Morgan Chase** | Data Visualization Associate | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706210) |
 | 🏢 **Booz Allen Hamilton** | Data Visualization Analyst | Lexington Park, MD | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-Park-MD/Data-Visualization-Analyst_R0232783) |
@@ -296,7 +296,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **CrowdStrike** | Machine Learning Detection Engineer (Remote, East/Central) | 34 Locations | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Machine-Learning-Detection-Engineer--Remote--East-Central-_R27809) |
 | 🏢 **Anaplan** | Associate GTM AI Engineer | San Francisco, Un... | 3h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anaplan/jobs/8538805002) |
 | 🏢 **Capco** | Junior AI Engineer | Baltimore | 6h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
-| 🏢 **Apple** | Manager, Machine Learning Infrastructure - SIML | Cupertino | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661779/manager-machine-learning-infrastructure-siml) |
+| 🏢 **Apple** | Manager, Machine Learning Infrastructure - SIML | Cupertino | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661779/manager-machine-learning-infrastructure-siml) |
 | 🏢 **Apple** | Large Machine Learning Model Optimization Engineer, SIML | Seattle | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml) |
 | 🏢 **LinkedIn** | Manager, Hirer AI, Machine Learning | Sunnyvale, CA | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125228129) |
 | 🏢 **Apple** | Machine Learning Research Engineer - NLP,  Input Experience | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200651071/machine-learning-research-engineer-nlp-input-experience) |
@@ -369,7 +369,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 270 current opportunities from 96 companies**
+**🎯 270 current opportunities from 97 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
