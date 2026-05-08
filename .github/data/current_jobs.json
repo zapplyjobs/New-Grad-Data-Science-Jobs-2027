@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "simplify-bfb3a855-b976-43d7-a625-816da53c81e1",
+    "job_title": "Data Scientist Associate",
+    "employer_name": "JP Morgan Chase",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Plano, TX",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426",
+    "job_posted_at_datetime_utc": "2026-05-08T23:18:54.110Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6a25f8b169932ba1e3e359867ed09daf592fc67f743b8a3be87405a0e4804da3",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-08T23:18:54.110Z"
+  },
+  {
     "job_id": "greenhouse-togetherai-5101651007",
     "job_title": "Analytics Engineer — Data Warehouse",
     "employer_name": "Together AI",
@@ -6205,67 +6235,6 @@
     "job_posted_at": "2026-05-06T20:06:13.162Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239413",
-    "job_title": "AI Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fort Belvoir, VA + 1 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/AI-Engineer_R0239413-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "212f1903b9afc2f7471fbcc9002a82877c171b0c3f64d3a853cf3ed9090de41a",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239396",
-    "job_title": "Data Scientist",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arlington, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0239396",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:05:48.509Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0239439",
     "job_title": "Consolidated Data Analytics Platform Elastic Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -6418,72 +6387,19 @@
     "job_posted_at": "2026-05-06T20:05:48.509Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237162",
-    "job_title": "Data Analyst",
+    "job_id": "workday-booz-allen-hamilton-R0239413",
+    "job_title": "AI Engineer",
     "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data visualization",
-        "python",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235634",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
+    "job_city": "Fort Belvoir",
     "job_state": "VA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "McLean, VA + 2 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
+    "job_location": "Fort Belvoir, VA + 1 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Belvoir-VA/AI-Engineer_R0239413-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "fingerprint": "212f1903b9afc2f7471fbcc9002a82877c171b0c3f64d3a853cf3ed9090de41a",
     "tags": {
       "employment": "entry_level",
       "domains": [
@@ -6499,7 +6415,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
+    "job_posted_at": "2026-05-06T20:05:48.509Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239396",
+    "job_title": "Data Scientist",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arlington, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Scientist_R0239396",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.509Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6575aa53265ead8a219a697290777bf8b4d62d6cb22df7ef2eba97c7501e8b2b",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:05:48.509Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0239475",
@@ -6610,6 +6556,90 @@
     "tags": {
       "employment": "entry_level",
       "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237162",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235634",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 2 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -6819,7 +6849,7 @@
       "locations": [
         "us"
       ],
-      "experience": "unknown",
+      "experience": "mid_level",
       "special": [
         "faang"
       ],
