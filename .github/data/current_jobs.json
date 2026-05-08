@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "workday-ibotta-R-102492",
+    "job_title": "Data Engineer",
+    "employer_name": "Ibotta",
+    "job_city": "Hybrid Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hybrid Denver + 1 more",
+    "job_apply_link": "https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Hybrid---Denver/Data-Engineer_R-102492",
+    "job_posted_at_datetime_utc": "2026-05-08T23:32:09.742Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e42123b2ea4a4df397880098734a4bab5b1812cd6ba4b2a27113565f2e56f8c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T23:32:09.742Z"
+  },
+  {
     "job_id": "simplify-bfb3a855-b976-43d7-a625-816da53c81e1",
     "job_title": "Data Scientist Associate",
     "employer_name": "JP Morgan Chase",
@@ -27,6 +58,20 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T23:18:54.110Z"
   },
   {
@@ -58,6 +103,33 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "analytics",
+        "data governance",
+        "data modeling",
+        "data quality",
+        "data warehouse",
+        "dbt",
+        "dimensional modeling",
+        "pyspark",
+        "python",
+        "spark",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": 9,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T23:00:38.498Z"
   },
   {
@@ -90,6 +162,31 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "a/b testing",
+        "agentic",
+        "analytics",
+        "asana",
+        "data quality",
+        "data science",
+        "machine learning",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T22:52:54.588Z"
   },
   {
@@ -3379,6 +3476,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "express",
+        "generative ai",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
   {
@@ -3409,6 +3529,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data modeling",
+        "databricks",
+        "elt",
+        "etl",
+        "express",
+        "power bi",
+        "python",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
   {
@@ -3440,6 +3585,31 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "dashboards",
+        "data science",
+        "express",
+        "machine learning",
+        "pyspark",
+        "python",
+        "reporting",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
   {
@@ -3470,6 +3640,37 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data science",
+        "machine learning",
+        "process improvement",
+        "python",
+        "r",
+        "reporting",
+        "risk management",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T20:05:07.155Z"
   },
   {
@@ -4163,39 +4364,6 @@
     "job_posted_at": "2026-05-08T04:21:00.863Z"
   },
   {
-    "job_id": "amazon-e3c76832-d094-4345-82df-804c72522b13",
-    "job_title": "Data Engineer, Compensation, CPSA",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414395/data-engineer-compensation-cpsa",
-    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1cb8a30ac8af3936974e97a7fa10e2771e712ba7a8de7cad1d79e013be3990d8",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "job_posted_at": "2026-05-08T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3ee545f8-cd50-4d6d-8897-915b0b122640",
     "job_title": "Data Engineer, Data Center Capacity Delivery",
     "employer_name": "Amazon Data Services, Inc.",
@@ -4257,6 +4425,72 @@
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-e3c76832-d094-4345-82df-804c72522b13",
+    "job_title": "Data Engineer, Compensation, CPSA",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10414395/data-engineer-compensation-cpsa",
+    "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1cb8a30ac8af3936974e97a7fa10e2771e712ba7a8de7cad1d79e013be3990d8",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "cloudformation",
+        "computer science",
+        "data modeling",
+        "etl",
+        "hive",
+        "java",
+        "nodejs",
+        "python",
+        "redshift",
+        "s3",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [
+        "iam",
+        "lambda"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-8ed8ef6b-6be9-453e-bc4a-181a7504ebe2",
     "job_title": "Data Engineer I, Amazon Publisher Monetization, Analytics",
     "employer_name": "Amazon.com Services LLC",
@@ -4287,6 +4521,31 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data modeling",
+        "etl",
+        "python",
+        "scala",
+        "sql"
+      ],
+      "nice_to_have_skills": [
+        "hadoop",
+        "hive",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T00:00:00.000Z"
   },
   {
@@ -4677,7 +4936,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864459",
     "job_posted_at_datetime_utc": "2026-05-07T21:51:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5b61cc0638fa83b88eefbc4bb8b4fd54bc2dfdeaabf7970e3a0d18149060b122",
     "tags": {
@@ -5664,6 +5923,76 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "aks",
+        "analytics",
+        "api",
+        "arm",
+        "aws",
+        "azure",
+        "azure devops",
+        "bash",
+        "bedrock",
+        "change management",
+        "ci/cd",
+        "cloudformation",
+        "cloudwatch",
+        "computer science",
+        "dashboards",
+        "data governance",
+        "databricks",
+        "devops",
+        "docker",
+        "eks",
+        "embeddings",
+        "fine-tuning",
+        "generative ai",
+        "git",
+        "github",
+        "github actions",
+        "gpt",
+        "grafana",
+        "iam",
+        "infrastructure as code",
+        "jenkins",
+        "kubernetes",
+        "lambda",
+        "llm",
+        "machine learning",
+        "mlflow",
+        "networking",
+        "oauth",
+        "observability",
+        "openai",
+        "powershell",
+        "prompt engineering",
+        "python",
+        "rag",
+        "rest",
+        "retrieval augmented generation",
+        "root cause analysis",
+        "s3",
+        "sagemaker",
+        "site reliability engineering",
+        "spark",
+        "sre",
+        "terraform",
+        "unity"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:48:06.389Z"
   },
   {
@@ -5808,6 +6137,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "excel",
+        "python",
+        "r",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:09:48.070Z"
   },
   {
@@ -5838,6 +6191,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "excel",
+        "python",
+        "r",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:09:48.070Z"
   },
   {
@@ -5869,6 +6246,39 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agile",
+        "bigquery",
+        "ci/cd",
+        "data analysis",
+        "data science",
+        "docker",
+        "java",
+        "kubernetes",
+        "linear",
+        "llm",
+        "machine learning",
+        "network security",
+        "python",
+        "r",
+        "scala",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:09:26.331Z"
   },
   {
@@ -5899,6 +6309,45 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "airflow",
+        "analytics",
+        "apache",
+        "apache airflow",
+        "aws",
+        "ci/cd",
+        "computer science",
+        "data warehouse",
+        "etl",
+        "git",
+        "lambda",
+        "machine learning",
+        "matplotlib",
+        "pyspark",
+        "python",
+        "redshift",
+        "risk management",
+        "s3",
+        "seaborn",
+        "shell",
+        "shell scripting",
+        "statistics",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:08:53.799Z"
   },
   {
@@ -5930,6 +6379,43 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "c++",
+        "computer science",
+        "deep learning",
+        "distributed systems",
+        "envoy",
+        "fault tolerance",
+        "genai",
+        "go",
+        "golang",
+        "grpc",
+        "istio",
+        "kubernetes",
+        "linux",
+        "llm",
+        "machine learning",
+        "networking",
+        "python",
+        "red hat",
+        "routing",
+        "rust",
+        "wasm"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:08:37.091Z"
   },
   {
@@ -5960,6 +6446,32 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "computer science",
+        "dashboards",
+        "data modeling",
+        "data visualization",
+        "etl",
+        "forecasting",
+        "reporting",
+        "root cause analysis",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:08:09.777Z"
   },
   {
@@ -5991,6 +6503,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "analytics",
+        "aws",
+        "azure",
+        "continuous delivery",
+        "data science",
+        "infrastructure as code",
+        "java",
+        "kubernetes",
+        "llm",
+        "python",
+        "rag",
+        "sql",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:07:39.278Z"
   },
   {
@@ -6069,6 +6611,42 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data modeling",
+        "data quality",
+        "data science",
+        "data visualization",
+        "devsecops",
+        "hadoop",
+        "pandas",
+        "power bi",
+        "python",
+        "r",
+        "reporting",
+        "spark",
+        "sql",
+        "statistical analysis",
+        "statistics",
+        "tableau"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:07:39.276Z"
   },
   {
@@ -6836,7 +7414,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "full_time",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
@@ -13436,6 +14014,60 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "nice_to_have_skills": [
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -13488,60 +14120,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "nice_to_have_skills": [
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
