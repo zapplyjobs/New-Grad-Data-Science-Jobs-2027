@@ -140,7 +140,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **LinkedIn** | People Analytics Manager - Insights Enablement | Sunnyvale, CA | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125214639) |
-| 🏢 **SoFi** | Communications Manager, Financial Technology | United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://sofi.com/careers/job/7722398003?gh_jid=7722398003) |
+| 🏢 **SoFi** | Communications Manager, Financial Technology | United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://sofi.com/careers/job/7722398003?gh_jid=7722398003) |
 | 🏢 **Stripe** | Risk & Control Health Data Analyst | Remote | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7577621) |
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
 | 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | Data Engineer and Application Developer | Camp H.M. Smith, HI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239378) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer and Application Developer | Camp H.M. Smith, HI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239377) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer and Application Developer | Camp H.M. Smith, HI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Camp-HM-Smith-HI/Data-Engineer-and-Application-Developer_R0239376) |
-| 🏢 **Vanguard** | Data Engineer, Specialist | Malvern, PA + 1 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist_177760-1) |
+| 🏢 **Vanguard** | Data Engineer, Specialist | Malvern, PA + 1 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist_177760-1) |
 | 🏢 **Capital One** | Data Engineer | McLean, VA + 1 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer_R240349-1) |
 | 🏢 **Goldman Sachs** | Compliance - Data Engineering - Software Engineering | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://higher.gs.com/roles/171671) |
 | 🏢 **RTX** | 2026 Raytheon Full Time- Software Data Engineer I (Remote) | Remote, IN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-REMOTE/XMLNAME-2026-Raytheon-Full-Time--Software-Data-Engineer-I--Remote-_01842571) |
@@ -245,8 +245,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Capco** | Junior AI Engineer | Baltimore | 44m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
-| 🏢 **Apple** | Manager, Machine Learning Infrastructure - SIML | Cupertino | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661779/manager-machine-learning-infrastructure-siml) |
+| 🏢 **Capco** | Junior AI Engineer | Baltimore | 59m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/capco/jobs/7908493) |
+| 🏢 **Apple** | Manager, Machine Learning Infrastructure - SIML | Cupertino | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661779/manager-machine-learning-infrastructure-siml) |
 | 🏢 **Apple** | Large Machine Learning Model Optimization Engineer, SIML | Seattle | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml) |
 | 🏢 **LinkedIn** | Manager, Hirer AI, Machine Learning | Sunnyvale, CA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125228129) |
 | 🏢 **Apple** | Machine Learning Research Engineer - NLP,  Input Experience | Cupertino | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200651071/machine-learning-research-engineer-nlp-input-experience) |
