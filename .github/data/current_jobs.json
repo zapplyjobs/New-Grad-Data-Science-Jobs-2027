@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "greenhouse-anaplan-8538805002",
+    "job_title": "Associate GTM AI Engineer",
+    "employer_name": "Anaplan",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/anaplan/jobs/8538805002",
+    "job_posted_at_datetime_utc": "2026-05-08T17:41:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e3b68e6d84b8a15f4c591c621289b4165a01009d8337aa451c752815e4ccde6",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T17:41:57.000Z"
+  },
+  {
     "job_id": "greenhouse-anthropic-4956672008",
     "job_title": "Analytics Data Engineer",
     "employer_name": "Anthropic",
