@@ -74,7 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Microsoft** | Applied Scientist | Redmond, Washingt... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864459) |
 | 🏢 **Anthropic** | Data Scientist, Supply | San Francisco, CA... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5212119008) |
 | 🏢 **Apple** | Machine Learning Engineer, Search & Knowledge Quality | Santa Clara | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200659181/machine-learning-engineer-search-knowledge-quality) |
-| 🏢 **ServiceNow** | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CA... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000125181170) |
+| 🏢 **ServiceNow** | Machine Learning Engineer, GAI Search Platform - Moveworks | Mountain View, CA... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000125181170) |
 | 🏢 **Oscar Health** | Analytics Engineer I | New York, New Yor... | 16h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7872595?gh_jid=7872595) |
 | 🏢 **Amazon.com Services LLC** | Data Scientist, WW Ops FP&A | Bellevue, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10413691/data-scientist-ww-ops-fp-a) |
 | 🏢 **Apple** | Data Scientist | San Diego | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200661978/data-scientist) |
@@ -104,7 +104,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Reddit** | Data Scientist | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/reddit/jobs/7871499) |
 | 🏢 **Entegris** | Research Scientist, Analytical R&D | Aurora, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Research-Scientist--Analytical-R-D_REQ-11623) |
 | 🏢 **Booz Allen Hamilton** | Agentic AI Machine Learning Engineer | Washington, DC + ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/Agentic-AI-Machine-Learning-Engineer_R0235651) |
-| 🏢 **Trimble** | Data/Analytics Engineer | CO Westminster + ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276) |
+| 🏢 **Trimble** | Data/Analytics Engineer | CO Westminster + ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Analytics-Engineer_R55276) |
 | 🏢 **Cursor** | Data Scientist, Performance and Reliability | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/e46dd189-16d2-4a0f-bfb8-207eb403f92f/application) |
 | 🏢 **Amazon Development Center U.S., Inc.** | Data Scientist, AWS Quick Data | Santa Clara, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411927/data-scientist-aws-quick-data) |
 | 🏢 **Visa** | Data Scientist, AI/ML – Visa Consulting and Analytics | Ashburn, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Data-Scientist--AI-ML---Visa-Consulting-and-Analytics_REF080319W) |
@@ -147,7 +147,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **LinkedIn** | People Analytics Manager - Insights Enablement | Sunnyvale, CA | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125214639) |
+| 🏢 **LinkedIn** | People Analytics Manager - Insights Enablement | Sunnyvale, CA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000125214639) |
 | 🏢 **SoFi** | Communications Manager, Financial Technology | United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://sofi.com/careers/job/7722398003?gh_jid=7722398003) |
 | 🏢 **Stripe** | Risk & Control Health Data Analyst | Remote | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7577621) |
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
