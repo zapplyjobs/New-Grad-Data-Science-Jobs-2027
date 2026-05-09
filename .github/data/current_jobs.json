@@ -1,5 +1,37 @@
 [
   {
+    "job_id": "greenhouse-snorkelai-5973944004",
+    "job_title": "Research Scientist - RL Training",
+    "employer_name": "Snorkel AI",
+    "job_city": "Redwood City",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Redwood City, CA (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+    "job_apply_link": "https://job-boards.greenhouse.io/snorkelai/jobs/5973944004",
+    "job_posted_at_datetime_utc": "2026-05-09T15:00:56.806Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1336076d8e223aa3b453b0dcc52acfa74ba39df0e1a0cb5b33653e4d56a8f935",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote",
+        "hybrid"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-09T15:00:56.806Z"
+  },
+  {
     "job_id": "greenhouse-nuro-7909358",
     "job_title": "Program Manager, Data Quality",
     "employer_name": "Nuro",
