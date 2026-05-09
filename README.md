@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Snorkel AI** | Research Scientist - RL Training | Redwood City, CA ... | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5973944004) |
 | 🏢 **JP Morgan Chase** | Data Scientist Associate | Plano, TX | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426) |
 | 🏢 **Together AI** | Analytics Engineer — Data Warehouse | San Francisco | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5101651007) |
-| 🏢 **OpenAI** | People Data Scientist | San Francisco | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5a3aa817-6606-4490-b73e-c1bec8ba40ff/application) |
+| 🏢 **OpenAI** | People Data Scientist | San Francisco | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/openai/5a3aa817-6606-4490-b73e-c1bec8ba40ff/application) |
 | 🏢 **Airbnb** | Machine Learning Engineer, Relevance and Personalization | United States | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) |
 | 🏢 **Booz Allen Hamilton** | Artificial Intelligence and Machine Learning Engineer | McLean, VA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Artificial-Intelligence-and-Machine-Learning-Engineer_R0239728) |
 | 🏢 **Ibotta** | Data Scientist, Client Data & Measurement | Denver | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Hybrid---Denver/Data-Scientist--Client-Data---Measurement_R-102487) |
@@ -210,9 +210,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Guidehouse** | Data Analytics and Reporting Specialist | MD Rockville + 1 ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Rockville/Data-Analytics-and-Reporting-Specialist_38581) |
 | 🏢 **Leidos** | Intelligence Analyst | Hampton, VA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451) |
 | 🏢 **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | New York, NY | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412277/applied-science-manager-sponsored-products-and-brands) |
-| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
-| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Dallas, Texas, Un... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895868?gh_jid=7895868) |
-| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Tempe, Arizona, U... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895866?gh_jid=7895866) |
+| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Atlanta, Georgia,... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
+| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Dallas, Texas, Un... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895868?gh_jid=7895868) |
+| 🏢 **Oscar Health** | Associate, Provider Data Analytics | Tempe, Arizona, U... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7895866?gh_jid=7895866) |
 | 🏢 **IDEXX** | Data Governance Analyst - Data Catalog | Westbrook, ME + 4... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Data-Stewart---Business-Systems-Analyst--Enterprise-Data-Catalog_J-051457) |
 | 🏢 **KBR** | Elint Analyst | Beavercreek Towns... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Elint-Analyst_R2122944) |
 | 🏢 **Amazon.com Services LLC** | Data Engineer, AIR DABI (Data Analytics and Business Intelligence) | Bellevue, WA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10411675/data-engineer-air-dabi-data-analytics-and-business-intelligence) |
@@ -236,7 +236,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Amazon.com Services LLC** | Data Engineer, PXT Central Science | Seattle, WA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10415447/data-engineer-pxt-central-science) |
+| 🏢 **Amazon.com Services LLC** | Data Engineer, PXT Central Science | Seattle, WA | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10415447/data-engineer-pxt-central-science) |
 | 🏢 **Ibotta** | Data Engineer | Hybrid Denver + 1... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibotta.wd1.myworkdayjobs.com/Ibotta/job/Hybrid---Denver/Data-Engineer_R-102492) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400) |
 | 🏢 **Booz Allen Hamilton** | Data Engineer | Honolulu, HI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843) |
