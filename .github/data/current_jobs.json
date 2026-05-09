@@ -1109,6 +1109,50 @@
     "job_posted_at": "2026-05-08T20:08:09.776Z"
   },
   {
+    "job_id": "workday-leidos-R-00182069",
+    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182861",
     "job_title": "Data Scientist SME Automation Specialist",
     "employer_name": "Leidos",
@@ -1277,50 +1321,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182069",
-    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -2927,6 +2927,120 @@
     "job_posted_at": "2026-05-08T20:05:48.508Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237400",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "c++",
+        "dashboards",
+        "data governance",
+        "data quality",
+        "data visualization",
+        "databricks",
+        "java",
+        "lean",
+        "lean six sigma",
+        "process improvement",
+        "python",
+        "six sigma",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237843",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Honolulu",
+    "job_state": "HI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Honolulu, HI",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "data modeling",
+        "data visualization",
+        "devsecops",
+        "git",
+        "python",
+        "requirements gathering",
+        "typescript"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0239669",
     "job_title": "All-Source Intelligence Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -3051,120 +3165,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237400",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237400",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "c++",
-        "dashboards",
-        "data governance",
-        "data quality",
-        "data visualization",
-        "databricks",
-        "java",
-        "lean",
-        "lean six sigma",
-        "process improvement",
-        "python",
-        "six sigma",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237843",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Honolulu",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Honolulu, HI",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Engineer_R0237843",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f959a583d212ea4f052d5b1fe1a4ee2745b27ce70a56b72940e9e9a66fa7bce7",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "data modeling",
-        "data visualization",
-        "devsecops",
-        "git",
-        "python",
-        "requirements gathering",
-        "typescript"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
       "question_count": null,
       "summary_line": null
     },
@@ -6504,54 +6504,6 @@
     "job_posted_at": "2026-05-06T20:08:09.777Z"
   },
   {
-    "job_id": "workday-leidos-R-00172451",
-    "job_title": "Intelligence Analyst",
-    "employer_name": "Leidos",
-    "job_city": "Hampton",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Hampton, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:39.278Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "senior_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "confluence",
-        "jira",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:07:39.278Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182639",
     "job_title": "Data Scientist - Artificial Intelligence, Cloud & Automation",
     "employer_name": "Leidos",
@@ -6597,6 +6549,54 @@
         "rag",
         "sql",
         "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:07:39.278Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00172451",
+    "job_title": "Intelligence Analyst",
+    "employer_name": "Leidos",
+    "job_city": "Hampton",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hampton, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Intelligence-Analyst_R-00172451",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:39.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "90179867ec6c740013638b1232cfd9a0ca005ef26e414faa0bd6fcf0c3830c13",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "senior_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "confluence",
+        "jira",
+        "reporting"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -7277,6 +7277,120 @@
     "job_posted_at": "2026-05-06T20:05:48.509Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237162",
+    "job_title": "Data Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Beavercreek",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek, OH",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "data quality",
+        "data visualization",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235634",
+    "job_title": "Machine Learning Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 2 more",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "c++",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "generative ai",
+        "java",
+        "langchain",
+        "machine learning",
+        "mcp",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T20:05:48.508Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0239475",
     "job_title": "Agentic AI Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -7534,120 +7648,6 @@
     "job_posted_at": "2026-05-06T20:05:48.508Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237162",
-    "job_title": "Data Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Beavercreek",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Beavercreek, OH",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Data-Analyst_R0237162",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f865d1a60d0135a4df87fff636be3d21b75db6ff74e657bf37081ada3058487f",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "dashboards",
-        "data analysis",
-        "data quality",
-        "data visualization",
-        "python",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235634",
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 2 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Machine-Learning-Engineer_R0235634",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a1ff09b4542d6315452db8e0b1418803a5d827cdd600fbccf0cfb90cbd58b09",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "c++",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "generative ai",
-        "java",
-        "langchain",
-        "machine learning",
-        "mcp",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:05:48.508Z"
-  },
-  {
     "job_id": "workday-caci-325774",
     "job_title": "Splunk Data Analyst",
     "employer_name": "CACI",
@@ -7676,6 +7676,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data analysis",
+        "etl",
+        "python",
+        "splunk"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:05:40.077Z"
   },
   {
@@ -7706,6 +7727,36 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "data analysis",
+        "data science",
+        "etl",
+        "kubernetes",
+        "machine learning",
+        "natural language processing",
+        "pyspark",
+        "python",
+        "pytorch",
+        "r",
+        "sql",
+        "supervised learning",
+        "tensorflow",
+        "vba"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:05:40.077Z"
   },
   {
@@ -7736,6 +7787,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "mil-std",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:05:20.744Z"
   },
   {
@@ -7766,6 +7834,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "matlab",
+        "php",
+        "program management",
+        "python",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:05:20.744Z"
   },
   {
@@ -15711,299 +15801,5 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-02T05:59:05.654Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825290",
-    "job_title": "Associate, Data Analytics (Atlanta, GA- Remote)",
-    "employer_name": "Oscar Health",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, Georgia, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825290?gh_jid=7825290",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d07be7bfecac7137bcf5d48e9f65b3636c447aa1d6220c6176a2bba655daddf",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825287",
-    "job_title": "Associate, Data Analytics (Dallas, TX- Remote)",
-    "employer_name": "Oscar Health",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, Texas, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825287?gh_jid=7825287",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "640ca385696a7a35e8f90e385ae08f6d4c4d1dfea1aa9b371fc7450b55213a1b",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7688263",
-    "job_title": "Associate, Data Analytics (NYC - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7688263?gh_jid=7688263",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d5e65a7c2a7775116a148a3fed791bcadbd6a37b1497de5ec53161f98599296",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7825277",
-    "job_title": "Associate, Data Analytics (Tempe, AZ - Hybrid)",
-    "employer_name": "Oscar Health",
-    "job_city": "Tempe",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Tempe, Arizona, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7825277?gh_jid=7825277",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:52.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13869653c252555027a616e98a2d78367e0fcb105035f6166b3ec7015f275b03",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "healthcare",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "business intelligence",
-        "dashboards",
-        "data visualization",
-        "excel",
-        "google sheets",
-        "looker",
-        "pandas",
-        "python",
-        "r",
-        "reporting",
-        "sql"
-      ],
-      "nice_to_have_skills": [
-        "analytics"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": 12,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:52.402Z"
-  },
-  {
-    "job_id": "greenhouse-doordashusa-5657317",
-    "job_title": "Machine Learning Engineer - ETA Team",
-    "employer_name": "DoorDash",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA",
-    "job_apply_link": "https://job-boards.greenhouse.io/doordashusa/jobs/5657317",
-    "job_posted_at_datetime_utc": "2026-05-02T00:17:43.042Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cb2e41fd72d61a705b634718e61a25f1f9abbc3c7c79016d9def701b5645bcae",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "airflow",
-        "computer science",
-        "deep learning",
-        "llm",
-        "machine learning",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "spark",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 15,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T00:17:43.042Z"
   }
 ]
