@@ -1172,50 +1172,6 @@
     "job_posted_at": "2026-05-08T20:08:09.776Z"
   },
   {
-    "job_id": "workday-leidos-R-00182069",
-    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182861",
     "job_title": "Data Scientist SME Automation Specialist",
     "employer_name": "Leidos",
@@ -1384,6 +1340,50 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182069",
+    "job_title": "Beacon Intelligence Analyst Event - TS/SCI with Polygraph required",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Beacon-Intelligence-Analyst-Event---TS-SCI-with-Polygraph-required_R-00182069",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fc9d11c119517163bf9433cb2e829bec4e31c34215b7e0dd73390ef7e9e4f67",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
@@ -2511,6 +2511,134 @@
     "job_posted_at": "2026-05-08T20:06:12.939Z"
   },
   {
+    "job_id": "workday-capital-one-R240327",
+    "job_title": "Senior Associate, Data Scientist - People Strategy & Analytics",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist_R240327-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e0d3724df7130ac6179732e19eaefa3c53eb977a5babb93342f690e04920d94",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data science",
+        "deep learning",
+        "hugging face",
+        "langchain",
+        "machine learning",
+        "natural language processing",
+        "prompt engineering",
+        "python",
+        "pytorch",
+        "rag",
+        "snowflake",
+        "sql",
+        "statistics",
+        "tensorflow",
+        "transformers"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:59.375Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240328",
+    "job_title": "Principal Associate, Data Scientist - People Strategy & Analytics",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist_R240328-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "76ba7676170da44c49983251682ccb304df2874d508879ec812a902caf27edc4",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data science",
+        "deep learning",
+        "hugging face",
+        "langchain",
+        "machine learning",
+        "natural language processing",
+        "prompt engineering",
+        "python",
+        "pytorch",
+        "rag",
+        "snowflake",
+        "sql",
+        "statistics",
+        "tensorflow",
+        "transformers"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:59.375Z"
+  },
+  {
     "job_id": "workday-capital-one-R240019",
     "job_title": "Manager, Data Scientist - Bureau Data Strategy",
     "employer_name": "Capital One",
@@ -2692,190 +2820,6 @@
     "job_posted_at": "2026-05-08T20:05:59.375Z"
   },
   {
-    "job_id": "workday-capital-one-R240327",
-    "job_title": "Senior Associate, Data Scientist - People Strategy & Analytics",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist_R240327-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e0d3724df7130ac6179732e19eaefa3c53eb977a5babb93342f690e04920d94",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "hugging face",
-        "langchain",
-        "machine learning",
-        "natural language processing",
-        "prompt engineering",
-        "python",
-        "pytorch",
-        "rag",
-        "snowflake",
-        "sql",
-        "statistics",
-        "tensorflow",
-        "transformers"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:59.375Z"
-  },
-  {
-    "job_id": "workday-capital-one-R240328",
-    "job_title": "Principal Associate, Data Scientist - People Strategy & Analytics",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist_R240328-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "76ba7676170da44c49983251682ccb304df2874d508879ec812a902caf27edc4",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data science",
-        "deep learning",
-        "hugging face",
-        "langchain",
-        "machine learning",
-        "natural language processing",
-        "prompt engineering",
-        "python",
-        "pytorch",
-        "rag",
-        "snowflake",
-        "sql",
-        "statistics",
-        "tensorflow",
-        "transformers"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:59.375Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239632",
-    "job_title": "Bioinformatics Business Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0239632",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebaf04ebfd388fbe45caf1965d4b51afa3a0224252980cb7f4916a16fe76f0db",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "azure",
-        "azure devops",
-        "data science",
-        "devops",
-        "jira",
-        "kanban",
-        "scrum",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0239616",
     "job_title": "Data Engineer",
     "employer_name": "Booz Allen Hamilton",
@@ -2988,6 +2932,146 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239632",
+    "job_title": "Bioinformatics Business Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0239632",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebaf04ebfd388fbe45caf1965d4b51afa3a0224252980cb7f4916a16fe76f0db",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "azure",
+        "azure devops",
+        "data science",
+        "devops",
+        "jira",
+        "kanban",
+        "scrum",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239684",
+    "job_title": "Data Engineer",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0239684",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239696",
+    "job_title": "Cyber Threat Intelligence Analyst",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Cyber-Threat-Intelligence-Analyst_R0239696",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1c89d4486be3129bc86d0723174e7631793858408247ad2b27326595200d8aa",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "confluence",
+        "cybersecurity",
+        "jira",
+        "servicenow",
+        "soc",
+        "splunk",
+        "threat modeling"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:05:48.507Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0237400",
@@ -3144,90 +3228,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239684",
-    "job_title": "Data Engineer",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Engineer_R0239684",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "71789731ba63c432516f7e7e72cfcf7e65e577dbe23475d02453639d8cc8c625",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:48.507Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239696",
-    "job_title": "Cyber Threat Intelligence Analyst",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Cyber-Threat-Intelligence-Analyst_R0239696",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.507Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1c89d4486be3129bc86d0723174e7631793858408247ad2b27326595200d8aa",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "confluence",
-        "cybersecurity",
-        "jira",
-        "servicenow",
-        "soc",
-        "splunk",
-        "threat modeling"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
       "question_count": null,
       "summary_line": null
     },
@@ -14347,6 +14347,65 @@
     "job_posted_at": "2026-05-04T07:02:11.692Z"
   },
   {
+    "job_id": "workday-capital-one-R241726",
+    "job_title": "Manager, Data Scientist - Credit Review",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 5 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Credit-Review_R241726-1",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:08.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6fb310e480c94c510aee65698ae00c54a1e495b9cb4930065912a2ce1c3c1b5c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "risk management",
+        "scala",
+        "spark",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-04T07:02:08.882Z"
+  },
+  {
     "job_id": "workday-capital-one-R239958",
     "job_title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
     "employer_name": "Capital One",
@@ -14407,65 +14466,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "entry_level",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-04T07:02:08.882Z"
-  },
-  {
-    "job_id": "workday-capital-one-R241726",
-    "job_title": "Manager, Data Scientist - Credit Review",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 5 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Credit-Review_R241726-1",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:08.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6fb310e480c94c510aee65698ae00c54a1e495b9cb4930065912a2ce1c3c1b5c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "risk management",
-        "scala",
-        "spark",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
       "question_count": null,
       "summary_line": null
     },
