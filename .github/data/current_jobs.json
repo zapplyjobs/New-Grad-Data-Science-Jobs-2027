@@ -1535,128 +1535,6 @@
     "job_posted_at": "2026-05-08T20:06:12.939Z"
   },
   {
-    "job_id": "workday-capital-one-R240975",
-    "job_title": "Machine Learning Engineering - Intelligent Foundations and Experiences (IFX)",
-    "employer_name": "Capital One",
-    "job_city": "Richmond",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Richmond, VA + 1 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Machine-Learning-Engineering---Intelligent-Foundations-and-Experiences--IFX-_R240975-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e87e7879ef50a1229133a68a3a100da9da9c0638fa51f9ba940a387bf55e361c",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "computer science",
-        "continuous deployment",
-        "continuous integration",
-        "dask",
-        "data science",
-        "google cloud",
-        "google cloud platform",
-        "high availability",
-        "java",
-        "machine learning",
-        "python",
-        "pytorch",
-        "scala",
-        "scikit-learn",
-        "spark",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:59.375Z"
-  },
-  {
-    "job_id": "workday-capital-one-R240951",
-    "job_title": "Manager, Data Scientist - US Card DFS Acquisitions",
-    "employer_name": "Capital One",
-    "job_city": "Riverwoods",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Riverwoods, IL + 2 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Manager--Data-Scientist---US-Card-DFS-Acquisitions_R240951",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d4b51b414b496f3e3926adb4cac7190b6b02191329a9ecf9a582489930269760",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:59.375Z"
-  },
-  {
     "job_id": "workday-capital-one-R240327",
     "job_title": "Senior Associate, Data Scientist - People Strategy & Analytics",
     "employer_name": "Capital One",
@@ -1778,62 +1656,6 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:59.375Z"
-  },
-  {
-    "job_id": "workday-capital-one-R240019",
-    "job_title": "Manager, Data Scientist - Bureau Data Strategy",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 1 more",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R240019-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:59.375Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e40b1977a8fd97fcf0abf14b73ba9c7d933cec3f7d3e47c850cd83e0a408a160",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "computer science",
-        "data analysis",
-        "data science",
-        "machine learning",
-        "python",
-        "r",
-        "scala",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
       "question_count": null
     },
     "job_posted_at": "2026-05-08T20:05:59.375Z"
@@ -3974,6 +3796,184 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-07T17:42:36.589Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240019",
+    "job_title": "Manager, Data Scientist - Bureau Data Strategy",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA + 1 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R240019-1",
+    "job_posted_at_datetime_utc": "2026-05-07T16:31:16.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e40b1977a8fd97fcf0abf14b73ba9c7d933cec3f7d3e47c850cd83e0a408a160",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "computer science",
+        "data analysis",
+        "data science",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T16:31:16.726Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240975",
+    "job_title": "Machine Learning Engineering - Intelligent Foundations and Experiences (IFX)",
+    "employer_name": "Capital One",
+    "job_city": "Richmond",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Richmond, VA + 1 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Machine-Learning-Engineering---Intelligent-Foundations-and-Experiences--IFX-_R240975-1",
+    "job_posted_at_datetime_utc": "2026-05-07T16:31:16.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e87e7879ef50a1229133a68a3a100da9da9c0638fa51f9ba940a387bf55e361c",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "dask",
+        "data science",
+        "google cloud",
+        "google cloud platform",
+        "high availability",
+        "java",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scala",
+        "scikit-learn",
+        "spark",
+        "tensorflow"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T16:31:16.726Z"
+  },
+  {
+    "job_id": "workday-capital-one-R240951",
+    "job_title": "Manager, Data Scientist - US Card DFS Acquisitions",
+    "employer_name": "Capital One",
+    "job_city": "Riverwoods",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Riverwoods, IL + 2 more",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Manager--Data-Scientist---US-Card-DFS-Acquisitions_R240951",
+    "job_posted_at_datetime_utc": "2026-05-07T16:31:16.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d4b51b414b496f3e3926adb4cac7190b6b02191329a9ecf9a582489930269760",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "unknown",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "r",
+        "scala",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T16:31:16.726Z"
   },
   {
     "job_id": "greenhouse-sofi-7722398003",
@@ -6214,7 +6214,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556652525",
     "job_posted_at_datetime_utc": "2026-05-06T13:54:49.000Z",
-    "job_employment_type": "full_time",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7fc63e40901d9dac3d79000702050e338e7c530d008c98ca2a3a378e5d3ce3eb",
     "tags": {
@@ -9001,13 +9001,13 @@
       ],
       "sponsors_visa": null,
       "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
       "is_remote": true,
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 13
+      "question_count": null
     },
     "job_posted_at": "2026-05-05T19:46:57.812Z"
   },
@@ -9169,64 +9169,6 @@
     "job_posted_at": "2026-05-05T19:17:39.675Z"
   },
   {
-    "job_id": "workday-capital-one-R239843",
-    "job_title": "Principal Associate, Data Scientist, SBB Fraud",
-    "employer_name": "Capital One",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science_R239843-2",
-    "job_posted_at_datetime_utc": "2026-05-05T19:02:13.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e161d08099f0356623d3606642fba8886bdcf1403cb307b0cda386e8549759a5",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science",
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "classification",
-        "computer science",
-        "dask",
-        "data science",
-        "deep learning",
-        "embeddings",
-        "machine learning",
-        "python",
-        "spark",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "mid_level",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T19:02:13.112Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0232783",
     "job_title": "Data Visualization Analyst",
     "employer_name": "Booz Allen Hamilton",
@@ -9333,7 +9275,7 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 11
+      "question_count": 12
     },
     "job_posted_at": "2026-05-05T18:03:44.000Z"
   },
@@ -9549,9 +9491,67 @@
       "has_description": true,
       "min_degree": "bachelors",
       "experience_level_from_desc": "mid_level",
-      "question_count": 3
+      "question_count": 1
     },
     "job_posted_at": "2026-05-05T16:46:32.904Z"
+  },
+  {
+    "job_id": "workday-capital-one-R239843",
+    "job_title": "Principal Associate, Data Scientist, SBB Fraud",
+    "employer_name": "Capital One",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate--Data-Science_R239843-2",
+    "job_posted_at_datetime_utc": "2026-05-05T16:31:16.727Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e161d08099f0356623d3606642fba8886bdcf1403cb307b0cda386e8549759a5",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "classification",
+        "computer science",
+        "dask",
+        "data science",
+        "deep learning",
+        "embeddings",
+        "machine learning",
+        "python",
+        "spark",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "mid_level",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T16:31:16.727Z"
   },
   {
     "job_id": "greenhouse-lyft-8536085002",
@@ -14545,59 +14545,6 @@
     "job_posted_at": "2026-05-04T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
-    "job_title": "Applied Scientist, Customer Behavior Analytics",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
-    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "mid_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "java",
-        "machine learning",
-        "python"
-      ],
-      "nice_to_have_skills": [
-        "deep learning"
-      ],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "masters",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-04T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-3b1c6303-b2e5-4afa-b5f7-3e7711cedd07",
     "job_title": "Applied Scientist, AWS Marketplace & Partner Services",
     "employer_name": "Amazon Web Services, Inc.",
@@ -14650,6 +14597,59 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-f339852a-0ada-4e8a-9b8e-dc1683cef08f",
+    "job_title": "Applied Scientist, Customer Behavior Analytics",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10410096/applied-scientist-customer-behavior-analytics",
+    "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c44d449ddd203e9cecc0f53ef9db2a5beb4f4101b5b266ef893fdb22e3a54962",
+    "tags": {
+      "employment": "entry_level",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "mid_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "java",
+        "machine learning",
+        "python"
+      ],
+      "nice_to_have_skills": [
+        "deep learning"
+      ],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
       "experience_level_from_desc": null,
       "question_count": null
     },
