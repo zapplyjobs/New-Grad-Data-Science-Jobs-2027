@@ -167,7 +167,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Nuro** | Program Manager, Data Quality | Mountain View, Ca... | 20h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7909358) |
+| 🏢 **Nuro** | Program Manager, Data Quality | Mountain View, Ca... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7909358) |
 | 🏢 **Discord** | Recruiting Data Analyst | San Francisco Bay... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/discord/jobs/8523903002) |
 | 🏢 **CrowdStrike** | Intelligence Analyst - Falcon Recon (Remote) | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Analyst---Falcon-Recon--Remote-_R28733) |
 | 🏢 **PIMCO** | Data Analyst, Transaction Management | Newport Beach, CA... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Data-Analyst--Transaction-Management_R106416) |
@@ -203,8 +203,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GE Vernova** | Mechanical Product Data Specialist | Charleroi USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Charleroi-USA/Mechanical-Product-Data-Specialist_R5040942) |
 | 🏢 **GE Vernova** | Electrical Data Specialist - ECAD | Charleroi USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Charleroi-USA/Electrical-Data-Specialist---ECAD_R5040943-2) |
 | 🏢 **JP Morgan Chase** | Client Data Analyst | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740918) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher | Ardmore, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
 | 🏢 **Veeva Systems** | Marketing Analytics - Data Analyst - Adp | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher | Ardmore, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9435/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Researcher - Master's: 2026 | United States | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/9438/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | HR Data Analyst - Operations Analyst Program | Ardmore, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false) |
 | 🏢 **Guidehouse** | Data Analytics and Reporting Specialist | MD Rockville + 1 ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Rockville/Data-Analytics-and-Reporting-Specialist_38581) |
