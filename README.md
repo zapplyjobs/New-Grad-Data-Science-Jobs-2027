@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-606-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-604-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -516,7 +516,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 606 current opportunities from 221 companies**
+**🎯 604 current opportunities from 221 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
