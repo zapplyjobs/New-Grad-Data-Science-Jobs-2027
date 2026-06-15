@@ -40,5 +40,8 @@ module.exports = {
   },
 
   // Job categorization
-  defaultCategory: 'data_analyst'  // Broadest DS fallback — reduces wrong-section display
+  defaultCategory: 'data_analyst',  // Broadest DS fallback — reduces wrong-section display
+
+  // Data filter (single source of truth — imported by index.js and update-readme-only.js)
+  filters: { domains: ['data_science'], locations: ['us'] }
 };

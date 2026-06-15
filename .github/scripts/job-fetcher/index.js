@@ -17,6 +17,7 @@ const fs = require('fs');
 const path = require('path');
 const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
 const { updateReadme } = require('./readme-generator');
+const config = require('./config');
 
 const dataDir = path.join(process.cwd(), '.github', 'data');
 
@@ -27,7 +28,7 @@ async function main() {
 
     // Fetch data science jobs from aggregator
     const consumer = createAggregatorConsumer({
-      filters: { domains: ['data_science'], locations: ['us'] },
+      filters: config.filters,
       verbose: true
     });
 
