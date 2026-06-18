@@ -43,7 +43,7 @@ module.exports = {
   defaultCategory: 'data_analyst',  // Broadest DS fallback — reduces wrong-section display
 
   // Data filter (single source of truth — imported by index.js and update-readme-only.js)
-  filters: { domains: ['data_science'], locations: ['us'] }
+  filters: { domains: ['data_science'], locations: ['us'] },
   // Active window for current_jobs.json (days) — read by write-current-jobs.js
   activeWindowDays: 14
 };
