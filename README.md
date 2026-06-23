@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Banner -->
-<img src="images/dsj-heading.png" alt="Data Science Jobs 2027 - Illustration of people working in data science.">
+<!-- Cover -->
+<img src="images/covers/cover.png" alt="Data Science Jobs 2027 - Illustration of people working in data science.">
 
 # Data Science Jobs 2027
 
