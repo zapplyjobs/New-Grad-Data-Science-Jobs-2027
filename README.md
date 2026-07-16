@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-959-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-480-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-210-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-953-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-474-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-209-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,16 +66,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Thermo Fisher Scientific** | Bioinformatics Scientist | Pleasanton, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Bioinformatics-Scientist_R-01360077) |
 | **Thermo Fisher Scientific** | Data Scientist III, Behavioral Market... | Carlsbad Californ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Data-Scientist-III--Behavioral-Marketing-Analytics---Customer-Insights-_R-01359096) |
-| **HPE (University)** | Data Scientist | Spring, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-1) |
+| **Thermo Fisher Scientific** | Bioinformatics Scientist | Pleasanton, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Bioinformatics-Scientist_R-01360077) |
 | **HPE** | Data Scientist | Spring, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-3) |
 | **Allstate** | Applied Machine Learning Engineer (Al... | IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1) |
+| **HPE (University)** | Data Scientist | Spring, Texas, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Scientist_1207756-1) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Research Scientist Graduate (AI Agent... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7626145948402010421) |
 | **Google** | Research Scientist, Verified Code Gen... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74228083732685510) |
-| **Verizon** | Marketing Data Science | Irving Texas + 1 ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Marketing-Data-Science_R-1094342) |
 | **Snap** | Data Scientist, Level 4 | Los Angeles Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wd1.myworkdaysite.com/snap/job/Los-Angeles-California/Data-Scientist--Level-4_R0045965-1) |
 | **Apple** | Machine Learning Engineer, Natural La... | Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672639/machine-learning-engineer-natural-language-understanding-proactive) |
 | **Leland** | Data Science Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/ce339c97-5d8d-44c5-9fd3-93ad205f541d/application) |
@@ -98,9 +97,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Development Center U.S., Inc.** | Applied Scientist, Applied AI Solutions | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475578/applied-scientist-applied-ai-solutions) |
 | **Amazon Development Center U.S., Inc.** | Sr Applied Scientist, Responsible AI | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475416/sr-applied-scientist-responsible-ai) |
 | **ONE Finance** | Analytics Engineer | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/oneapp/4ca0b7d4-60a9-48ac-b34a-575630063714/application) |
+| **FOX** | Machine Learning Engineer I | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083) |
 | **HPE (University)** | HPE Labs – AI/ML Research Scientist III | Milpitas, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-ML-Research-Scientist-III_1209875-2) |
 | **HPE (University)** | HPE Labs - Postdoctoral Research Scie... | Milpitas, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Postdoctoral-Research-Scientist_1208145) |
-| **FOX** | Machine Learning Engineer I | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083) |
 | **Expedia Group** | Machine Learning Scientist II | California San Jo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895) |
 | **Warner Bros. Discovery** | Machine Learning Engineer II, CNN Dig... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Machine-Learning-Engineer-II--CNN-Digital-Products-and-Services_R000105236) |
 | **Warner Bros. Discovery** | Machine Learning Engineer I | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Machine-Learning-Engineer-I_R000100421) |
@@ -136,7 +135,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Takeda** | Head of AI and Data Science Foundation | Cambridge, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Cambridge-MA/Head-of-AI-and-Data-Science-Foundation_R0183728-1) |
 | **Federal Reserve System** | Data Scientist Associate/I/II | Cleveland, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/frs/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588) |
 | **The Federal Reserve System** | Data Scientist Associate/I/II | Cleveland, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588) |
-| **Boeing** | Atmospheric Scientist (Associate or M... | Kirtland AFB, NM ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1) |
 | **Boys Town** | Research Scientist I- Institute of Hu... | Omaha, NE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boystown.wd1.myworkdayjobs.com/boystowncareers/job/Omaha-NE/Research-Scientist-I_REQ-2026-8807-1) |
 | **University System of New Hampshire** | Research Scientist II | Main | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Scientist-II_JR8547-1) |
 | **Merck & Co.** | Assoc. Scientist, Post Doc Fellow- Da... | Massachusetts | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Assoc-Scientist--Post-Doc-Fellow--Data-Science-for-Multi-omics-and-Biomarker-Modeling-in-Neuroscience_R386368-1) |
@@ -152,13 +150,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Twitch** | Data Scientist | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625665002) |
 | **Twitch** | Data Scientist | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8623477002) |
 | **Moderna** | Scientist, Process Development (Formu... | Norwood, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Scientist--Process-Development--Formulation-_R19218) |
-| **Coca-Cola** | Data Scientist – Global Equipment Pla... | GA Atlanta + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Scientist---Global-Equipment-Platforms--Coca-Cola-GEP-_R-143205) |
 | **Elevance Health** | AI Machine Learning Scientist | 3 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/AI-Machine-Learning-Scientist_JR191030) |
+| **Coca-Cola** | Data Scientist – Global Equipment Pla... | GA Atlanta + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Scientist---Global-Equipment-Platforms--Coca-Cola-GEP-_R-143205) |
 | **Danaher** | Scientist | Cortland, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Cortland-New-York-United-States/Scientist_R1314256) |
 | **Pfizer** | Associate Data Manager, Clinical Data... | Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Associate-Data-Manager--Clinical-Data-Sciences_4960329-1) |
 | **Guidehouse** | Data Scientist | VA, Norfolk | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Norfolk/Data-Scientist_41677) |
 | **Generac** | Data Science Analyst | Waukesha, WI - USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Data-Science-Analyst_JR15318) |
-| **Boeing** | Associate Engineering Data Scientist | Tukwila, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Engineering-Data-Scientist_JR2026516507-1) |
 | **Target** | Sr Machine Learning Engineer - Market... | 7000 Target Pkwy ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Machine-Learning-Engineer---Marketing-and-Corporate-Systems--ML-Ops-_R0000440100) |
 | **Red Hat** | Machine Learning Engineer | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Engineer_R-058400) |
 | **Honeywell** | Advanced Data Scientist | Atlanta, GA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/141167) |
@@ -166,6 +163,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NBCUniversal** | Jr. Data Scientist, Business Analytic... | Universal City, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136567229) |
 | **Wellmark, Inc.** | Data Science Consultant - Pharmacy | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511728) |
 | **Wellmark, Inc.** | Data Science Associate | Des Moines, IA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WellmarkInc/744000136511169) |
+| **Yahoo** | Sr Research Scientist | United States of ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Sr-Research-Scientist_JR0026878) |
+| **Guidehouse** | Health AI ML Data Scientist | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Health-AI-ML-Data-Scientist_41653) |
+| **GDIT** | Data Scientist Mid | USA NC Fort Bragg | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Data-Scientist-Mid_RQ223494-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -178,11 +178,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Takeda** | Associate Director, Clinical Data Ena... | Virtual | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Massachusetts---Virtual/Associate-Director--Clinical-Data-Enablement_R0184247) |
+| **State Street** | Data Engineer - Cloud & Analytics, Of... | Boston Massachuse... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Senior-Data-Engineer---Cloud---Analytics--Officer---State-Street-Investment-Management_R-789304-1) |
+| **State Street** | Data Analytics & Management, AVP | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--AVP_R-788153) |
+| **State Street** | Data Analytics & Management, VP | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--VP_R-788152) |
 | **Coca-Cola** | Consultant, Audit Data Analyst | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Consultant--Audit-Data-Analyst_R-143598) |
+| **Boeing** | Business Intelligence Analyst | Auburn, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Business-Intelligence-Analyst_JR2026518053-1) |
 | **Fidelity Investments** | Manager, Data Analytics and Insights | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Manager--Data-Analytics-and-Insights_2132379) |
 | **The Hartford** | Sr Business Data Analyst | Hartford, CT + 3 ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Business-Data-Analyst_R2625540-1) |
 | **Guidehouse** | Data Analyst (Visualization) | VA, Arlington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Analyst--Visualization-_41326) |
-| **Boeing** | Business Intelligence Analyst | Auburn, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Business-Intelligence-Analyst_JR2026518053-1) |
 | **CACI** | Data Analyst | Washington, DC, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/Data-Analyst_308688-1) |
 | **CACI** | Cyber Data Analyst Engineer III | Springfield, VA, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Springfield-VA-US/Cyber-Data-Analyst-Engineer-III_323397) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
@@ -196,9 +199,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wash U** | Bioinformatics Research Analyst (Hybr... | Washington Univer... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Bioinformatics-Research-Analyst--Hybrid----Neurology_JR95794-1) |
 | **Zoetis** | Statistician | Remote, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-MI-Remote/Statistician_JR00021187-2) |
 | **BMO** | Operations Data Analytics Specialist | Irving, TX + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Operations-Data-Analytics-Specialist_R260019829-1) |
-| **State Street** | Data Engineer - Cloud & Analytics, Of... | Boston Massachuse... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Senior-Data-Engineer---Cloud---Analytics--Officer---State-Street-Investment-Management_R-789304-1) |
-| **State Street** | Data Analytics & Management, AVP | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--AVP_R-788153) |
-| **State Street** | Data Analytics & Management, VP | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--VP_R-788152) |
 | **GDIT** | Junior Intelligence Analyst - Onsite ... | USA VA Vienna | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Vienna/Junior-Intelligence-Analyst---Onsite---Active-Top-Secret-required_RQ217410-2) |
 | **Franklin Templeton** | AI Research Analyst (AI & Digital Ass... | San Mateo, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/San-Mateo-California-United-States-of-America/AI-Research-Analyst--AI---Digital-Asset-Solutions---US-_868402-2) |
 | **Cigna** | Strategy & Analytics Advisor, C&CE - ... | United States Wor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Strategy---Analytics-Advisor---Evernorth---Remote_26003149) |
@@ -226,8 +226,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Quantitative Intelligence Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/5834b531-bb89-4471-9253-8c30bc0b26a8/application) |
 | **Bosch Group** | Engineer Data (Multiple Positions) (R... | Charleston, SC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137671373) |
 | **Moderna** | Associate Director, Process Developme... | Norwood, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Associate-Director--Process-Development--Fermentation-_R19239) |
-| **Medtronic** | Quality Applications Manager - Qualit... | 9 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Quality-Applications-Manager---Quality-Data-Analytics_R71935-1) |
-| **Medtronic** | Business Process Improvement Manager ... | 5 Locations | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fort-Worth-Texas-United-States-of-America/Business-Process-Improvement-Manager---Operational-Excellence--OpEx-_R68102-1) |
 | **Disney** | Manager, Decision Science Products | Burbank, CA + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Manager--Decision-Science-Products_10141554) |
 | **Fidelity Investments** | Manager, Compensation Data and Analytics | Smithfield, RI + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Manager--Compensation-Data-and-Analytics_2130142-1) |
 | **NREL** | Graduate (6-12 month) Intern - Data C... | Golden, CO + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--6-12-month--Intern---Data-Center-Load-Modeling-for-Transmission-Planning-Studies_R14384) |
@@ -267,7 +265,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Moderna** | Digital Enablement Analyst | Cambridge, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/AI-Enablement-Analyst_R19424) |
 | **Fidelity Investments** | Manager, Advanced Data Analytics and ... | Smithfield, RI + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Manager--Advanced-Data-Analytics-and-Insights_2131991) |
 | **The Hartford** | Vice President, Applied AI Science fo... | Hartford, CT + 3 ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Vice-President--Applied-AI-Science-for-EB--Ops--and-Customer_R2625965) |
-| **Boeing** | Business Intelligence Analyst – Assoc... | Tukwila, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Business-Intelligence-Analyst---Associate-or-Mid-Level_JR2026518485-1) |
 | **Trimble** | Data Engineer - Customer Insights & A... | CO Westminster + ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Data-Engineer--Customer-Insights---Analytics_R54035) |
 | **Unisys** | Digital Intelligence Analyst | Remote, PA, Unite... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Digital-Intelligence-Analyst_REQ574346) |
 | **Synchrony** | VP, Amazon Analytics | NYC Bryant Park H... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/NYC-Bryant-Park-Hub/VP--Amazon-Analytics_2601936-1) |
@@ -277,6 +274,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICF** | On-Call Field Archaeologist - Puget S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Seattle-WA/On-Call-Field-Archaeologist---Puget-Sound---Seattle_R2602378) |
 | **Amazon.com Services LLC** | Data Engineer II, OIS/CXI Analytics, ... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471482/data-engineer-ii-ois-cxi-analytics-ops-tech-solution-network-dev) |
 | **Citizens Financial Group** | Equity Research Analyst -(Westwood, M... | Westwood, MA, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/46690) |
+| **JPMorgan Chase** | Software Engineer III-Databricks | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210766318) |
+| **JP Morgan Chase** | Software Engineer III-Databricks | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766318) |
+| **Oura** | Clinical Research Coordinator | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oura/jobs/4311141009) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -547,7 +547,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 959 current opportunities from 210 companies**
+**🎯 953 current opportunities from 209 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
