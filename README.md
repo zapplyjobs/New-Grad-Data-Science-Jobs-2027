@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-930-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-927-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-469-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-217-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-216-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -206,7 +206,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astreya** | Business Analyst III | Remote, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Business-Analyst-III_R0016252) |
 | **Peloton** | Manager, Data Analytics, Performance ... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8053428) |
 | **Coinbase** | Global Intelligence Analyst | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.coinbase.com/careers/positions/8067617?gh_jid=8067617) |
-| **Clarity Innovations** | Data Manager | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165168007) |
 | **Wolters Kluwer** | Manager,  Business Analysis, Reporting | New York City, NY... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Manager---Business-Analysis--Reporting_R0056226) |
 | **BMO** | Head, Responsible AI & Governance | Chicago, IL + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Head--Responsible-AI---Governance_R260020984-1) |
 | **BMO** | Operations Data Analytics Specialist | Irving, TX + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Operations-Data-Analytics-Specialist_R260019829-1) |
@@ -246,6 +245,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DRW** | Quantitative Researcher | Chicago, New York... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/8030406) |
 | **DRW** | Quantitative Research Intern | Chicago, New York... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | **Clarity Innovations** | Data Manager | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165135007) |
+| **Clarity Innovations** | Data Integrator | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165229007) |
 | **Wolters Kluwer** | Associate Business Systems Analyst, T... | Riverwoods, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Associate-Business-Systems-Analyst--Tax---Accountingt_R0058566) |
 | **NREL** | Graduate (6-12 month) Intern - Data C... | Golden, CO + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--6-12-month--Intern---Data-Center-Load-Modeling-for-Transmission-Planning-Studies_R14384) |
 | **Moderna** | Associate Director, Corporate Financi... | Cambridge, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Associate-Director--Corporate-Financial-Planning---Analysis_R18808-1) |
@@ -536,7 +536,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 930 current opportunities from 217 companies**
+**🎯 927 current opportunities from 216 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
