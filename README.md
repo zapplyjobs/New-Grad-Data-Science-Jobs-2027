@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-963-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-964-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-486-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-218-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-219-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Freedom Technology Solutions Group** | Data Scientist 728 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189780007) |
-| **Freedom Technology Solutions Group** | Machine Learning Engineer 727 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **Google** | Research Scientist, Verified Code Gen... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/74228083732685510) |
+| **Freedom Technology Solutions Group** | Data Scientist 728 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189780007) |
+| **Freedom Technology Solutions Group** | Machine Learning Engineer 727 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007) |
 | **Amazon.com Services LLC** | Applied Scientist, Sponsored Products... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477372/applied-scientist-sponsored-products-off-search-auction) |
 | **Captivation** | Artificial Intelligence Machine Learn... | Annapolis Junctio... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5362330008) |
 | **Eurofins** | Machine Learning Engineer II | Saint Charles, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000138205109) |
@@ -177,11 +177,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Leland** | Quantum Computing Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/dbdfd0e6-d3b8-4a60-9115-14c69bc8a2d5/application) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
 | **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
 | **Google** | Commercial Strategy and Operations Ma... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91861600247390918) |
+| **Leland** | Quantum Computing Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/dbdfd0e6-d3b8-4a60-9115-14c69bc8a2d5/application) |
 | **Arch Capital Group** | Claims Data Quality Analyst | Home Base, NJ + 6... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-NJ/Claims-Data-Quality-Analyst_R26_331) |
 | **Arch Capital Group** | Manager, AI & Automation Engineering ... | Home Base, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-NC/Manager--AI---Automation-Engineering--Remote--EST-Hours-_R26_659) |
 | **Booz Allen Hamilton** | Counterproliferation All-Source Intel... | Reston, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Counterproliferation-All-Source-Intelligence-Analyst_R0244651-1) |
@@ -396,9 +396,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7515571512419338514) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538929248565381383) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7527426391449864466) |
+| **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
+| **Google** | Engineering Manager, Borglet Machine ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116852004898120390) |
 | **Google** | Cloud Data and AI Engineer, Professio... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131392860418122438) |
-| **Google** | Applied AI Engineer, Audio, XR | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/110832846603461318) |
-| **Google** | Photonic Engineer, Machine Learning | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/93379480344502982) |
 | **Apple** | Engineering Manager, Machine Learning... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671833/engineering-manager-machine-learning-nlp-input-experience) |
 | **Apple** | AI Engineering Program Manager, WW Sa... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671777/ai-engineering-program-manager-ww-sales-enablement-and-transformation) |
 | **Johnson Controls** | Ai Engineer | Wisconsin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Ai-Engineer_WD30274340) |
@@ -409,6 +409,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bracebridge Capital** | Machine Learning Analyst | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) |
 | **RELX** | Sr AI Engineer (RAG Specialist with S... | Raleigh, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Raleigh-NC/Sr-AI-Engineer--RAG-Specialist-with-Strong-Python-Skills-_R116012-1) |
 | **TD Synnex** | Physical AI Engineer – Simulation & S... | Clearwater, Flori... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Clearwater-Florida-United-States/Physical-AI-Engineer_R50658) |
+| **Anduril** | RFML Engineer, EW | Costa Mesa, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5187241007?gh_jid=5187241007) |
 | **Amazon Development Center U.S., Inc.** | Program Manager, Marketing Ops, Machi... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475669/program-manager-marketing-ops-machine-learning-university) |
 | **Handshake** | Director, Applied Machine Learning | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/handshake/4acb4e8d-7c1b-4949-9d1f-631730a3bafc/application) |
 | **Citi** | AI/ML Engineer - Engineering Excellen... | Irving Texas Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/AI-ML-Engineer---Engineering-Excellence--Full-Stack-Developer-_26972927) |
@@ -543,7 +544,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 963 current opportunities from 218 companies**
+**🎯 964 current opportunities from 219 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
