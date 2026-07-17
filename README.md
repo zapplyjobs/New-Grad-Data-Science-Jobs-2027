@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-961-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-484-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-218-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-964-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-486-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-219-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Freedom Technology Solutions Group** | Data Scientist 728 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189780007) |
+| **Freedom Technology Solutions Group** | Machine Learning Engineer 727 | St. Louis, MO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freedomconsulting/jobs/5189747007) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Federal Reserve System** | Data Scientist Associate/I/II | Cleveland, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/frs/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588) |
 | **Adobe** | Applied Scientist | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R169898) |
 | **Twitch** | Data Scientist | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625664002) |
-| **Twitch** | Data Scientist | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625665002) |
-| **Twitch** | Data Scientist | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8623477002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Leland** | Quantum Computing Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/dbdfd0e6-d3b8-4a60-9115-14c69bc8a2d5/application) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
 | **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Accenture Federal Services** | SAP GRC (Governance, Risk, and Compli... | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695984006?gh_jid=4695984006) |
 | **Oura** | Clinical Trial Manager | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oura/jobs/4309908009) |
 | **Accenture Federal Services** | SAP BW/4HANA Implementation Consultant | Washington, DC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695837006?gh_jid=4695837006) |
-| **The Hartford** | Vice President, Applied AI Science fo... | Hartford, CT + 3 ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Vice-President--Applied-AI-Science-for-EB--Ops--and-Customer_R2625965) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -544,7 +544,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 961 current opportunities from 218 companies**
+**🎯 964 current opportunities from 219 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
