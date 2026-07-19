@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-925-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-468-informational?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-905-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-449-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-219-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -91,8 +91,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | Data Scientist - Security Automation | Linthicum, MD, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Linthicum-MD-US/Data-Scientist---Security-Automation_327930) |
 | **Applied Materials** | Machine Learning Engineer | Santa Clara,CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Machine-Learning-Engineer_R2622125) |
 | **Allegion** | Associate Analytics Engineer | Carmel, IN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667) |
-| **Amazon.com Services LLC** | Applied Scientist, SP Support Science | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476413/applied-scientist-sp-support-science) |
 | **Amazon.com Services LLC** | Applied Scientist, SPX AI Lab | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476778/applied-scientist-spx-ai-lab) |
+| **Amazon.com Services LLC** | Applied Scientist, SP Support Science | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476413/applied-scientist-sp-support-science) |
 | **Veeva Systems** | Data Scientist | Boston | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/e38ab928-18d3-4907-901e-e3dc889aab1c/apply) |
 | **Parsons** | Data Scientists - TS/SCI with Poly re... | MD, Annapolis Jun... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Annapolis-Junction/Data-Scientists---TS-SCI-with-Poly-required_R182158) |
 | **Leland** | Data Science Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/ce339c97-5d8d-44c5-9fd3-93ad205f541d/application) |
@@ -164,8 +164,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **The Federal Reserve System** | Data Scientist Associate/I/II | Cleveland, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588) |
 | **Federal Reserve System** | Data Scientist Associate/I/II | Cleveland, OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://rb.wd5.myworkdayjobs.com/frs/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588) |
 | **Adobe** | Applied Scientist | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist_R169898) |
-| **Twitch** | Data Scientist | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625664002) |
 | **Twitch** | Data Scientist | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625665002) |
+| **Twitch** | Data Scientist | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8625664002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -179,7 +179,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
-| **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
 | **Google** | Commercial Strategy and Operations Ma... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91861600247390918) |
 | **Amazon.com Services LLC** | Manager III, Applied Science, PXT Cen... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478042/manager-iii-applied-science-pxt-central-science) |
 | **Illumio** | People Analytics & Systems Program Ma... | Sunnyvale, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/illumio/88d914a8-2124-4777-82b9-5912e554df6a/application) |
@@ -277,6 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PNC Financial Services** | Business Analytics Consultant  - Pega... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant----Pega-Customer-Decision-Hub_R228306-2) |
 | **BMO** | Manager, Consumer Risk Portfolio Mana... | Chicago, IL, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Manager--Consumer-Risk-Portfolio-Management_R260019425) |
 | **Guidehouse** | Data Analyst/FM Product Consultant | VA McLean + 3 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Data-Analyst-FM-Product-Consultant_41716) |
+| **NREL** | Research Technician - Building Energy... | Golden, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Research-Technician---Building-Energy-Sciences_R14278) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -534,7 +534,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 925 current opportunities from 219 companies**
+**🎯 905 current opportunities from 219 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
