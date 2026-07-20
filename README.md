@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-941-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-942-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-477-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -236,7 +236,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CACI** | E Discovery-IT Data Analyst | Washington, DC, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/E-Discovery-IT-Data-Analyst_328827) |
 | **Astreya** | Business Analyst I | Remote, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/Business-Analyst-IV_R0015770) |
 | **LLNL** | Intelligence Analyst: Z Program | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014094096) |
-| **AbbVie** | Associate Director, International Mar... | Mettawa, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014093836) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Res... | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Scopely** | Data Analyst - Marvel Strike Force | Canada; US, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) |
 | **Faire** | Strategy & Analytics Experimentation ... | New York City, NY... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8632193002?gh_jid=8632193002) |
@@ -277,6 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Director, Analytics, New Verticals Co... | New York, NY; San... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8052254) |
 | **FanDuel** | Campaign Analytics, Data Analyst | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fanduel.careers/open-positions?gh_jid=8055746) |
 | **PNC Financial Services** | Business Analytics Manager | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Analytics-Manager_R226853-1) |
+| **PNC Financial Services** | Business Analytics Consultant  - Pega... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant----Pega-Customer-Decision-Hub_R228306-2) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,6 +288,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Accenture Federal Services** | Google Cloud Platform (GCP) Data Engi... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695183006?gh_jid=4695183006) |
+| **Accenture Federal Services** | Google Cloud Platform (GCP) Data Engi... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4695125006?gh_jid=4695125006) |
 | **Veolia Environnement SA** | Data Engineer | Paramus, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000138692959) |
 | **Alo Yoga** | Manager of Data Engineering | Beverly Hills, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/6119207004?gh_jid=6119207004) |
 | **Redwood Materials** | Data Engineering Manager | McCarran, NV | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) |
@@ -534,7 +536,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 941 current opportunities from 222 companies**
+**🎯 942 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
