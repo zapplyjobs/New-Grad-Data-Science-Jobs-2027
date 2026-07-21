@@ -19,7 +19,7 @@
 
 ![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-932-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-469-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-221-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-222-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -177,6 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Cartesia** | Engineering Manager, Data | * | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cartesia/6f65b698-4c1d-4439-9990-2a31c847dd21/application) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
 | **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Director, Analytics, New Verticals Co... | New York, NY; San... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8052254) |
 | **FanDuel** | Campaign Analytics, Data Analyst | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fanduel.careers/open-positions?gh_jid=8055746) |
 | **PNC Financial Services** | Business Analytics Manager | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Analytics-Manager_R226853-1) |
-| **PNC Financial Services** | Business Analytics Consultant  - Pega... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant----Pega-Customer-Decision-Hub_R228306-2) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -535,7 +535,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 932 current opportunities from 221 companies**
+**🎯 932 current opportunities from 222 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
