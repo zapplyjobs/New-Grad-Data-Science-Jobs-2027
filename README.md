@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-905-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-902-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-456-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -187,8 +187,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zoox** | Part-Time Student Worker - Data Analyst | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9/apply) |
 | **AbbVie** | Manager, Analytics and Market Research | Mettawa, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014184526) |
 | **Stripe** | Security Analyst, Bug Bounty | Remote, North Ame... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8070570) |
-| **JPMorgan Chase** | Asset Management - Securitized Credit... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210718972) |
-| **JP Morgan Chase** | Asset Management - Securitized Credit... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718972) |
 | **Amazon.com Services LLC** | Manager III, Applied Science, PXT Cen... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478042/manager-iii-applied-science-pxt-central-science) |
 | **Illumio** | People Analytics & Systems Program Ma... | Sunnyvale, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/illumio/88d914a8-2124-4777-82b9-5912e554df6a/application) |
 | **SharkNinja** | Media Coordinator | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695060006) |
@@ -277,6 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Director, Quality Analytics | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Director--Quality-Analytics_REQ-28156) |
 | **Figure AI** | Project Coordinator, Data Quality | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4696350006) |
 | **DoorDash** | Director, Analytics, New Verticals Co... | New York, NY; San... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/doordashusa/jobs/8052254) |
+| **FanDuel** | Campaign Analytics, Data Analyst | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fanduel.careers/open-positions?gh_jid=8055746) |
+| **PNC Financial Services** | Business Analytics Manager | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Analytics-Manager_R226853-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -528,7 +528,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 905 current opportunities from 223 companies**
+**🎯 902 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
