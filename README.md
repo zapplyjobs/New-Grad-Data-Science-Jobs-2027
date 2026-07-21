@@ -19,7 +19,7 @@
 
 ![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-964-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-478-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-225-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,10 +66,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Accenture Federal Services** | Data Scientist/Application Developer ... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698847006?gh_jid=4698847006) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
+| **Accenture Federal Services** | Data Scientist/Application Developer ... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698847006?gh_jid=4698847006) |
 | **Apple** | LLM Machine Learning Engineer, Models... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672423/llm-machine-learning-engineer-models-and-agent-science-aiml) |
 | **TikTok** | Applied Research Scientist - Trust an... | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7662454444147509557) |
 | **WHOOP** | Data Scientist, Product | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/whoop/3a8a3fab-cab2-4206-997d-2e2b619bae37/apply) |
@@ -206,7 +206,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Strategic Data Analyst - Global Busin... | Austin, Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663610893964921093) |
 | **TikTok** | Strategic Data Analyst - Global Busin... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663617537246415157) |
 | **Amazon.com Services LLC** | Manager III, Applied Science, PXT Cen... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10478042/manager-iii-applied-science-pxt-central-science) |
-| **Illumio** | People Analytics & Systems Program Ma... | Sunnyvale, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/illumio/88d914a8-2124-4777-82b9-5912e554df6a/application) |
 | **SharkNinja** | Media Coordinator | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695060006) |
 | **Leland** | Quantum Computing Coach | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/leland/dbdfd0e6-d3b8-4a60-9115-14c69bc8a2d5/application) |
 | **Arch Capital Group** | Claims Data Quality Analyst | Home Base, NJ + 6... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-NJ/Claims-Data-Quality-Analyst_R26_331) |
@@ -277,6 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Wolters Kluwer** | Associate Business Systems Analyst, T... | Riverwoods, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Associate-Business-Systems-Analyst--Tax---Accountingt_R0058566) |
 | **NREL** | Graduate (6-12 month) Intern - Data C... | Golden, CO + 1 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--6-12-month--Intern---Data-Center-Load-Modeling-for-Transmission-Planning-Studies_R14384) |
 | **Moderna** | Associate Director, Corporate Financi... | Cambridge, Massac... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Associate-Director--Corporate-Financial-Planning---Analysis_R18808-1) |
+| **Moderna** | Associate Director, Process Developme... | Norwood, Massachu... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Associate-Director--Process-Development--Fermentation-_R19239) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,6 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Microsoft** | Data Engineer | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939508) |
 | **Snowflake** | Engineering Manager, Data Engineering... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/snowflake/3272836f-807d-4306-af07-83a848803e01/application) |
 | **Microsoft** | Data Engineer | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556937462) |
 | **JPMorgan Chase** | Data Engineer III - (Pyspark/databric... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210767115) |
@@ -392,13 +393,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Anthropic** | Machine Learning Infrastructure Engin... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7515571512419338514) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538929248565381383) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7527426391449864466) |
-| **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
-| **Google** | Engineering Manager, Borglet Machine ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116852004898120390) |
-| **Google** | Cloud Data and AI Engineer, Professio... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131392860418122438) |
+| **Google** | Technical Program Manager III, Machin... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138463539349070534) |
+| **Google** | Product Engineer, Machine Learning Ac... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111573776780403398) |
+| **Google** | Software Engineer, Machine Learning, ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139317680669631174) |
+| **Anthropic** | Machine Learning Infrastructure Engin... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5364804008) |
 | **Accenture Federal Services** | Cleared AI/ML Engineer | Chantilly, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698777006?gh_jid=4698777006) |
 | **JPMorgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210747306) |
 | **JP Morgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747306) |
@@ -543,7 +544,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 964 current opportunities from 225 companies**
+**🎯 964 current opportunities from 224 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
