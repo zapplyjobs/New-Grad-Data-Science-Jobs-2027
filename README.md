@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-965-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-477-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-224-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-958-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-475-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-223-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -343,8 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Data Engineer, Battery Data Platform ... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200671566/data-engineer-battery-data-platform-ai) |
 | **Peloton** | Data Engineering Manager | New York, New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8036601) |
 | **NREL** | Undergraduate/graduate intern - softw... | Golden, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
-| **Amazon Web Services, Inc.** | Data engineer, Decision Intelligence ... | Bellevue, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469213/data-engineer-decision-intelligence-technology) |
-| **Amazon.com Services LLC** | Data Engineer, Data Platform Manageme... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10469108/data-engineer-data-platform-management-grocery-tech-foundations) |
 | **Salesforce** | Data Engineer - MTS/SMTS/LMTS | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Data-Engineer---MTS-SMTS_JR338891-1) |
 | **AssetMark** | Associate Data Engineer | Charlotte, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889) |
 | **ICF** | Data Engineer (Databricks) | Reston, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Databricks-_R2602360) |
@@ -443,9 +441,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Machine Learning Ops Engineer, Global... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7320145236901808394) |
 | **D. E. Shaw** | Applied AI Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
 | **D. E. Shaw** | Machine Learning Researcher | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471792/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471793/delivery-consultant-ai-ml-data-machine-learning-dml) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471794/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Salesforce** | Software Engineering MTS - Full-Stack... | California San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS---Full-Stack-Agentic-AI-Engineer_JR350332) |
 | **NVIDIA** | Machine Learning Systems Engineer, Ne... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) |
@@ -476,8 +474,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lila Sciences** | Co-op, Machine Learning for Digital T... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) |
 | **Pinterest** | PhD Fall Machine Learning Intern (ATG... | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) |
 | **IMC Trading** | Hardware Machine Learning PhD Researc... | Chicago, United S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
+| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 | **Workato** | Intern, AI Engineering | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | **Human Computer Lab** | Intern - Software/ML Engineering | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
@@ -545,7 +543,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 965 current opportunities from 224 companies**
+**🎯 958 current opportunities from 223 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -553,6 +551,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 21, 2026
+**Last Updated**: July 22, 2026
 
 </div>
