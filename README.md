@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-957-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-959-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-471-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-228-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-229-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -177,6 +177,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **NICE** | People Analytics Analyst | Hoboken, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.eu.greenhouse.io/nice/jobs/4935623101?gh_jid=4935623101) |
+| **NICE** | People Analytics Analyst | Sandy, UT | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.eu.greenhouse.io/nice/jobs/4935617101?gh_jid=4935617101) |
 | **SharkNinja** | Media Manager, LATAM | Miami, Florida, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695072006) |
 | **Candid Health** | Data Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/candidhealth/88570d36-be12-4ab2-b25a-0e012dc669eb/application) |
 | **Virtu Financial** | 2027 Internship - Quantitative Resear... | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624424002) |
@@ -275,8 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Merck & Co.** | Specialist, Finance Data Analytics (H... | New Jersey Rahway... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Finance-Data-Analytics--Hybrid-_R405135-1) |
 | **Elevance Health** | Enrollment Data Analyst II | Nashville, TN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TN-NASHVILLE-22-CENTURY-BLVD-STE-310/Enrollment-Data-Analyst-II_JR195294) |
 | **Broadridge** | Tax Business/Data Analyst (CONTRACT) ... | Newark, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://broadridge.wd5.myworkdayjobs.com/Careers/job/Newark-NJ/Tax-Business-Data-Analyst--CONTRACT--REMOTE_JR1084379-2) |
-| **Akuna Capital** | Quantitative Research Intern, Summer ... | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -439,8 +439,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **D. E. Shaw** | Applied AI Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
 | **D. E. Shaw** | Machine Learning Researcher | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471793/delivery-consultant-ai-ml-data-machine-learning-dml) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471792/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Salesforce** | Software Engineering MTS - Full-Stack... | California San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS---Full-Stack-Agentic-AI-Engineer_JR350332) |
 | **NVIDIA** | Machine Learning Systems Engineer, Ne... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) |
@@ -540,7 +540,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 957 current opportunities from 228 companies**
+**🎯 959 current opportunities from 229 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
