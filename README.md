@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-984-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-485-informational?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-987-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-488-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-229-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -80,8 +80,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hightouch** | Forward Deployed Analytics Engineer | Remote (North Ame... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/hightouch/jobs/6122160004) |
 | **Amazon Development Center U.S., Inc.** | Data Engineer II, AWS Analytics Engin... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481020/data-engineer-ii-aws-analytics-engineering) |
 | **Amazon Development Center U.S., Inc.** | Data Engineer II, AWS Analytics Engin... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480965/data-engineer-ii-aws-analytics-engineering) |
+| **Amazon Web Services, Inc.** | Sr Applied Scientist, Amazon Responsi... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481724/sr-applied-scientist-amazon-responsible-ai) |
+| **Amazon.com Services LLC** | Sr Applied Scientist, Amazon Responsi... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10481723/sr-applied-scientist-amazon-responsible-ai) |
 | **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210729407) |
 | **JP Morgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729407) |
+| **JP Morgan Chase** | Data Scientist [Multiple Positions Av... | New York, NY, Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770939) |
 | **Microsoft** | Applied Scientist II (Bing Places) | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556858338) |
 | **Accenture Federal Services** | Data Scientist/Application Developer ... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4698847006?gh_jid=4698847006) |
 | **Apple** | LLM Machine Learning Engineer, Models... | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672423/llm-machine-learning-engineer-models-and-agent-science-aiml) |
@@ -90,7 +93,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Research Scientist - Human Alignment,... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3/application) |
 | **Amazon.com Services LLC** | Applied Scientist, Price Perception a... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479986/applied-scientist-price-perception-and-evaluation-science) |
 | **Amazon.com Services LLC** | Applied Scientist, Amazon Selection a... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480254/applied-scientist-amazon-selection-and-catalog-systems-ascs) |
-| **Amazon.com Services LLC** | Applied Scientist, GenAI Catalog Inte... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480445/applied-scientist-genai-catalog-intelligence-prism) |
 | **Amazon.com LLC** | Data Scientist II, Selection Growth S... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10479600/data-scientist-ii-selection-growth-science) |
 | **Replit** | Data Scientist, Trust & Safety | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/replit/07c4c890-0dd4-4022-bba4-8dfba6ff16ee/application) |
 | **Apple** | AIML - Sr Data Scientist, Evaluation | Cupertino | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200659433/aiml-sr-data-scientist-evaluation) |
@@ -133,7 +135,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Whatnot** | Manager, Data Science | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/66304d75-7fa8-4ab5-acd7-4ac8c1af36c9) |
 | **Amazon Development Center U.S., Inc.** | Applied Scientist, Applied AI Solutions | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10475578/applied-scientist-applied-ai-solutions) |
 | **JPMorgan Chase** | Executive Director, Data Science (Ris... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768033) |
-| **JP Morgan Chase** | Executive Director, Data Science (Ris... | Wilmington, DE, U... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768033) |
 | **Waymo** | Machine Learning Engineer, Sensor Pip... | Mountain View, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=8051390) |
 | **ONE Finance** | Analytics Engineer | United States (Re... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/oneapp/4ca0b7d4-60a9-48ac-b34a-575630063714/application) |
 | **AstraZeneca** | Scientist/Lab Manager Bioscience Immu... | MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Scientist-Lab-Manager-Bioscience-Immunology--Respiratory-and-Immunology_R-256296) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vertex Pharmaceuticals** | Toxicology Research Scientist | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Toxicology-Research-Scientist_REQ-29317) |
 | **Vertex Pharmaceuticals** | Pathology Research Scientist | Boston, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Pathology-Research-Scientist_REQ-28965) |
 | **Vertex Pharmaceuticals** | Toxicology Research Scientist | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Toxicology-Research-Scientist_REQ-29297) |
-| **Gen Digital** | AI & Machine Learning Engineer I | Mountain View, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -443,8 +443,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **D. E. Shaw** | Applied AI Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
 | **D. E. Shaw** | Machine Learning Researcher | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471793/delivery-consultant-ai-ml-data-machine-learning-dml) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471792/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Salesforce** | Software Engineering MTS - Full-Stack... | California San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS---Full-Stack-Agentic-AI-Engineer_JR350332) |
 | **NVIDIA** | Machine Learning Systems Engineer, Ne... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) |
@@ -543,7 +543,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 984 current opportunities from 229 companies**
+**🎯 987 current opportunities from 229 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
