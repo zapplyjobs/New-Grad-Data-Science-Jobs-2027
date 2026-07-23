@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-856-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-459-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-206-blue?style=flat&logo=building)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-461-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-208-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Oscar Health** | Analytics Engineer I | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](http://www.hioscar.com/careers/7914958?gh_jid=7914958) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
@@ -73,6 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Google** | Research Scientist, Efficient Long Co... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/80522531177407174) |
 | **AbbVie** | Machine Learning Engineer | San Diego, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014248146) |
 | **Cohere** | Data Scientist, North Insights | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af/application) |
+| **Zoox** | Machine Learning Engineer - ML Agents... | Foster City, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/d736debf-c361-4a7c-81fd-6c3125ab03c0/apply) |
 | **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210729407) |
 | **JP Morgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729407) |
 | **Red Bull** | 2026 Internship, Fall - Data Science | Morristown, NJ | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000139168339) |
@@ -164,8 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Expedia Group** | Machine Learning Scientist II | California San Jo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895) |
 | **TransUnion** | Data Science Platform Developer | Chicago, Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Machine-Learning-Platform-Engineer_19040380) |
 | **HPE (University)** | HPE Labs – AI/ML Research Scientist III | Milpitas, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---AI-ML-Research-Scientist-III_1209875-2) |
-| **HPE (University)** | HPE Labs - Postdoctoral Research Scie... | Milpitas, Califor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Postdoctoral-Research-Scientist_1208145) |
-| **Adobe** | Applied Scientist | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Applied-Scientist-3_R166095-1) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **AbbVie** | Business Systems Consultant - FinOps | North Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014249736) |
+| **Mixpanel** | Director, Internal Analysis | San Francisco, US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mixpanel/jobs/8081974) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
 | **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
@@ -344,8 +344,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Data Engineer, iOS — Health Technologies | San Diego | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200670698/data-engineer-ios-health-technologies) |
 | **NVIDIA** | Supply Chain Data Engineer | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Supply-Chain-Data-Engineer_JR2021179) |
 | **HNTB** | Data Engineer III | Atlanta, GA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Atlanta-GA/Data-Engineer-III_R-30553-1) |
-| **SpaceX** | Data Engineer (Starlink) | Bastrop, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8626535002?gh_jid=8626535002) |
-| **SpaceX** | Data Engineer (Starlink) | Hawthorne, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8626500002?gh_jid=8626500002) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | **NREL** | Undergraduate/graduate intern - softw... | Golden, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
@@ -525,7 +523,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 856 current opportunities from 206 companies**
+**🎯 856 current opportunities from 208 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
