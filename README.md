@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-965-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-966-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-479-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-230-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -180,6 +180,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
 | **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
 | **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
+| **Google** | Commercial Strategy and Operations Ma... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91861600247390918) |
 | **Apple** | Applied Data Solutions Program (Full-... | Austin | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673132/applied-data-solutions-program-full-time-opportunities) |
 | **Vendelux** | Head of Analytics | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/vendelux/68d1fe74-02b7-4dde-bbba-7dce6696eaca/application) |
 | **Accenture Federal Services** | Data Analyst | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4682347006?gh_jid=4682347006) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Engineer Data (Multiple Positions) (R... | Charleston, SC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137671373) |
 | **Guidehouse** | Data Analyst | IL, Fairview Heights | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Fairview-Heights/Data-Analyst_41146) |
 | **AstraZeneca** | Associate Laboratory Operations | – Santa Monica Co... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US--Santa-Monica-Colorado-Avenue--CA/Associate-Laboratory-Operations_R-256392) |
-| **Vanguard** | Data Analyst, Specialist | Malvern, PA + 2 more | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_180164) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -395,9 +395,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7515571512419338514) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538929248565381383) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7527426391449864466) |
-| **Google** | Technical Program Manager III, Machin... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138463539349070534) |
-| **Google** | Machine Learning and Multimedia IP Ve... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/89273945802318534) |
-| **Google** | ML Engineer, GenAI Ads, Search Person... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/91235719359406790) |
+| **Google** | Product Engineer, Machine Learning Ac... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111573776780403398) |
+| **Google** | Software Engineer, On-Device Machine ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130199503754928838) |
+| **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
 | **Instabase** | AI Engineer | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/instabase/jobs/8635719002) |
 | **Apple** | Engineering Manager, Machine Learning... | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673699/engineering-manager-machine-learning-platform-technologies) |
 | **LLNL** | Machine Learning Software Developer | Livermore, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990014236786) |
@@ -441,9 +441,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Machine Learning Ops Engineer, Global... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7320145236901808394) |
 | **D. E. Shaw** | Applied AI Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
 | **D. E. Shaw** | Machine Learning Researcher | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471793/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471792/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Salesforce** | Software Engineering MTS - Full-Stack... | California San Fr... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS---Full-Stack-Agentic-AI-Engineer_JR350332) |
 | **NVIDIA** | Machine Learning Systems Engineer, Ne... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) |
@@ -538,7 +538,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 965 current opportunities from 230 companies**
+**🎯 966 current opportunities from 230 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
