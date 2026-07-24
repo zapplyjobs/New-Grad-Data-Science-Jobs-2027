@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-821-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-450-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-207-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-822-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-451-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-208-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Applied Intuition** | Research Scientist - 3D Vision and Ge... | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5f15c171-ae5a-496b-a8eb-c6a351d55b6b/application) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Warner Bros. Discovery** | Machine Learning Engineer II, CNN Dig... | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Machine-Learning-Engineer-II--CNN-Digital-Products-and-Services_R000105236) |
 | **Warner Bros. Discovery** | Machine Learning Engineer I | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Machine-Learning-Engineer-I_R000100421) |
 | **FOX** | Machine Learning Engineer I | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Machine-Learning-Engineer-I_R50033083) |
-| **Expedia Group** | Machine Learning Scientist II | California San Jo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -517,7 +517,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 821 current opportunities from 207 companies**
+**🎯 822 current opportunities from 208 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
