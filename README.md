@@ -66,12 +66,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Scale AI** | Manager, Research Scientist | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4718431005) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
 | **Google** | Data Engineer, GCS Data Science | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) |
+| **Scale AI** | Manager, Research Scientist | San Francisco, CA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4718431005) |
 | **Applied Intuition** | Research Scientist - 3D Vision and Ge... | Sunnyvale | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/applied/5f15c171-ae5a-496b-a8eb-c6a351d55b6b/application) |
+| **Microsoft** | Applied Scientist II | Redmond, Washingt... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556938085) |
 | **TikTok** | Machine Learning Engineer, Contextual... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7663060793474926853) |
 | **Bosch Group** | Wireless Research Scientist | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139517599) |
 | **Bosch Group** | AI Research Scientist- Multimodal Fou... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139447918) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC - A57** | Data Scientist II - AMZ27596.1 | Irving, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10474326/data-scientist-ii-amz27596-1) |
 | **Zoom** | Machine Learning Engineer Manager | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer-Manager_R19368) |
 | **Xometry** | Analytics Engineer II | North Bethesda, MD | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5185678007) |
-| **Comcast** | Data Scientist | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R438877) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -384,9 +384,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7515571512419338514) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538929248565381383) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7527426391449864466) |
+| **Google** | Product Engineer, Machine Learning Ac... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111573776780403398) |
+| **Google** | Software Engineer, On-Device Machine ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130199503754928838) |
 | **Google** | Engineering Manager, Borglet Machine ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116852004898120390) |
-| **Google** | RTL Design Engineer, Machine Learning... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
-| **Google** | Cloud Data and AI Engineer, Professio... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/131392860418122438) |
 | **Bosch Group** | Autonomous Driving – Internship in Ma... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000139649345) |
 | **Etched** | Applied AI Engineer, Manufacturing & ... | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/9bceaee5-c3b2-4e8e-9ad3-b3b572a8d9cd/application) |
 | **Apple** | Large Machine Learning Model Optimiza... | Seattle | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200626700/large-machine-learning-model-optimization-engineer-siml) |
@@ -437,9 +437,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Machine Learning Ops Engineer, Global... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7320145236901808394) |
 | **D. E. Shaw** | Applied AI Engineer | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/applied-ai-engineer-5375) |
 | **D. E. Shaw** | Machine Learning Researcher | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/machine-learning-researcher-4954) |
-| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471793/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Arlington, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471792/delivery-consultant-ai-ml-data-machine-learning-dml) |
+| **Amazon Web Services, Inc.** | Delivery Consultant- AI/ML, Data & Ma... | Herndon, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10471795/delivery-consultant-ai-ml-data-machine-learning-dml) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **IMC Trading** | Machine Learning Research Intern - Su... | Chicago, United S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
 | **Nelnet** | Intern - AI Engineer | Lincoln, NE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
