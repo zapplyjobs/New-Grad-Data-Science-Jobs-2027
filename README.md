@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-851-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-850-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-465-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-209-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -216,7 +216,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Manager, Media Operations (US) | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695058006) |
 | **Clarity Innovations** | Data Analyst | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165497007) |
 | **The New York Times** | Manager, Programmatic | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4716888005) |
-| **Affirm** | Analyst II | Remote US | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7804953003) |
 | **Cartesia** | Engineering Manager, Data | * | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cartesia/6f65b698-4c1d-4439-9990-2a31c847dd21/application) |
 | **Amazon.com Services LLC** | Applied Science Manager, CBA | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480899/applied-science-manager-cba) |
 | **Amazon.com Services LLC** | Applied Science II, Edge Technology | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10480876/applied-science-ii-edge-technology) |
@@ -277,6 +276,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Faire** | Strategy & Analytics Experimentation ... | New York City, NY... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8632193002?gh_jid=8632193002) |
 | **OpenAI** | Quantitative Intelligence Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/5834b531-bb89-4471-9253-8c30bc0b26a8/application) |
 | **Bosch Group** | Engineer Data (Multiple Positions) (R... | Charleston, SC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137671373) |
+| **Guidehouse** | Data Analyst | IL, Fairview Heights | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Fairview-Heights/Data-Analyst_41146) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -519,7 +519,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 851 current opportunities from 209 companies**
+**🎯 850 current opportunities from 209 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
