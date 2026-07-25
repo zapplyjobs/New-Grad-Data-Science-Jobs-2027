@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-788-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-787-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-440-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-203-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-202-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -340,7 +340,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC - A57** | Data Engineer II, Intl. Seller Services | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10473856/data-engineer-ii-intl-seller-services) |
 | **Clarity Innovations** | Data Engineer | Hurlburt Field, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5165454007) |
 | **Velera** | Data Engineer IV (Snowflake/Databrick... | USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Data-Engineer-IV--Snowflake-Databricks----REMOTE_9473) |
-| **Schweitzer Engineering Laboratories** | Data Engineer | Pullman | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Engineer_2026-20940-1) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | **NREL** | Undergraduate/graduate intern - softw... | Golden, CO | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
@@ -511,7 +510,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 788 current opportunities from 203 companies**
+**🎯 787 current opportunities from 202 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
