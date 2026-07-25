@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-802-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-449-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-205-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-796-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-444-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-204-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -436,7 +436,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Texas Instruments** | Machine Learning Research Engineer   ... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25006802) |
 | **Zoom** | Video AI Engineer | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Video-AI-Engineer_R19356-1) |
 | **Zoom** | Video AI Engineer | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Video-AI-Engineer_R18922-2) |
-| **Boston Dynamics** | Manager, Machine Learning on Orbit | Waltham | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Manager--Machine-Learning-on-Orbit_R2890) |
 | **IMC Trading** | Machine Learning Research Intern - Su... | Chicago, United S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
 | **Nelnet** | Intern - AI Engineer | Lincoln, NE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) |
@@ -447,8 +446,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lila Sciences** | Co-op, Machine Learning for Digital T... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) |
 | **Apple** | Machine Learning and Artificial Intel... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships) |
 | **IMC Trading** | Hardware Machine Learning PhD Researc... | Chicago, United S... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 | **Workato** | Intern, AI Engineering | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | **Human Computer Lab** | Intern - Software/ML Engineering | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
@@ -515,7 +514,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 802 current opportunities from 205 companies**
+**🎯 796 current opportunities from 204 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
