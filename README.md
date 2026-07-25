@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-845-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-846-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-465-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-205-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-206-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -232,6 +232,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Arch Capital Group** | Claims Data Quality Analyst | Home Base, NJ + 6... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-NJ/Claims-Data-Quality-Analyst_R26_331) |
 | **Arch Capital Group** | Manager, AI & Automation Engineering ... | Home Base, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://archgroup.wd1.myworkdayjobs.com/careers/job/Home-Base-NC/Manager--AI---Automation-Engineering--Remote--EST-Hours-_R26_659) |
 | **Booz Allen Hamilton** | Counterproliferation All-Source Intel... | Reston, VA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Counterproliferation-All-Source-Intelligence-Analyst_R0244651-1) |
+| **GM Financial** | Fraud Intelligence Analyst II - Gener... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260548) |
 | **Databricks** | Director, Americas Field Marketing at... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://databricks.com/company/careers/open-positions/job?gh_jid=8636157002) |
 | **LVT** | Data Analyst II | American Fork, Ut... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5324836008) |
 | **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138177390) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Faire** | Strategy & Analytics Experimentation ... | New York City, NY... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8632193002?gh_jid=8632193002) |
 | **OpenAI** | Quantitative Intelligence Analyst | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/5834b531-bb89-4471-9253-8c30bc0b26a8/application) |
 | **Bosch Group** | Engineer Data (Multiple Positions) (R... | Charleston, SC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000137671373) |
-| **Guidehouse** | Data Analyst | IL, Fairview Heights | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Fairview-Heights/Data-Analyst_41146) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -518,7 +518,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 845 current opportunities from 205 companies**
+**🎯 846 current opportunities from 206 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
