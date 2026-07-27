@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1062-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-534-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-244-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1085-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-542-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-246-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -325,6 +325,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Fabric Data Engineer — Workplace Engi... | Wayne, PA + 3 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Fabric-Data-Engineer---Workplace-Engineering_178723) |
 | **Amazon.com Services LLC** | Data Engineer II, Intelligent Talent ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10476684/data-engineer-ii-intelligent-talent-acquisition-ita-data) |
 | **Apple** | Platform & Data Engineer | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200672605/platform-data-engineer) |
+| **Cape** | Data Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/cape/4b93114b-59c0-4f15-91f8-843083b28c3c/application) |
 | **Vanguard** | Manager, Data Engineering | Malvern, PA + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Manager--Data-Engineering_178743-1) |
 | **Baker Hughes** | Leucipa Data Engineer | Bogota, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/CO-BOGOTA-CARRERA-7-NO-123-35/Leucipa--Lead-Data-Engineer_R154667-1) |
 | **Axiom Space** | Enterprise Data Engineer – ETL & Inte... | Houston | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Engineer---ETL---Integration_JR100548) |
@@ -343,6 +344,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | **NREL** | Undergraduate/graduate intern - softw... | Golden, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | **Anthropic** | Data Engineer, Safeguards | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5240422008) |
+| **Anduril** | Security Data Engineer | Ashville, Ohio, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) |
+| **Anduril** | Product Data Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007) |
+| **Anduril** | Product Data Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007) |
 | **Accenture Federal Services** | Forward Data Engineer | McLean, VA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/accenturefederalservices/jobs/4691998006?gh_jid=4691998006) |
 | **Roblox** | Software Engineer, Data Engineering | San Mateo, CA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | **Defense Unicorns** | FDE Data Engineer- Space (FedD141/Fed... | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/defenseunicorns/jobs/5169676007) |
@@ -481,8 +485,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anthropic** | Research Engineer, Machine Learning (... | Friendly (Travel | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5198108008) |
 | **Point72** | Machine Learning Infrastructure Engin... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002) |
 | **IMC Trading** | Hardware Machine Learning PhD Researc... | Chicago, United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 | **General Matter** | Applied AI Engineer | Los Angeles, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/generalmatter/jobs/5190258008) |
 | **Workato** | Intern, AI Engineering | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
@@ -491,12 +495,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rackner** | AI/ML Engineer  (Active TS/SCI ) | Dayton, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rackner/jobs/4676295005) |
 | **Avathon** | AI Engineer | Pleasanton, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4667051005) |
 | **Samsara** | AI Engineer | US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153) |
+| **Anduril** | RFML Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) |
+| **Anduril** | Machine Learning Research Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4998882007?gh_jid=4998882007) |
 | **Roblox** | Distinguished Engineer, Machine Learn... | San Mateo, CA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) |
 | **Lightmatter** | Machine Learning Systems Researcher | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/4948275008?gh_jid=4948275008) |
 | **PathAI** | Machine Learning Intern/Co-op (Fall 2... | Boston (Onsite), ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pathai.com/careers/8202342002?gh_jid=8202342002) |
 | **SharkNinja** | Machine Learning and AI Opportunities | Needham, MA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4600175006) |
-| **Point72** | Quantitative Researcher - Machine Lea... | New York, London,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8023550002?gh_jid=8023550002) |
-| **Figma** | Software Engineer, Machine Learning | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -557,7 +561,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1062 current opportunities from 244 companies**
+**🎯 1085 current opportunities from 246 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
