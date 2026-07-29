@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1213-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-575-informational?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1220-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-581-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-303-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -484,6 +484,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **RELX** | Sr AI Engineer (RAG Specialist with S... | Raleigh, NC | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Raleigh-NC/Sr-AI-Engineer--RAG-Specialist-with-Strong-Python-Skills-_R116012-1) |
 | **Bracebridge Capital** | Machine Learning Analyst | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4715042005) |
 | **Figure AI** | Helix AI Engineer, Localization and M... | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
+| **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Stripe** | AI Engineer | Chicago | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8044460) |
 | **Nelnet** | Intern - AI Engineer | Lincoln, NE | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
 | **Pinterest** | Manager II, Machine Learning – Conver... | Seattle, WA, US; ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pinterestcareers.com/jobs/?gh_jid=8010903) |
@@ -521,7 +522,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Human Computer Lab** | Intern - Software/ML Engineering | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
 | **Avathon** | Forward Deployed AI Engineer | Pleasanton, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4678588005) |
 | **Rackner** | AI/ML Engineer  (Active TS/SCI ) | Dayton, OH | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rackner/jobs/4676295005) |
-| **Avathon** | AI Engineer | Pleasanton, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avathon.com/company/careers-job-listing/?gh_jid=4667051005) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -582,7 +582,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1213 current opportunities from 303 companies**
+**🎯 1220 current opportunities from 303 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
