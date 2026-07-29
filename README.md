@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1240-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-584-informational?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1241-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-585-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-299-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,6 +66,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **AbbVie** | Data Scientist II | North Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014354296) |
 | **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538942403488188680) |
 | **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
 | **ByteDance** | Research Scientist in Large Language ... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7623525222555961605) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **S&P Global** | Vice President, Data Science | Nyc, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NY-NYC---55-WATER-ST-35-HRS/Global-Head--Data-Science_325497-1) |
 | **PayPal** | Sr Data Scientist | San Jose, Califor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0137151) |
 | **Moderna** | Scientist, Oncology Bioinformatics | Cambridge, Massac... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Scientist--Oncology-Bioinformatics_R19507) |
-| **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210729407) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -516,8 +516,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Torc Robotics** | ML Engineer, II - App Engine | Ann Arbor, MI, Fo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002) |
 | **Point72** | Machine Learning Infrastructure Engin... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002) |
 | **IMC Trading** | Hardware Machine Learning PhD Researc... | Chicago, United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
+| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 | **Workato** | Intern, AI Engineering | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | **Human Computer Lab** | Intern - Software/ML Engineering | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
@@ -584,7 +584,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1240 current opportunities from 299 companies**
+**🎯 1241 current opportunities from 299 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
