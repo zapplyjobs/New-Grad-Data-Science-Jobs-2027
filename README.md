@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1246-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-591-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-301-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1247-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-588-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-299-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -112,8 +112,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ICF** | Data Scientist (Cleared) | Ashburn, VA + 2 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ashburn-VA/Data-Scientist--Cleared-_R2602550) |
 | **Elanco** | Clinical Laboratory Research Scientist | Fort Dodge, IA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Clinical-Laboratory-Research-Scientist_R0026470) |
 | **Mastercard** | Data Scientist | San Francisco Cal... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Data-Scientist_R-275200-1) |
-| **Amazon.com Services LLC** | Applied Scientist (GenAI/LLM), Sandstone | San Diego, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486462/applied-scientist-genai-llm-sandstone) |
 | **Amazon.com Services LLC** | Applied Scientist (GenAI/LLM), Sandstone | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486463/applied-scientist-genai-llm-sandstone) |
+| **Amazon.com Services LLC** | Applied Scientist (GenAI/LLM), Sandstone | San Diego, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486466/applied-scientist-genai-llm-sandstone) |
 | **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768711) |
 | **JPMorgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768820) |
 | **JP Morgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768711) |
@@ -189,8 +189,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Customer 360 & MDM Data Specialist | Nashville, Tennessee | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Nashville-Tennessee/Customer-360---MDM-Data-Specialist_R0000385363) |
 | **Motorola Solutions** | Product Manager - Business Intelligen... | Illinois Remote W... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Product-Manager---Business-Intelligence---Analytics_R62892) |
 | **JPMorgan Chase** | Software Engineer III- Python, Databr... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210754682) |
+| **JPMorgan Chase** | Risk Management - Wholesale Quantitat... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210769490) |
 | **JPMorgan Chase** | Reference Data Specialist IV | Brooklyn, NY, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774899) |
 | **JP Morgan Chase** | Software Engineer III- Python, Databr... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754682) |
+| **JP Morgan Chase** | Risk Management - Wholesale Quantitat... | Jersey City, NJ, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769490) |
 | **JP Morgan Chase** | Reference Data Specialist IV | Brooklyn, NY, Uni... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774899) |
 | **CACI** | Data Analyst | Washington, DC, US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/Data-Analyst_329754) |
 | **USAA** | Intermediate Decision Science Analyst... | San Antonio + 5 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Intermediate-Decision-Science-Analyst---P-C-Claims-Analytics_R0119208) |
@@ -265,7 +267,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Data Analyst, Specialist | Malvern, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_179881-1) |
 | **Guidehouse** | Business Operations & Data Analyst | VA McLean + 1 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Business-Operations---Data-Analyst_39648) |
 | **Warner Bros. Discovery** | Sports Growth Strategy and Data Inter... | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) |
-| **Uber** | Sr Security Technologist | San Francisco, Sa... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.uber.com/global/en/careers/list/302613/) |
 | **Envista Holdings** | Associate Chemical Engineer, Sustaini... | CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Pomona/Associate-Chemical-Engineer--Sustaining-R-D_R5026843) |
 | **Synchrony** | VP, Amazon Analytics | NYC Bryant Park H... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/NYC-Bryant-Park-Hub/VP--Amazon-Analytics_2601936-1) |
 | **Cigna** | Business Analyst - Verity Solutions -... | United States Wor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analyst---Verity-Solutions---Remote_26008590) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Affirm** | Analyst | Remote US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7808667003) |
 | **Bridgewater Associates** | Commodities Research Associate | New York City | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002) |
 | **Poshmark** | Director, Data Analytics | Redwood City, Cal... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/poshmark/0d86cc2f-daea-40cf-b1d8-e704f586b21e/application) |
-| **Mixpanel** | Director, Internal Analysis | San Francisco, US | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/mixpanel/jobs/8081974) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -290,6 +290,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Apple** | AIML - Sr Data Engineer, DMLI | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200660581/aiml-sr-data-engineer-dmli) |
 | **Amazon.com Services LLC** | Data Engineer, PV Prime Video TV - Tech | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) |
+| **JPMorgan Chase** | Data Engineer III - Python / AWS / SQL | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210727002) |
+| **JP Morgan Chase** | Data Engineer III - Python / AWS / SQL | Plano, TX, United... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002) |
+| **Amazon.com Services LLC - A57** | Data Engineer II | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487294/data-engineer-ii) |
 | **Guidehouse** | Databricks Data Engineer | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Databricks-Data-Engineer_42292-1) |
 | **Microsoft** | Data Engineer II | Redmond, Washingt... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556945522) |
 | **CrowdStrike** | Data Engineer, Go To Market (Remote) | Remote, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Data-Engineer--Go-To-Market--Remote-_R28755) |
@@ -426,9 +429,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7515571512419338514) |
 | **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538929248565381383) |
 | **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
-| **Google** | Engineering Manager, Borglet Machine ... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/116852004898120390) |
-| **Google** | RTL Design Engineer, Machine Learning... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138997960082891462) |
 | **Google** | Product Engineer, Machine Learning Ac... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/111573776780403398) |
+| **Google** | Software Engineer, On-Device Machine ... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/130199503754928838) |
+| **Google** | Software Engineering Manager, Machine... | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138708072338989766) |
 | **Bosch Group** | Autonomous Driving – Internship in Ma... | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140462550) |
 | **NVIDIA** | Applied AI Engineer | US, CA + 5 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Applied-AI-Engineer_JR2018179-3) |
 | **Adobe** | Director of Engineering – Machine Lea... | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Director-of-Engineering---Machine-Learning---AI-Products_R170847) |
@@ -518,8 +521,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Torc Robotics** | ML Engineer, II - App Engine | Ann Arbor, MI, Fo... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002) |
 | **Point72** | Machine Learning Infrastructure Engin... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8472280002?gh_jid=8472280002) |
 | **IMC Trading** | Hardware Machine Learning PhD Researc... | Chicago, United S... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.eu.greenhouse.io/imc/jobs/4829785101) |
-| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
+| **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
 | **Amazon.com Services LLC** | 2026 Fall Applied Science Internship ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
 | **Workato** | Intern, AI Engineering | San Francisco, Ca... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8492935002#open-roles) |
 | **Human Computer Lab** | Intern - Software/ML Engineering | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) |
@@ -583,7 +586,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1246 current opportunities from 301 companies**
+**🎯 1247 current opportunities from 299 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
