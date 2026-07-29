@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1234-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1235-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-585-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-297-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -293,6 +293,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TikTok** | Data Engineer, E-Commerce | Seattle, Washington | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7184879550440950076) |
 | **TikTok** | Data Engineer - Data Platform | San Jose, California | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/6834664619631741192) |
 | **Apple** | AIML - Sr Data Engineer, DMLI | Cupertino | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200660581/aiml-sr-data-engineer-dmli) |
+| **Whatnot** | Data Engineer, CX | San Francisco, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/whatnot/7f6ab23f-9c17-434b-8ff7-712a9c395b6b) |
 | **Amazon.com Services LLC** | Data Engineer, Data Platform Manageme... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487395/data-engineer-data-platform-management-world-wide-grocery-tech) |
 | **Amazon.com Services LLC** | Data Engineer, PV Prime Video TV - Tech | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10486922/data-engineer-pv-prime-video-tv-tech) |
 | **Amazon.com Services LLC** | Data Engineer, Associate Experience, ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10487503/data-engineer-associate-experience-amazon-customer-service) |
@@ -584,7 +585,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1234 current opportunities from 297 companies**
+**🎯 1235 current opportunities from 297 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
