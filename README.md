@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1218-brightgreen?style=flat&logo=briefcase)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1219-brightgreen?style=flat&logo=briefcase)
 ![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-578-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-302-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-303-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -262,6 +262,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Data Analyst, Specialist | Malvern, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Analyst--Specialist_179881-1) |
 | **Guidehouse** | Business Operations & Data Analyst | VA McLean + 1 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Business-Operations---Data-Analyst_39648) |
 | **Warner Bros. Discovery** | Sports Growth Strategy and Data Inter... | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Growth-Strategy-and-Data-Internships--ATL---Fall-2026_R000107173) |
+| **Uber** | Sr Security Technologist | San Francisco, Sa... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.uber.com/global/en/careers/list/302613/) |
 | **Envista Holdings** | Associate Chemical Engineer, Sustaini... | CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Pomona/Associate-Chemical-Engineer--Sustaining-R-D_R5026843) |
 | **Synchrony** | VP, Amazon Analytics | NYC Bryant Park H... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/NYC-Bryant-Park-Hub/VP--Amazon-Analytics_2601936-1) |
 | **Cigna** | Business Analyst - Verity Solutions -... | United States Wor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Business-Analyst---Verity-Solutions---Remote_26008590) |
@@ -276,7 +277,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Audax Group** | Associate Portfolio Valuation & Analy... | Boston, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/audaxgroup/jobs/4717892005) |
 | **ICF** | Noise Specialist | Los Angeles, CA +... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Noise-Specialist_R2602455) |
 | **Live Nation** | Business Intelligence Business Analyst | Work From Home Il... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Illinois/Business-Intelligence-Business-Analyst_JR-91250) |
-| **Astreya** | Business Analyst IV - EPIC Program | Oakland, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Oakland-CA/Business-Analyst-IV---EPIC-Program_R0016232) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BeyondTrust** | Sr Data Engineer | Johns Creek, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/beyondtrust/jobs/7716089) |
 | **Defense Unicorns** | Data Engineer (FedD024) | Remote | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/defenseunicorns/jobs/5076453007) |
 | **Point72** | Data Engineer, Knowledge Graph | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8448917002?gh_jid=8448917002) |
-| **Take-Two Interactive** | Data Engineer (Python/Spark) | TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7635245) |
+| **Take-Two Interactive** | Data Engineer (Python/Spark) | Austin, Texas, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/taketwo/jobs/7635245) |
 | **Schonfeld** | AI Data Engineer | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/schonfeld/jobs/7589451) |
 | **Point72** | Data Engineer | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7829230002?gh_jid=7829230002) |
 | **Figma** | Data Engineer | San Francisco, CA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004) |
@@ -582,7 +582,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1218 current opportunities from 302 companies**
+**🎯 1219 current opportunities from 303 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
