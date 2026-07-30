@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1222-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-580-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-288-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1214-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-577-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-287-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -358,7 +358,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Mastercard** | Manager,  Platform Engineering - Big ... | O'Fallon, Missouri | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager---Platform-Engineering---Big-Data-Engineering_R-278856) |
 | **Amazon Web Services, Inc.** | Data Engineer II, GTPC Tech, Complian... | New York, NY | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10477449/data-engineer-ii-gtpc-tech-compliance-assurance-aws-security) |
 | **SpaceX** | Data Engineer (Starlink Go-To-Market) | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8637472002?gh_jid=8637472002) |
-| **The Travelers Companies** | Data Engineer I (AWS, Databricks) | Hartford, CT | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521) |
 | **SpaceX** | Data Engineer (Starlink) | Bastrop, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8626535002?gh_jid=8626535002) |
 | **SpaceX** | Data Engineer (Starlink) | Hawthorne, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8626500002?gh_jid=8626500002) |
 | **NREL** | Undergraduate/graduate intern - softw... | Golden, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
@@ -485,7 +484,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Texas Instruments** | AI/ML Engineer | Richardson, TX, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016573) |
 | **Zoox** | Machine Learning Automation Engineer | Foster City, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562/apply) |
 | **Pfizer** | Director of AI Engineering – Vaccine ... | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/Director-of-AI-Engineering---Vaccine-R-D-Operations-Enablement_4953692) |
-| **Dell Technologies** | Consultant Machine Learning & Knowled... | Round Rock, TX, U... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/293104) |
 | **Figure AI** | Helix AI Engineer, Localization and M... | San Jose, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4696533006) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-amd.icims.com/jobs/87388/login) |
 | **Stripe** | AI Engineer | Chicago | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://stripe.com/jobs/search?gh_jid=8044460) |
@@ -522,6 +520,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Anduril** | Machine Learning Research Engineer | Costa Mesa, Calif... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/4998882007?gh_jid=4998882007) |
 | **Roblox** | Distinguished Engineer, Machine Learn... | San Mateo, CA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/7332473?gh_jid=7332473) |
 | **Lightmatter** | Machine Learning Systems Researcher | Mountain View, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/lightmatter/jobs/4948275008?gh_jid=4948275008) |
+| **PathAI** | Machine Learning Intern/Co-op (Fall 2... | Boston (Onsite), ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pathai.com/careers/8202342002?gh_jid=8202342002) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -582,7 +581,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1222 current opportunities from 288 companies**
+**🎯 1214 current opportunities from 287 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -590,6 +589,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: July 29, 2026
+**Last Updated**: July 30, 2026
 
 </div>
