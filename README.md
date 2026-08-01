@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1005-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-358-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-280-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-1008-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-360-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-282-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,16 +66,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Research Scientist in Large Language ... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Data Engineer, GCS Data Science | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Anduril** | Research Scientist | Fort Collins, Col... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Scientist in Large Language ... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Data Engineer, GCS Data Science | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Anduril** | Research Scientist | Fort Collins, Col... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Handshake** | Machine Learning Engineer I, Network | San Francisco, CA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Oura** | Research Scientist | United States | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Figma** | Director, Data Science | San Francisco, CA... | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Figma** | Director, Data Science | San Francisco, CA... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Target** | Sr Data Scientist - Global Supply Cha... | 100 Mathilda Plac... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Target** | Sr Applied Data Scientist - Search an... | 2 Locations | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TransUnion** | Data Science Platform Developer | Chicago, Illinois | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Research Scientist - Analytical Devel... | Fort Dodge, IA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -91,7 +90,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Sr Applied Scientist, Core Shopping D... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JPMorgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Machine Learning Engineer – Document ... | Jersey City, NJ, ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Target** | Sr Data Scientist - Supply Chain Opti... | 2 Locations | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Workiva** | Sr Machine Learning Engineering Manag... | Remote | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TransUnion** | Data Scientist, Financial Services Co... | Chicago, Illinois | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TransUnion** | Data Scientist - Insurance | Chicago, Illinois | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -126,7 +124,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Intuition** | Machine Learning Engineer - Behavior ... | Sunnyvale | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Netflix** | Machine Learning Engineer 5 - Ads Mea... | Los Gatos, Califo... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **FanDuel** | Analytics Engineer | Jersey City, New ... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Intuitive** | AI/ML Data Scientist | Sunnyvale, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Intuitive** | AI/ML Data Scientist | Sunnyvale, CA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Target** | Sr Applied Data Scientist - RecSys (a... | 7000 Target Pkwy ... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Teledyne** | Data Scientist | Falls Church, VA ... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Biogen** | Associate Director, AI/Data Science | Cambridge, MA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **The Federal Reserve System** | FR 2052a Data Scientist Manager | Minneapolis, MN | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -149,6 +148,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JP Morgan Chase** | Machine Learning Engineer, GenAI/ML -... | Plano, TX, United... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Squarepoint Capital** | Quantitative Researcher - Data Science | New York | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **OpenAI** | Data Scientist, GTM Intelligence | San Francisco | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Target** | Sr Applied Data Scientist - Personali... | 7000 Target Pkwy ... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Rocket Companies** | Manager, Data Science | Michigan | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Radiance Technologies** | Data Scientist | Colorado Springs, CO | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elanco** | Clinical Laboratory Research Scientist | Fort Dodge, IA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -177,10 +177,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | 23h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Fiserv** | Business Data Analyst | Berkeley Heights,... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Biometrics (Fingerprint) Technician -... | Hartford, CT | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Amentum** | Biometrics (Fingerprint) Technician -... | Fort Myers, FL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bosch Group** | Associate Vehicle Data Analyst | Owatonna, MN | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Target** | Director Operations Research - Last M... | Minneapolis, MN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sierra Nevada Corporation** | Data Analyst & Systems Integrator | Arlington, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **National Interstate Insurance** | Crop Business Developer (Indiana) | Indiana, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -194,15 +197,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Elevance Health** | Advanced Analytics Consultant | 17 Locations | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **State Street** | Markets Capital Optimization Analyst,... | Boston, Massachus... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Caterpillar** | Engineering Manager – Data Quality | Mossville Illinois | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Fiserv** | Business Data Analyst | Berkeley Heights,... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **iCapital Network** | Master Data Management Analyst - Analyst | Salt Lake City, U... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Torc Robotics** | Safety Data Analyst | US, Blacksburg, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BlackRock** | Business Intelligence Developer/Busin... | New York, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Biometrics (Fingerprint) Technician -... | Hartford, CT | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Amentum** | Biometrics (Fingerprint) Technician -... | Fort Myers, FL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Director, Compliance Business Partner | Boston, MA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vertex Pharmaceuticals** | Associate Director, Patient Services ... | Boston, MA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Microsoft** | Marketing Data Analyst - Events Analy... | Redmond, Washingt... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Avnet** | Databricks Administrator | 2 Locations | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Microsoft** | Marketing Data Analyst - Events Analy... | Redmond, Washingt... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Moderna** | Head of Clinical Sciences | Bethesda, Marylan... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NREL** | Graduate (Year-Round) Intern - Transp... | Golden, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NREL** | Researcher - Perovskite Packaging and... | Golden, CO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -225,6 +226,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JPMorgan Chase** | Software Engineer III - Databricks | Wilmington, DE, U... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Software Engineer III - Python, Datab... | Jersey City, NJ, ... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Software Engineer III - Databricks | Wilmington, DE, U... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bloomberg Industry Group** | Content Analyst, State Tax | Arlington, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Radiance Technologies** | Operations Research Analyst | Dahlgren, VA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Uline** | Business Intelligence Analyst | Pleasant Prairie, WI | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **TransUnion** | Marketing Data Analyst | Chicago, Illinois | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -239,7 +241,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Manager, Advanced Data Analytics - Mo... | Malvern, PA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Caterpillar** | Business Intelligence Analyst | Chicago Illinois | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Caterpillar** | Customer 360 & MDM Data Specialist | Nashville, Tennessee | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bloomberg Industry Group** | Content Analyst, State Tax | Arlington, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Business Intelligence Engineer, WW FB... | Seattle, WA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JPMorgan Chase** | Software Engineer III- Python, Databr... | Jersey City, NJ, ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Software Engineer III- Python, Databr... | Jersey City, NJ, ... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -274,9 +275,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Garner Health** | Director, Applied Science | New York City, Ne... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **US Conec** | Operations Data Analyst | Hickory, North Ca... | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Early Career Project Controls Data An... | Seattle, WA, Unit... | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Granite Construction** | Project Controls Specialist - Data An... | The Woodlands Texas | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Medtronic** | Installation Program Manager - Americas | North Haven, Conn... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **National Interstate Insurance** | Crop Claims Seasonal Adjuster | Ohio | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **S&P Global** | Director, Data Integration & Workflows | New York, NY | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,7 +288,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Engineer, Infrastructure Qua... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Software Engineer, Infrastructure Qua... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Field AI** | Software Engineer, Data Engineering | Irvine, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Booz Allen Hamilton** | Foundry Data Engineer | Honolulu, HI | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Guidehouse** | Snowflake Engineer (Snowflake Cortex ... | Mclean, VA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -297,12 +297,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Discord** | Data Engineer | San Francisco Bay... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Coupang** | Director, Data Engineering | Mountain View, USA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Bridgewater Associates** | Research Associate, Equities Data Eng... | New York City | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bloomberg Industry Group** | Data Engineer | Arlington, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Booz Allen Hamilton** | Kafka Data Engineer | Honolulu, HI | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Booz Allen Hamilton** | Data Engineer | McLean, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Mastercard** | Data Engineer II | O'Fallon, Missouri | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Vanguard** | Application Engineer III - AWS Data E... | Malvern, PA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Axiom Space** | Enterprise Data Engineer – ETL & Inte... | Houston | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bloomberg Industry Group** | Data Engineer | Arlington, VA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Life.Church (YouVersion)** | Data Engineer | Edmond, OK | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BlackRock** | Data Engineering, Director | Atlanta, GA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Schweitzer Engineering Laboratories** | Data Engineer | Pullman | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -311,8 +311,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon.com Services LLC** | Data Engineer II, Business Data Techn... | Seattle, WA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon Kuiper Commercial Services LLC** | Data Engineer, Global Planning, Amazo... | Bellevue, WA | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AbbVie** | Data Engineer II | Mettawa, IL | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Cisco** | Data Engineer | RTP, North Caroli... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Expedia Group** | Data Engineer II - Service Data | Seattle | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Cisco** | Data Engineer | RTP, North Caroli... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Whatnot** | Data Engineer, CX | San Francisco, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Amazon.com Services LLC** | Data Engineer III - AMZ9444040 | Arlington, VA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **GM Financial** | Data Engineer II - General Motors Ins... | Fort Worth, TX, U... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -425,14 +425,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 10m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Engineering Manager, Borglet Machine ... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | RTL Design Engineer, Machine Learning... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Cloud Data and AI Engineer, Professio... | United States | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Graduate (E-Commerce... | Seattle, Washington | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Engineering Manager, Borglet Machine ... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | RTL Design Engineer, Machine Learning... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Cloud Data and AI Engineer, Professio... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Postman** | AI Engineer, Intern | Berkeley, Califor... | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LinkedIn** | Manager, Software Engineering, Machin... | Mountain View, CA | 19h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Apple** | Sr ML Engineering Manager, Search - S... | San Francisco Bay... | 20h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Apple** | Sr ML Engineering Manager, Search - S... | San Francisco Bay... | 21h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Micron** | AI Engineer | Boise, ID - Main ... | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Microsoft** | Fullstack AI Engineer | Redmond, Washingt... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Micron Technology** | AI Engineer | Boise, ID - Main ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -476,10 +476,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Etched** | Applied AI Engineer, Manufacturing & ... | San Jose | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LG Electronics** | Embodied AI Engineer | Englewood Cliffs, NJ | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | AI/ML Engineer | Tampa, FL | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Carnegie Mellon University** | AI Engineer - Mission Innovation Lab | Pittsburgh, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Etched** | Applied AI Engineer, Kernel Performance | San Jose | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Fiserv** | Data & ML Engineer | Alpharetta, Georgia | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **F5** | AI Engineer | Seattle | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Carnegie Mellon University** | AI Engineer - Mission Innovation Lab | Pittsburgh, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Etched** | Applied AI Engineer, Kernel Performance | San Jose | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Elastic** | Agentic AI Engineer | United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **LLNL** | Machine Learning Software Developer | Livermore, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Figure AI** | Helix AI Engineer, XR | San Jose, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -489,17 +489,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Verizon** | Associate Director, AI Engineering - ... | Basking Ridge New... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JPMorgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **JP Morgan Chase** | Product Manager (Vice President) - Ma... | Wilmington, DE, U... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **RE/SPEC Inc.** | AI Engineer I (Contractor) - 40526R00... | Austin, TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Visa** | Sr ML Engineer | Foster City, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **RE/SPEC Inc.** | AI Engineer I (Contractor) - 40526R00... | Austin, TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Accenture Federal Services** | AI/ML Engineer | Arlington, VA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Texas Instruments** | AI/ML Engineer | Richardson, TX, U... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Figure AI** | Helix AI Engineer, Localization and M... | San Jose, CA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **AMD** | Head of AI Engineering Productivity, ... | Seattle, WA, Unit... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Jane Street** | Machine Learning Researcher | New York, New Yor... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stripe** | AI Engineer | Chicago | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Nelnet** | Intern - AI Engineer | Lincoln, NE | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Expedia Group** | Machine Learning Science Intern - PhD... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Expedia Group** | 2023 PhD Intern - Machine Learning Sc... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Expedia Group** | Machine Learning Science Intern - PhD... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Nelnet** | Intern - AI Engineer | Lincoln, NE | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Pinterest** | Manager II, Machine Learning – Conver... | Seattle, WA, US | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -585,7 +585,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1005 current opportunities from 280 companies**
+**🎯 1008 current opportunities from 282 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
