@@ -66,11 +66,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
-| **ByteDance** | Agent Evaluation & Evolution Machine ... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670932427485186309) |
-| **ByteDance** | Research Scientist Graduate (Multimod... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671026650366183685) |
-| **Guidehouse** | Bioinformatics Scientist | NC, Durham | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Durham/Bioinformatics-Scientist_42940) |
-| **Guidehouse** | Bioinformatics Scientist | NC, Durham | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Durham/Bioinformatics-Scientist_42994) |
+| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
+| **ByteDance** | Agent Evaluation & Evolution Machine ... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670932427485186309) |
+| **ByteDance** | Research Scientist Graduate (Multimod... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671026650366183685) |
+| **Guidehouse** | Bioinformatics Scientist | NC, Durham | 46m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Durham/Bioinformatics-Scientist_42940) |
+| **Guidehouse** | Bioinformatics Scientist | NC, Durham | 46m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Durham/Bioinformatics-Scientist_42994) |
 | **ONE Finance** | Analytics Engineer | United States (Remote) | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/oneapp/4ca0b7d4-60a9-48ac-b34a-575630063714) |
 | **Zillow** | Data Scientist, Consumer Analytics | USA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Data-Scientist--Trust---Safety---Rentals_P750990-1) |
 | **Caterpillar** | Data Scientist | Morton, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Morton-Illinois/Data-Scientist_R0000386297) |
@@ -177,10 +177,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
-| **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
-| **GDIT** | Intelligence Analyst | USA SC Shaw | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-SC-Shaw/Intelligence-Analyst_RQ225851-1) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
+| **ByteDance** | Benefits Operation Data Analyst Proje... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7605524889478842677) |
+| **GDIT** | Intelligence Analyst | USA SC Shaw | 46m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-SC-Shaw/Intelligence-Analyst_RQ225851-1) |
 | **RELX** | Clinical Analytics Specialist – MD | Texas | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://relx.wd3.myworkdayjobs.com/relx/job/Texas/Clinical-Analytics-Specialist---MD_R110146-1) |
 | **Booz Allen Hamilton** | Counterproliferation All-Source Intel... | Reston, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Reston-VA/Counterproliferation-All-Source-Intelligence-Analyst_R0244650) |
 | **Booz Allen Hamilton** | Cyber Threat Intelligence Analyst | Arlington, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Cyber-Threat-Intelligence-Analyst_R0246203) |
@@ -288,8 +288,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Engineer, Infrastructure Qua... | United States | 38m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96578875571479238) |
-| **GDIT** | Data Engineer | USA VA Falls Church | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Data-Engineer_RQ225443-1) |
+| **Google** | Software Engineer, Infrastructure Qua... | United States | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96578875571479238) |
+| **GDIT** | Data Engineer | USA VA Falls Church | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Data-Engineer_RQ225443-1) |
 | **JPMorgan Chase** | Software Engineer II: Data Engineer | Jersey City, NJ, Unite... | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210739969) |
 | **JP Morgan Chase** | Software Engineer II: Data Engineer | Jersey City, NJ, Unite... | 22h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739969) |
 | **Disney** | Data Engineer | Orlando, FL, USA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Data-Engineer_10155280) |
@@ -411,10 +411,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
-| **ByteDance** | LLM Backend Engineer Graduate (Applie... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667730992538585349) |
-| **ByteDance** | Large Language Model Inference System... | San Jose, California | 37m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667726338627356933) |
-| **Google** | Software Engineer, PhD, Early Career,... | United States | 38m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
+| **ByteDance** | LLM Backend Engineer Graduate (Applie... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667730992538585349) |
+| **ByteDance** | Large Language Model Inference System... | San Jose, California | 41m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667726338627356933) |
+| **Google** | Software Engineer, PhD, Early Career,... | United States | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) |
 | **Nelnet** | AI / ML Engineer | Lincoln, NE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/AI---ML-Engineer_R22925) |
 | **Booz Allen Hamilton** | AI Engineer, Mid | San Antonio, TX | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/AI-Engineer--Mid_R0246103) |
 | **Coca-Cola** | AI Engineer - Cyber Programs | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--AI-Red-Team_R-144443) |
