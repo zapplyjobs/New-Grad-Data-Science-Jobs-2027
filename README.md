@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-911-brightgreen?style=flat&logo=briefcase)
-![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-350-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
+![Data Science Jobs](https://img.shields.io/badge/Data_Science_Jobs-900-brightgreen?style=flat&logo=briefcase)
+![Top: Data Scientist](https://img.shields.io/badge/Data_Scientist-346-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Data-Science-Jobs-2027?style=flat&logo=calendar)
 
 </div>
@@ -66,13 +66,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Engineer Graduate (A... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671141679848933685) |
-| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
-| **ByteDance** | Research Scientist Graduate (ML Recom... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670850283815160069) |
-| **Google** | Imaging Machine Learning Engineer | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109896651643986630) |
-| **Google** | Data Engineer, GCS Data Science | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) |
-| **Google** | Research Scientist Manager, Climate a... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125767569414988486) |
-| **GDIT** | Data Scientist-Mid | USA FL Tampa | 56m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist-Mid_RQ225731-1) |
+| **ByteDance** | Machine Learning Engineer Graduate (A... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671141679848933685) |
+| **ByteDance** | Research Scientist - Model Capability... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629847495073597749) |
+| **ByteDance** | Research Scientist Graduate (ML Recom... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670850283815160069) |
+| **Google** | Imaging Machine Learning Engineer | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/109896651643986630) |
+| **Google** | Data Engineer, GCS Data Science | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/139396293603533510) |
+| **Google** | Research Scientist Manager, Climate a... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/125767569414988486) |
+| **GDIT** | Data Scientist-Mid | USA FL Tampa | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Tampa/Data-Scientist-Mid_RQ225731-1) |
 | **Guidehouse** | Data Scientist, Consultant (Utilities) | Boulder, CO | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---CO-Boulder/Data-Scientist--Consultant--Utilities-_42467) |
 | **Capital One** | Manager, Data Scientist - Bureau Data... | McLean, VA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R248913-1) |
 | **Yahoo** | Machine Learning Engineer II | United States of America | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Machine-Learning-Engineer-II_JR0027188) |
@@ -82,9 +82,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PayPal** | Machine Learning Engineer | San Jose, California, ... | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137221) |
 | **Linear** | Analytics Engineer | North America | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1) |
 | **FanDuel** | Data Scientist | New York City | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.fanduel.careers/open-positions?gh_jid=8120545) |
-| **Spotify** | Data Scientist, Finance Data & Insights | New York, NY | 7h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/73e87af2-1cf9-4aa2-bf3f-032cd2c3b05c) |
+| **Spotify** | Data Scientist, Finance Data & Insights | New York, NY | 8h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/spotify/73e87af2-1cf9-4aa2-bf3f-032cd2c3b05c) |
 | **Captivation** | Artificial Intelligence Machine Learn... | Annapolis Junction, MD | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/captivation/jobs/5384948008) |
-| **Anduril** | Research Scientist, Battlespace Aware... | Broomfield, Colorado, ... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007) |
 | **Amazon.com Services LLC** | Machine Learning Engineer, AppStar Da... | New York, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10498023/machine-learning-engineer-appstar-data-analytics-engineering) |
 | **Amazon.com Services LLC** | Machine Learning Engineer, Sponsored ... | New York, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497374/machine-learning-engineer-sponsored-products) |
 | **Amazon.com Services LLC** | Applied Scientist, Amazon Shopping Pe... | New York, NY | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497939/applied-scientist-amazon-shopping-personalization) |
@@ -138,7 +137,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Uber** | Machine Learning Engineer II - AV Labs | Sunnyvale, Santa Clara | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.uber.com/global/en/careers/list/303619/) |
 | **Layup Parts** | Machine Learning Engineer | Huntington Beach, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e) |
 | **Arc Institute** | Scientist, Computational Biology | Palo Alto, CA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/arcinstitute/jobs/6134331004) |
-| **Anduril** | Research Scientist | Huntsville, Alabama, U... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5203023007?gh_jid=5203023007) |
 | **Upstart** | Applied Scientist | United States  Remote | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.upstart.com/jobs?gh_jid=7293116) |
 | **GE Healthcare** | Service Data Scientist | Salt Lake City | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Service-Data-Scientist_R4044120-1) |
 | **Expedia Group** | Machine Learning Scientist III - Pack... | Washington Seattle | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Package-Pricing_R-108429) |
@@ -158,7 +156,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Envista Holdings** | Research Scientist | CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Pomona/Research-Scientist_R5027043-1) |
 | **Booz Allen Hamilton** | Machine Learning Engineer | Arlington, VA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Machine-Learning-Engineer_R0245828) |
 | **TransUnion** | Data Science Platform Developer | Chicago, Illinois | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Machine-Learning-Platform-Engineer_19040380) |
-| **Anduril** | Research Scientist | Fort Collins, Colorado... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5201025007?gh_jid=5201025007) |
 | **Oura** | Research Scientist | United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/oura/jobs/4341964009) |
 | **Rivian and Volkswagen Group Technologies** | Systems Analytics Engineer, Connectiv... | Palo Alto, California | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/988d2bf1-caf8-4a16-892d-bb726dc832ec) |
 | **Bosch Group** | AI Research Scientist- Multimodal Fou... | Sunnyvale, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140825479) |
@@ -166,6 +163,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Vanguard** | Data Scientist, Specialist | Malvern, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Scientist--Specialist_180395-1) |
 | **TransUnion** | Data Scientist, Financial Services Co... | Chicago, Illinois | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19040697) |
 | **Parsons** | Data Scientists - TS/SCI with Poly re... | MD, Annapolis Junction... | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---MD-Annapolis-Junction/Data-Scientists---TS-SCI-with-Poly-required_R182158) |
+| **Zoom** | Research Scientist - AI Incubation | Seattle, WA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Scientist---AI-Incubation_R18458-1) |
+| **Zoom** | Machine learning Engineer - Agentic R... | Seattle, WA | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-learning-Engineer---Agentic-Retrieval_R19418-1) |
+| **Zoom** | Machine Learning Engineer Manager | Seattle | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Machine-Learning-Engineer-Manager_R19368) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,13 +177,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
-| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
-| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
-| **GDIT** | Junior Intelligence Analyst - Onsite ... | USA VA Vienna | 56m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Vienna/Junior-Intelligence-Analyst---Onsite---Active-Top-Secret-required_RQ217410-2) |
-| **HNTB** | GIS Analyst II | Nashville, TN | 56m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Analyst-II_R-31104) |
-| **KBR** | Space Intelligence Analyst | Beavercreek Township, ... | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Space-Intelligence-Analyst_R2127531) |
-| **KBR** | Operations Research Analyst | Beavercreek, Ohio | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2128073) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629210458173556997) |
+| **ByteDance** | Intelligent Sensing Intern - Low-powe... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7629161683395889413) |
+| **ByteDance** | Data Lake Infrastructure & Data Analy... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7671109787509213445) |
+| **GDIT** | Junior Intelligence Analyst - Onsite ... | USA VA Vienna | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Vienna/Junior-Intelligence-Analyst---Onsite---Active-Top-Secret-required_RQ217410-2) |
+| **HNTB** | GIS Analyst II | Nashville, TN | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Nashville-TN-City-Center/GIS-Analyst-II_R-31104) |
+| **KBR** | Space Intelligence Analyst | Beavercreek Township, ... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Space-Intelligence-Analyst_R2127531) |
+| **KBR** | Operations Research Analyst | Beavercreek, Ohio | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Operations-Research-Analyst_R2128073) |
 | **National Interstate Insurance** | Business Development Trainee | Richfield, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Richfield-OH-USA/Business-Development-Trainee---2026-Graduate-Development-Program_R7928) |
 | **Uline** | Customer Data Coordinator | Kenosha, WI | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Customer-Data-Coordinator_R266322-1) |
 | **Merck & Co.** | Business Intelligence & Clinical Oper... | New Jersey Rahway | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Business-Intelligence---Clinical-Operations-Analytics-Specialist--Hybrid_R411238-1) |
@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Clarity Innovations** | Data Analyst | Hurlburt Field, FL | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/clarityinnovates/jobs/5208122007) |
 | **Gusto** | Software Engineer, ML Platform | Denver, CO, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gusto/jobs/8073232) |
 | **LinkedIn** | LTS Insights Manager, Product Insights | Chicago, IL | 10h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/LinkedIn3/744000142698329) |
-| **Base Power** | Deployment Engineer (Data Analytics) | Austin, TX | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/1bd01038-1fc7-42e5-9c0f-64357382f3e7) |
+| **Base Power** | Deployment Engineer (Data Analytics) | Austin, TX | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/1bd01038-1fc7-42e5-9c0f-64357382f3e7) |
 | **LG Electronics** | Korean Bilingual Procurement Data Ana... | Huntsville, AL | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5384303008) |
 | **Amazon Web Services, Inc.** | Applied Science Manager, AWS Startups... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497736/applied-science-manager-aws-startups-aws-startups) |
 | **Amazon.com Services LLC** | Applied Science II, Product Knowledge... | Seattle, WA | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10497055/applied-science-ii-product-knowledge-genai) |
@@ -288,8 +288,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Google** | Software Engineer, Infrastructure Qua... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96578875571479238) |
-| **Manulife** | Data Engineer | California Full Time | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/USA-California---Full-Time-Remote/Data-Engineer_JR26080130) |
+| **Google** | Software Engineer, Infrastructure Qua... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/96578875571479238) |
+| **Manulife** | Data Engineer | California Full Time | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/USA-California---Full-Time-Remote/Data-Engineer_JR26080130) |
 | **State Street** | Data Engineer, Officer - State Street... | Quincy, Massachusetts | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineer--Officer---State-Street-Investment-Management_R-795510-1) |
 | **Pfizer** | Machine Learning Data Engineer (AIM2) | Massachusetts | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Machine-Learning-Data-Engineer--AIM2-_4961809-1) |
 | **General Motors** | Vehicle Dynamics Simulation Data Engi... | 2 Locations | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Dynamics-Simulation-Data-Engineer_JR-202615954) |
@@ -350,9 +350,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | **Anthropic** | Data Engineer, Safeguards | San Francisco, CA  Ne... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/anthropic/jobs/5240422008) |
-| **Anduril** | Security Data Engineer | Ashville, Ohio, United... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007) |
-| **Anduril** | Product Data Engineer | Costa Mesa, California... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007) |
-| **Anduril** | Product Data Engineer | Costa Mesa, California... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007) |
 | **Roblox** | Software Engineer, Data Engineering | San Mateo, CA, United ... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) |
 | **Esri** | System Engineer – Enterprise Data Eng... | Redlands, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5171937007?gh_jid=5171937007) |
 | **Esri** | System Engineer – Enterprise Data Eng... | Vienna, Virginia, Unit... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.esri.com/careers/5171930007?gh_jid=5171930007) |
@@ -404,14 +401,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Backend Engineer Gra... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669791940490168629) |
-| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
-| **ByteDance** | Large Language Model Inference System... | San Jose, California | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667726338627356933) |
-| **Google** | Software Engineer III, AI/ML Machine ... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138461963733607110) |
-| **Google** | Partner Solutions Engineer, Machine L... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103944117418894022) |
-| **Google** | Software Engineer, PhD, Early Career,... | United States | 17m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) |
-| **GDIT** | Summer 2027 AI/Machine Learning Inter... | USA VA Falls Church | 56m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
-| **GE Healthcare** | AI Engineer | WA07 | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Engineer_R4044184-1) |
+| **ByteDance** | Machine Learning Backend Engineer Gra... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7669791940490168629) |
+| **ByteDance** | Applied Machine Learning Production E... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7670009669494704437) |
+| **ByteDance** | Large Language Model Inference System... | San Jose, California | 20m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7667726338627356933) |
+| **Google** | Software Engineer III, AI/ML Machine ... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138461963733607110) |
+| **Google** | Partner Solutions Engineer, Machine L... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/103944117418894022) |
+| **Google** | Software Engineer, PhD, Early Career,... | United States | 22m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/122258040807137990) |
+| **GDIT** | Summer 2027 AI/Machine Learning Inter... | USA VA Falls Church | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
+| **GE Healthcare** | AI Engineer | WA07 | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/AI-Engineer_R4044184-1) |
 | **Workiva** | Manager of Machine Learning - AI Mode... | Remote | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Manager-of-Machine-Learning---AI-Modeling-and-Operation_R12166) |
 | **Fiserv** | AI Engineer | Columbus Ohio | 2h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/Data-Scientist---Cybersecurity-AI---Advanced-Analytics_R-10388404-1) |
 | **Armada** | AI Engineer | Bellevue | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/armada/jobs/5383028008) |
@@ -553,7 +550,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 911 current opportunities from 261 companies**
+**🎯 900 current opportunities from 260 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
