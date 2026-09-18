@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Adobe** | Research Scientist/Engineer | Seattle | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R170713?s=gh-new-grad-data-science-jobs-2027) |
-| **Adobe** | Machine Learning Engineer 4 | San Jose | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171496?s=gh-new-grad-data-science-jobs-2027) |
-| **Adobe** | Research Scientist II | San Francisco | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171628?s=gh-new-grad-data-science-jobs-2027) |
+| **Adobe** | Research Scientist/Engineer | Seattle | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R170713?s=gh-new-grad-data-science-jobs-2027) |
+| **Adobe** | Machine Learning Engineer 4 | San Jose | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171496?s=gh-new-grad-data-science-jobs-2027) |
+| **Adobe** | Research Scientist II | San Francisco | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171628?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Scientist | Detroit, MI | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249703?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Scientist, Junior | San Antonio, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0247418?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Scientist | McLean, VA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249694?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,11 +176,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Guidehouse** | Talent Management Data Analyst | DC, Washington | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-41142?s=gh-new-grad-data-science-jobs-2027) |
+| **Guidehouse** | Talent Management Data Analyst | DC, Washington | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-41142?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Analyst, Mid | Huntsville, AL | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249741?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | McLean, VA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249681?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Open-Source Research Analyst, Junior | McLean, VA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249686?s=gh-new-grad-data-science-jobs-2027) |
-| **Amazon.com Services LLC** | Applied Science Manager - Perception, Amazon Robotics | Seattle, WA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-b824ac5e-731e-4a9d-b90b-d2472a290bb0?s=gh-new-grad-data-science-jobs-2027) |
+| **Amazon.com Services LLC** | Applied Science Manager - Perception, Amazon Robotics | Seattle, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-b824ac5e-731e-4a9d-b90b-d2472a290bb0?s=gh-new-grad-data-science-jobs-2027) |
 | **PNC Financial Services** | Business Analytics Consultant - Regulatory Reporting System Support | PA - Pittsburgh | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R224490?s=gh-new-grad-data-science-jobs-2027) |
 | **DRW** | Data Analyst, Stewardship | Chicago, Houston, Remote | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-8189730?s=gh-new-grad-data-science-jobs-2027) |
 | **Veeva Systems** | AI Solution Analyst | Ohio - Columbus | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-ba79f7a5-3f93-47e2-a531-5ed06049b6f3?s=gh-new-grad-data-science-jobs-2027) |
@@ -430,8 +430,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GDIT** | AI/ML Engineer - TS/SCI w/poly | USA VA Herndon | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228583?s=gh-new-grad-data-science-jobs-2027) |
-| **Adobe** | Applied AI Engineer | San Jose | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R168901?s=gh-new-grad-data-science-jobs-2027) |
+| **GDIT** | AI/ML Engineer - TS/SCI w/poly | USA VA Herndon | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ228583?s=gh-new-grad-data-science-jobs-2027) |
+| **Adobe** | Applied AI Engineer | San Jose | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R168901?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | AI Engineer, Junior | San Antonio, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0247417?s=gh-new-grad-data-science-jobs-2027) |
 | **State Street** | Artificial Intelligence & Machine Learning, Off (US Only) | Boston, Massachusetts | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-792375?s=gh-new-grad-data-science-jobs-2027) |
 | **Bosch Group** | AI Engineering Intern (October 2026 - August 2027) | Plymouth, MI | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000150217869?s=gh-new-grad-data-science-jobs-2027) |
