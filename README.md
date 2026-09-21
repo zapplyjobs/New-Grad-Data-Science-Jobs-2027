@@ -186,7 +186,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **KBR** | Predictive Research Analyst | Beavercreek Township, Ohio | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2127259?s=gh-new-grad-data-science-jobs-2027) |
 | **Together AI** | Research Intern, Model Shaping (Winter 2027) | San Francisco, Amsterdam | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5238465007?s=gh-new-grad-data-science-jobs-2027) |
 | **Together AI** | Research Intern, Model Shaping (Summer 2027) | San Francisco, Amsterdam | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5238466007?s=gh-new-grad-data-science-jobs-2027) |
-| **Guidehouse** | Talent Management Data Analyst | DC, Washington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-41142?s=gh-new-grad-data-science-jobs-2027) |
+| **Guidehouse** | Talent Management Data Analyst | DC, Washington | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-41142?s=gh-new-grad-data-science-jobs-2027) |
 | **Brown & Brown Insurance** | Data Quality Analyst | Remote - USA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003223?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Data Analyst/Power Platform | AL, Huntsville | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-42979?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Data Analyst | AL, Huntsville | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-39905?s=gh-new-grad-data-science-jobs-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Moog** | Werkstudent (m/w/d) – Business Intelligence & Automation | Böblingen, DE | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-17939?s=gh-new-grad-data-science-jobs-2027) |
+| **Moog** | Werkstudent (m/w/d) – Business Intelligence & Automation | Böblingen, DE | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-17939?s=gh-new-grad-data-science-jobs-2027) |
 | **Belvedere Trading** | Engineer- Data Visualization Platform | Chicago, Illinois | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-belvederetrading-3d118f1b-08e1-4b81-8d4d-bac869d166a7?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon Web Services, Inc.** | Business Intelligence Engineer, Capacity Delivery Reliability | Seattle, WA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-d0080553-0e53-431b-91be-55a9d9159278?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | PMO and Reporting Analyst | VA, Arlington | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-44635?s=gh-new-grad-data-science-jobs-2027) |
@@ -430,7 +430,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CACI** | AI/ML Engineer | Ashburn, VA, US | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332363?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | AI/ML Engineer | Ashburn, VA, US | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332363?s=gh-new-grad-data-science-jobs-2027) |
 | **T-Mobile** | AI Engineer (Multiple Roles) | Bellevue Washington | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ374940?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | AI Engineer | Fort Belvoir, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243348?s=gh-new-grad-data-science-jobs-2027) |
 | **Poshmark** | Software Engineer II, Machine Learning | California (Redwood City) - | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-poshmark-29f36dfd-7d52-4dac-a257-9e197d390775?s=gh-new-grad-data-science-jobs-2027) |
