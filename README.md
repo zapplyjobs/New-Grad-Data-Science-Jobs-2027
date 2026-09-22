@@ -65,14 +65,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **University of Maryland** | Quantitative Methods Research Scientist | University of Maryland College Park | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR105015?s=gh-new-grad-data-science-jobs-2027) |
-| **Booz Allen Hamilton** | Sustainment Data Scientist | San Diego, CA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249515?s=gh-new-grad-data-science-jobs-2027) |
-| **Stripe** | Data Scientist | Seattle, WA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8222149?s=gh-new-grad-data-science-jobs-2027) |
+| **University of Maryland** | Quantitative Methods Research Scientist | University of Maryland College Park | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-umd-umcp-JR105015?s=gh-new-grad-data-science-jobs-2027) |
+| **Booz Allen Hamilton** | Sustainment Data Scientist | San Diego, CA | 57m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249515?s=gh-new-grad-data-science-jobs-2027) |
+| **Stripe** | Data Scientist | Seattle, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8222149?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Scientist, Responsible AI | Seattle, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-8167776a-798f-47d0-89f8-3780148127a4?s=gh-new-grad-data-science-jobs-2027) |
 | **Bosch Group** | AI Research Scientist- Multimodal Foundational Models | Sunnyvale, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000150800309?s=gh-new-grad-data-science-jobs-2027) |
 | **Epic Games** | Data Science Intern | Cary,North Carolina,United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6202675004?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | Research Scientist/Engineer, Frontier Reasoning, DeepMind | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-102793884911706822?s=gh-new-grad-data-science-jobs-2027) |
-| **AbbVie** | Associate AI Data Scientist I | North Chicago, IL | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015538268?s=gh-new-grad-data-science-jobs-2027) |
+| **AbbVie** | Associate AI Data Scientist I | North Chicago, IL | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015538268?s=gh-new-grad-data-science-jobs-2027) |
 | **Viking Global Investors** | Data Science Intern | New York, NY | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Machine Learning Engineer, Monetization AI/ML | San Francisco | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-80f9f564-d789-47bc-91c3-3babf5a1a33d?s=gh-new-grad-data-science-jobs-2027) |
 | **ZoomInfo** | Machine Learning Engineer | Bethesda, Maryland, United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-zoominfo-8769474002?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,9 +287,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bristol Myers Squibb** | AI & Data Engineer, Data Discovery Services | Princeton - NJ - US | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1604590?s=gh-new-grad-data-science-jobs-2027) |
-| **Capital One** | Data Engineer 4 | Chicago, IL | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001533?s=gh-new-grad-data-science-jobs-2027) |
-| **Medtronic** | Data Engineer | Lafayette, Colorado, United... | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77104?s=gh-new-grad-data-science-jobs-2027) |
+| **Bristol Myers Squibb** | AI & Data Engineer, Data Discovery Services | Princeton - NJ - US | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1604590?s=gh-new-grad-data-science-jobs-2027) |
+| **Capital One** | Data Engineer 4 | Chicago, IL | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001533?s=gh-new-grad-data-science-jobs-2027) |
+| **Medtronic** | Data Engineer | Lafayette, Colorado, United... | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R77104?s=gh-new-grad-data-science-jobs-2027) |
 | **Apple** | Data Engineer, Apple Ads | Cupertino | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200684964?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon Web Services, Inc.** | Data Engineer III, AWS Marketplace Demand Generation & Lifecycle Engagement | Seattle, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-54bc3f2e-6d8e-4805-bc88-a16a546c3c52?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Data Engineer II- Windows Servicing & Delivery Update Platform team | Redmond, Washington, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055390?s=gh-new-grad-data-science-jobs-2027) |
@@ -435,7 +435,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Apple** | Machine Learning Research Engineer | Cupertino | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200684346?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Machine Learning Research Engineer | Cupertino | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200684346?s=gh-new-grad-data-science-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | Mountain View, California, USA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8221851?s=gh-new-grad-data-science-jobs-2027) |
 | **AMD** | Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern | Santa Clara, CA, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-90910?s=gh-new-grad-data-science-jobs-2027) |
 | **Groundswell** | Associate Applied AI Engineer | Virginia | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-groundswell-groundswell-JR101096?s=gh-new-grad-data-science-jobs-2027) |
