@@ -181,7 +181,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Databricks Engineer | Bethesda, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249074?s=gh-new-grad-data-science-jobs-2027) |
 | **Oura** | Research Project Manager | Remote - United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oura-4411532009?s=gh-new-grad-data-science-jobs-2027) |
 | **Kent Building Supplies** | Data Analyst/Business Intelligence Co-op Student - Fort Edward, NY - Winter 2027 (8-month term) | Fort Edward, NY, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kent-building-supplies-12265?s=gh-new-grad-data-science-jobs-2027) |
-| **Tenable** | Data Analyst - SQL / Databricks | Remote - Massachusetts , US -... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenableinc-5430319008?s=gh-new-grad-data-science-jobs-2027) |
+| **Tenable** | Data Analyst - SQL / Databricks | Remote - Massachusetts , US -... | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenableinc-5430319008?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Spring Co-Op 2027, Process Development Upstream | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30509?s=gh-new-grad-data-science-jobs-2027) |
 | **Chime** | Data Analyst, Credit Risk | San Francisco, CA, USA | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-chime-8770312002?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Responsible Content Analyst 2 | Redmond, Washington, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200052460?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Capital One** | Data Engineer 4 | Chicago, IL | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001533?s=gh-new-grad-data-science-jobs-2027) |
+| **Capital One** | Data Engineer 4 | Chicago, IL | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001533?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Electronic Health Record Data Engineer | Bethesda, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248876?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Electronic Health Record Data Engineer | Bethesda, MD | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248877?s=gh-new-grad-data-science-jobs-2027) |
 | **Apple** | Data Engineer, Apple Ads | Cupertino | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200684964?s=gh-new-grad-data-science-jobs-2027) |
