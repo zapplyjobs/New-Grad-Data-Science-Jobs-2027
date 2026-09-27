@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Home Depot** | Associate Data Scientist - BlackLocus | TEXAS - VIRTUAL - TX01 | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req194426?s=gh-new-grad-data-science-jobs-2027) |
+| **Home Depot** | Associate Data Scientist - BlackLocus | TEXAS - VIRTUAL - TX01 | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req194426?s=gh-new-grad-data-science-jobs-2027) |
 | **Sanofi** | 2027 Spring Co-op Bioinformatic Digital Data Scientist - Global Immunology, Waltham, MA | Waltham, Massachusetts | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/radancy-sanofi-45207231168?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Machine Learning Engineer, Prime Video Ads CX | Seattle, WA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-286cd4ef-f93b-46df-b0f4-3d2d5c0e11a1?s=gh-new-grad-data-science-jobs-2027) |
 | **Moderna** | Scientist, Analytical Development | Norwood, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19740?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-new-grad-data-science-jobs-2027) |
 | **Moderna** | Engineer II, Drug Product Development | Norwood, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19036?s=gh-new-grad-data-science-jobs-2027) |
 | **Elevance Health** | Business Information Analyst II | IN-INDIANAPOLIS | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR204189?s=gh-new-grad-data-science-jobs-2027) |
 | **Freddie Mac** | Quantitative Analytics Professional | McLean, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freddiemac-external-JR17528?s=gh-new-grad-data-science-jobs-2027) |
