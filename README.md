@@ -176,9 +176,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CrowdStrike** | Engineer II, Data Analytics (Remote) | USA - Remote, CA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30207?s=gh-new-grad-data-science-jobs-2027) |
-| **FOX** | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-new-grad-data-science-jobs-2027) |
-| **General Motors** | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Concord, North Carolina, United... | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619990?s=gh-new-grad-data-science-jobs-2027) |
+| **CrowdStrike** | Engineer II, Data Analytics (Remote) | USA - Remote, CA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30207?s=gh-new-grad-data-science-jobs-2027) |
+| **FOX** | Summer 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-new-grad-data-science-jobs-2027) |
+| **General Motors** | 2027 Summer Intern – IndyCar Race Strategy & Analytics | Concord, North Carolina, United... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619990?s=gh-new-grad-data-science-jobs-2027) |
 | **Federal Reserve System** | People Analytics Specialist | New York, NY | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033525?s=gh-new-grad-data-science-jobs-2027) |
 | **Federal Reserve System** | Survey Analyst | Atlanta, GA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033542?s=gh-new-grad-data-science-jobs-2027) |
 | **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scm-721895?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Capital One** | Data Engineer 4 - Intelligent Foundations and Experiences (IFX) | McLean, VA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002287?s=gh-new-grad-data-science-jobs-2027) |
+| **Capital One** | Data Engineer 4 - Intelligent Foundations and Experiences (IFX) | McLean, VA | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002287?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Data Engineer, Partner Experience | Seattle, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-a8a2188a-f5d6-48b8-b80b-47ab16e42477?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002121?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI) | New York, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002122?s=gh-new-grad-data-science-jobs-2027) |
