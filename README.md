@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Data Analyst Intern, Global Security Control Center, Spring 2027 | Burbank, CA, USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-new-grad-data-science-jobs-2027) |
 | **Moderna** | Engineer II, Drug Product Development | Norwood, Massachusetts,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19036?s=gh-new-grad-data-science-jobs-2027) |
 | **Vanguard** | Data Reporting, Senior Associate | Malvern, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-181915?s=gh-new-grad-data-science-jobs-2027) |
 | **Vanguard** | Junior Investment Data Analyst | Malvern, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-182456?s=gh-new-grad-data-science-jobs-2027) |
@@ -308,7 +308,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Booz Allen Hamilton** | Data Engineer | Camp Lejeune, NC | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249648?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Engineer | Arlington, VA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250260?s=gh-new-grad-data-science-jobs-2027) |
 | **Jabil** | Data Engineering Intern | St. Petersburg/Tampa, FL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2465581?s=gh-new-grad-data-science-jobs-2027) |
-| **Caterpillar** | Data Engineer | Peoria Illinois | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393551?s=gh-new-grad-data-science-jobs-2027) |
+| **Caterpillar** | Data Engineer | Peoria Illinois | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000393551?s=gh-new-grad-data-science-jobs-2027) |
 | **GM Financial** | Intern - Data Engineer | Arlington, TX, United States | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-gm-financial-260821?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | SCOPES Data Integrator/Data Engineer | Doral, FL, US | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332490?s=gh-new-grad-data-science-jobs-2027) |
 | **Expedia Group** | Data Engineer III - Click Stream Data Products | Austin Domain 11 - HomeAway | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-expedia-private-R-109710?s=gh-new-grad-data-science-jobs-2027) |
