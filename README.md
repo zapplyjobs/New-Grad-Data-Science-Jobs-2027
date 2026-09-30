@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | Research Scientist - 3 / 4 | United States-Utah-Corinne | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253445?s=gh-new-grad-data-science-jobs-2027) |
+| **Northrop Grumman** | Research Scientist - 3 / 4 | United States-Utah-Corinne | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253445?s=gh-new-grad-data-science-jobs-2027) |
 | **Caterpillar** | Embedded Product Analytics Engineer | Mossville Illinois | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392617?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | Data Scientist--JIATF | Alexandria, VA, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332819?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Data Scientist, B2B Generalist | San Francisco | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-756d8c20-649a-47f2-8012-553b5f6cb0c5?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NXP** | Data Engineer / Data Analyst | Austin Oakhill | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066856?s=gh-new-grad-data-science-jobs-2027) |
-| **Thermo Fisher Scientific** | Data Analyst, Project Manager | Pennsylvania | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01362642?s=gh-new-grad-data-science-jobs-2027) |
+| **NXP** | Data Engineer / Data Analyst | Austin Oakhill | 31m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nxp-careers-R-10066856?s=gh-new-grad-data-science-jobs-2027) |
+| **Thermo Fisher Scientific** | Data Analyst, Project Manager | Pennsylvania | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01362642?s=gh-new-grad-data-science-jobs-2027) |
 | **Merck & Co.** | Master Data Specialist, Engineering (Onsite) | New Jersey Rahway | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R405942?s=gh-new-grad-data-science-jobs-2027) |
 | **Caterpillar** | Marketing Technology & Data Consultant (Rental Focus) | Irving, Texas | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000396657?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | JIATF 401 Network and Cyber Test Data Analyst | Alexandria, VA, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332865?s=gh-new-grad-data-science-jobs-2027) |
