@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Disney** | Finance & Data Intern, Spring 2027 | Anaheim, CA, USA | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160502?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Finance & Data Intern, Spring 2027 | Anaheim, CA, USA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160502?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Analysis Manager - Analytics & Transformation | McLean, VA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R248275?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Analysis Manager - Analysis Platform Product | McLean, VA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R999597?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Analysis Manager - ES Risk Analytics | New York, NY | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249906?s=gh-new-grad-data-science-jobs-2027) |
@@ -186,7 +186,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Oscar Health** | Strategic Insights Associate, Data Analytics | Tempe, Arizona, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-oscar-8250129?s=gh-new-grad-data-science-jobs-2027) |
 | **Watershed** | Customer data specialist (fixed-term) | New York City | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-watershed-24e7019e-6b70-42f4-b581-0a2689d3b939?s=gh-new-grad-data-science-jobs-2027) |
 | **Accenture Federal Services** | Data Analyst | Chantilly, VA | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718552006?s=gh-new-grad-data-science-jobs-2027) |
-| **Instacart** | Data Analyst, Platform Excellence Ops Analytics | United States - Remote | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-instacart-8249894?s=gh-new-grad-data-science-jobs-2027) |
+| **Instacart** | Data Analyst, Platform Excellence Ops Analytics | United States - Remote | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-instacart-8249894?s=gh-new-grad-data-science-jobs-2027) |
 | **Accenture Federal Services** | HR Data Analyst | Chantilly, VA | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4718755006?s=gh-new-grad-data-science-jobs-2027) |
 | **Solidigm** | Talent Acquisition Data Engineering & Analytics Graduate Intern | Rancho Cordova, CA | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-solidigm-744000153246129?s=gh-new-grad-data-science-jobs-2027) |
 | **ASML** | Business Engineer - Manufacturing Data Analyst | Wilton, CT, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00353624?s=gh-new-grad-data-science-jobs-2027) |
