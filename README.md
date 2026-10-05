@@ -275,7 +275,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Data Analyst II | United States - Minnesota - St.... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163013?s=gh-new-grad-data-science-jobs-2027) |
 | **Dow Jones** | Research Manager, Business of Sports Initiative | Washington, DC | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55627?s=gh-new-grad-data-science-jobs-2027) |
 | **RTX** | Data Analyst II (Hybrid - Aguadilla, PR) | PR-AGUADILLA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01841221?s=gh-new-grad-data-science-jobs-2027) |
-| **RTX** | Intelligence Analyst | CO-BUCKLEY-SFB-CUST | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878957?s=gh-new-grad-data-science-jobs-2027) |
+| **RTX** | Intelligence Analyst | CO-BUCKLEY-SFB-CUST | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878957?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
