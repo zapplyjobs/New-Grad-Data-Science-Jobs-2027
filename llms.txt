@@ -1,12 +1,16 @@
 # Zapply Jobs — New Grad Data Science Jobs 2027
 
-> Curated entry-level Data Science job listings. Updated every 15 minutes. US-focused.
+> Curated entry-level data science job listings. US-focused, updated continuously by an automated pipeline.
 
 ## What this repo provides
-- Entry-level Data Science jobs: data science, machine learning, analytics, BI, data engineering, research
-- Updated every 15 minutes from 500+ companies
-- Structured data with apply links, location, company info
+- A README job table kept current by the Zapply pipeline: role, company, location, posting date, and direct apply link
+- Entry-level data science roles: data science, machine learning, analytics, BI, data engineering, research
 - Part of the Zapply Jobs ecosystem (zapplyjobs)
+
+## How to use
+- Browse `README.md` — it is the canonical listing and regenerates continuously as the pipeline refreshes
+- For search and filters, use the public boards: softwarejobs.dev (US tech, all levels) and zapply.jobs (US early-career)
+- This repo is display-only: it intentionally contains no raw data files
 
 ## Related repos
 - All Jobs: github.com/zapplyjobs/New-Grad-Jobs-2027
