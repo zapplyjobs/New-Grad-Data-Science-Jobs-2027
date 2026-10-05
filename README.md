@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Fidelity Investments** | Data Engineer, Analytics & Performance Insights | Salt Lake City, UT | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135554?s=gh-new-grad-data-science-jobs-2027) |
+| **Fidelity Investments** | Data Engineer, Analytics & Performance Insights | Salt Lake City, UT | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135554?s=gh-new-grad-data-science-jobs-2027) |
 | **Qualtrics** | Data Analyst, GTM Analytics | Provo, Utah, United States | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-qualtrics-8247259?s=gh-new-grad-data-science-jobs-2027) |
 | **Disney** | Finance & Data Intern, Spring 2027 | Anaheim, CA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160502?s=gh-new-grad-data-science-jobs-2027) |
 | **Citi** | In-House Creative Agency Marketing Data Analyst - C13 | Schaumburg Illinois United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26999449?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Allstate** | Managing Engineer, Data Engineering | Remote | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35362?s=gh-new-grad-data-science-jobs-2027) |
-| **JPMorgan Chase** | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, United States | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795946?s=gh-new-grad-data-science-jobs-2027) |
+| **Allstate** | Managing Engineer, Data Engineering | Remote | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35362?s=gh-new-grad-data-science-jobs-2027) |
+| **JPMorgan Chase** | Software and Data Engineer - Software Engineer III- Agentic Pricing | Jersey City, NJ, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210795946?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 4 | New York, NY | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1002915?s=gh-new-grad-data-science-jobs-2027) |
 | **TD Bank** | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Mount Laurel, New Jersey | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1510797?s=gh-new-grad-data-science-jobs-2027) |
 | **Cisco** | Data Engineer | RTP, North Carolina, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025379?s=gh-new-grad-data-science-jobs-2027) |
