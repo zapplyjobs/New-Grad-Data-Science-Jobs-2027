@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Comcast** | Machine Learning Engineer-Xumo | CA - Irvine | 19m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445122?s=gh-new-grad-data-science-jobs-2027) |
+| **Comcast** | Machine Learning Engineer-Xumo | CA - Irvine | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445122?s=gh-new-grad-data-science-jobs-2027) |
 | **Moderna** | Scientist, Analytical Development | Norwood, Massachusetts,... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19741?s=gh-new-grad-data-science-jobs-2027) |
 | **Baseten** | Product Data Scientist | San Francisco | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-baseten-84c24e55-1db0-49b6-99d8-9bce9e16892f?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Scientist III, AGI Responsible AI (RAI) | Sunnyvale, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-cd34a7d5-a2f1-46c1-89ca-a79abc6c4a71?s=gh-new-grad-data-science-jobs-2027) |
@@ -180,10 +180,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Baseten** | Revenue Analyst | San Francisco | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-baseten-bdc52dc9-2401-4b67-80cf-5bc7656034a6?s=gh-new-grad-data-science-jobs-2027) |
 | **Amentum** | Biometrics (Fingerprint) Technician - Part Time | FL-Fort Myers | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0169247?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Science Manager, Sponsored Products and Brands | Seattle, WA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-b2ff0a09-35a1-4013-93fd-8da0c880d4dd?s=gh-new-grad-data-science-jobs-2027) |
-| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities | Redmond, Washington, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200037984?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities | Redmond, Washington, United States | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200037984?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | UX Quantitative Researcher, Geo Makers | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-96109534967145158?s=gh-new-grad-data-science-jobs-2027) |
 | **NBCUniversal** | Data Analyst - Digital Media Sales, NBCU Local | New York, NEW YORK | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000153840739?s=gh-new-grad-data-science-jobs-2027) |
-| **Fidelity Investments** | Associate Investment Data Analyst | Greenwood Village, CO | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135650?s=gh-new-grad-data-science-jobs-2027) |
+| **Fidelity Investments** | Associate Investment Data Analyst | Greenwood Village, CO | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135650?s=gh-new-grad-data-science-jobs-2027) |
 | **Fivetran** | Executive Business Partner | Oakland, California, United... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fivetran-8005005003?s=gh-new-grad-data-science-jobs-2027) |
 | **Wellmark, Inc.** | Marketing Data Analyst | Des Moines, IA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-WellmarkInc-744000153809000?s=gh-new-grad-data-science-jobs-2027) |
 | **Watershed** | Customer data specialist, US (fixed-term) | New York City | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-watershed-94a4a3bf-5a8c-44e4-ab78-de855d875d23?s=gh-new-grad-data-science-jobs-2027) |
@@ -431,7 +431,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Proofpoint** | AI Engineer II | Texas | 38m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14847?s=gh-new-grad-data-science-jobs-2027) |
+| **Proofpoint** | AI Engineer II | Texas | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-proofpoint-proofpointcareers-R14847?s=gh-new-grad-data-science-jobs-2027) |
 | **Anthropic** | Applied AI Engineer, Public Sector | Washington, DC | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5445410008?s=gh-new-grad-data-science-jobs-2027) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8817974002?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | AI Engineer | Any State | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333163?s=gh-new-grad-data-science-jobs-2027) |
