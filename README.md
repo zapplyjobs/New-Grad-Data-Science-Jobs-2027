@@ -66,12 +66,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **GDIT** | Data Scientist-Sr | USA FL MacDill AFB | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229881?s=gh-new-grad-data-science-jobs-2027) |
-| **Microsoft** | Data Science INTERN | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041778?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Data Science INTERN | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041778?s=gh-new-grad-data-science-jobs-2027) |
 | **Dell Technologies** | Data Science Undergraduate Intern | TX, United States | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-dell-technologies-299978?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Machine Learning Engineer – LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling | Cupertino | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687821?s=gh-new-grad-data-science-jobs-2027) |
-| **Stripe** | Machine Learning Engineer, Radar | Seattle | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8243617?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Machine Learning Engineer – LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling | Cupertino | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687821?s=gh-new-grad-data-science-jobs-2027) |
+| **Stripe** | Machine Learning Engineer, Radar | Seattle | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8243617?s=gh-new-grad-data-science-jobs-2027) |
 | **Parsons** | AEGIS Based Defense Systems Data Analytics Engineer | VA, Dahlgren, R187029 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187029?s=gh-new-grad-data-science-jobs-2027) |
-| **Microsoft** | Research Scientist - Economist | Redmond, Washington, United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059839?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Research Scientist - Economist | Redmond, Washington, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200059839?s=gh-new-grad-data-science-jobs-2027) |
 | **Sift** | Machine Learning Engineer | San Francisco, California | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-sift-45b22605-1abb-483e-8ef7-5ceaf04f5868?s=gh-new-grad-data-science-jobs-2027) |
 | **ClickHouse** | Machine Learning Engineer (AI/ML) | New York | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-clickhouse-b3e6d985-b540-456c-8eee-edfd79580572?s=gh-new-grad-data-science-jobs-2027) |
 | **Guidehouse** | Data Scientist | VA, Arlington | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-guidehouse-external-45184?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Brown & Brown Insurance** | Specific Stop Loss Data Analyst | Remote - USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003167?s=gh-new-grad-data-science-jobs-2027) |
-| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-new-grad-data-science-jobs-2027) |
+| **Brown & Brown Insurance** | Specific Stop Loss Data Analyst | Remote - USA | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003167?s=gh-new-grad-data-science-jobs-2027) |
+| **T. Rowe Price** | 2027 Technology and Data Internship | Baltimore, MD | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-troweprice-troweprice-82677?s=gh-new-grad-data-science-jobs-2027) |
 | **GDIT** | Intelligence Analyst | USA VA McLean | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229868?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Business Process Excellence, HR Transformation | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31104?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Spring 2027 Co-op, Integrated Pharmacology | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31107?s=gh-new-grad-data-science-jobs-2027) |
