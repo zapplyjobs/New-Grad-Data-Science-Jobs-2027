@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **MITRE** | Complex Systems Modeler | McLean, Virginia | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117066?s=gh-new-grad-data-science-jobs-2027) |
-| **MITRE** | Intermediate Applied Mathematician--Communications, Navigation, and Timing Engineering | Bedford, Massachusetts | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R116709?s=gh-new-grad-data-science-jobs-2027) |
+| **MITRE** | Complex Systems Modeler | McLean, Virginia | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117066?s=gh-new-grad-data-science-jobs-2027) |
+| **MITRE** | Intermediate Applied Mathematician--Communications, Navigation, and Timing Engineering | Bedford, Massachusetts | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R116709?s=gh-new-grad-data-science-jobs-2027) |
 | **Sony Interactive Entertainment** | Tableau Developer, People Analytics (Contract) | United States, Remote | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6215600004?s=gh-new-grad-data-science-jobs-2027) |
 | **Mastercard** | Manager, Economic Modeling | Arlington Virginia | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-290899?s=gh-new-grad-data-science-jobs-2027) |
 | **KLA** | Project Manager & Data Analyst | Ann Arbor, MI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641875?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Data Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
-| **Amentum** | Data Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 5, Insights Platform | Plano, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003328?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 5 | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001168?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Engineer | Fort Belvoir, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250764?s=gh-new-grad-data-science-jobs-2027) |
