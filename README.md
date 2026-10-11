@@ -16,9 +16,9 @@
 <p align="center">🚀 Data science, analytics, and ML jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20Jobs-1683-3FB950?style=flat&logo=briefcase" height="30" alt="Data Science Jobs">
-  <img src="https://img.shields.io/badge/Data%20Analyst-527-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
-  <img src="https://img.shields.io/badge/Companies-372-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Data%20Science%20Jobs-1661-3FB950?style=flat&logo=briefcase" height="30" alt="Data Science Jobs">
+  <img src="https://img.shields.io/badge/Data%20Analyst-528-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
+  <img src="https://img.shields.io/badge/Companies-373-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -86,13 +86,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Radiance Technologies** | Research Data Scientist | Ruston, LA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-radiancetech-radiance-external-HR102473?s=gh-new-grad-data-science-jobs-2027) |
 | **Boeing** | Full Stack Data Scientist | Seattle, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526520?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Manager, Data Scientist, Data Solutions and Modeling | Chicago, IL | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R249729?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Machine Learning Engineer, Apple Services Engineering | Seattle | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687765?s=gh-new-grad-data-science-jobs-2027) |
 | **CVS Health** | Decision Scientist - Clinical Informatics (Clinical Data Standards) | NY Work from hom | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1014400?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | Data Scientist | Tampa, FL, US | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-330984?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Data Scientist, Audio Telemetry Intelligence | Cupertino | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687836?s=gh-new-grad-data-science-jobs-2027) |
 | **PointClickCare** | Marketing Data Analytics Engineer (US) | Remote, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pointclickcare-96d77b19-2396-4f9e-9513-59471b3e28ed?s=gh-new-grad-data-science-jobs-2027) |
 | **Leidos** | Data Scientist | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194287?s=gh-new-grad-data-science-jobs-2027) |
 | **Vercel** | Machine Learning Engineer, Trust & Safety | Hybrid - San Francisco, New... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-vercel-6208037004?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Associate Marketing Data Scientist | Celebration, FL, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10161936?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Scientist Manager, Marketplace Intelligence | Arlington, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-81f46ece-6c80-4d70-bf2b-2ce0461db076?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC - A57** | Data Scientist II - AMZ10564056 | Culver City, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-f0f1a629-f897-4ee6-9700-f337fec08f4a?s=gh-new-grad-data-science-jobs-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-data-science-jobs-2027) |
@@ -100,7 +99,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **OpenAI** | Data Scientist, FinEng | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-082f4d82-499f-4150-892f-0b0d1105fffe?s=gh-new-grad-data-science-jobs-2027) |
 | **GDIT** | Data Scientist-Sr | USA FL MacDill AFB | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229881?s=gh-new-grad-data-science-jobs-2027) |
 | **Moderna** | Scientist, Protein Design | Cambridge, Massachusetts, Research | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-modernatx-m-tx-R19819?s=gh-new-grad-data-science-jobs-2027) |
-| **Disney** | Associate Marketing Data Scientist | Celebration, FL, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10161936?s=gh-new-grad-data-science-jobs-2027) |
 | **Cox** | Data Scientist Co-op | Atlanta GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202683033?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Data Science: PhD Internship Opportunities - Redmond | Redmond, Washington, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200052449?s=gh-new-grad-data-science-jobs-2027) |
 | **Handshake** | Machine Learning Engineer | San Francisco, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-handshake-42aca7f5-2f58-40ef-a6ce-19027d32a12f?s=gh-new-grad-data-science-jobs-2027) |
@@ -165,6 +163,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Home Depot** | Associate Data Scientist - Supply Chain | STORE SUPPORT | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req195136?s=gh-new-grad-data-science-jobs-2027) |
 | **Marvell** | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604989?s=gh-new-grad-data-science-jobs-2027) |
 | **Boeing** | Experienced Data Scientist | USA - Hazelwood, MO | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520583?s=gh-new-grad-data-science-jobs-2027) |
+| **Caterpillar** | Data Scientist | Morton, Illinois | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398239?s=gh-new-grad-data-science-jobs-2027) |
+| **Anduril** | Supplier Quality Data Analytics Engineer | Costa Mesa, California, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5244483007?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -203,6 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Squarepoint Capital** | Quantitative Researcher, Equity Mid-Frequency | New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-squarepointcapital-8257365?s=gh-new-grad-data-science-jobs-2027) |
 | **Squarepoint Capital** | Quantitative Researcher, Volatility - Medium-Frequency | New York | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-squarepointcapital-8257346?s=gh-new-grad-data-science-jobs-2027) |
 | **Accenture Federal Services** | Cyber Threat Intelligence Analyst | Leesburg, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4720525006?s=gh-new-grad-data-science-jobs-2027) |
+| **Broadridge** | Finance Data Analyst – Data Analytics & Reporting (Hybrid) | Edgewood, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086604?s=gh-new-grad-data-science-jobs-2027) |
 | **TransUnion** | Consultants | Chicago, Illinois | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-transunion-transunion-19042816?s=gh-new-grad-data-science-jobs-2027) |
 | **Federal Reserve System** | Research Analyst | Cleveland, OH | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033336?s=gh-new-grad-data-science-jobs-2027) |
 | **Faire** | Strategy & Operations Senior Associate | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-faire-8880835002?s=gh-new-grad-data-science-jobs-2027) |
@@ -217,7 +218,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GDIT** | Intelligence Analyst | USA VA McLean | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229868?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | Data Analyst | Reston, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603404?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | Data Quality Analyst | Reston, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603403?s=gh-new-grad-data-science-jobs-2027) |
-| **Broadridge** | Finance Data Analyst – Data Analytics & Reporting (Hybrid) | Edgewood, NY | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-broadridge-careers-JR1086604?s=gh-new-grad-data-science-jobs-2027) |
 | **Trane Technologies** | Digital Marketing Data Analyst | Davidson, North Carolina | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14112?s=gh-new-grad-data-science-jobs-2027) |
 | **JLL** | Portfolio & Market Intelligence Analyst | Chicago, IL | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540475?s=gh-new-grad-data-science-jobs-2027) |
 | **Charles River Associates** | (2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer... | New York, NY, United States | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-charlesriverassociates-8263475?s=gh-new-grad-data-science-jobs-2027) |
@@ -262,6 +262,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Applied Science: PhD Internship Opportunities - Multiple Locations | Redmond, Washington, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200053343?s=gh-new-grad-data-science-jobs-2027) |
 | **DRW** | Data Analyst - Business Intelligence | Chicago | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-drweng-8256605?s=gh-new-grad-data-science-jobs-2027) |
 | **Leidos** | ELINT Signals Analyst | Aurora, CO | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00194072?s=gh-new-grad-data-science-jobs-2027) |
+| **HNTB** | GIS Analyst I | Baton Rouge, LA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hntb-hntb-careers-R-31791?s=gh-new-grad-data-science-jobs-2027) |
 | **Baseten** | Revenue Analyst | San Francisco | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-baseten-bdc52dc9-2401-4b67-80cf-5bc7656034a6?s=gh-new-grad-data-science-jobs-2027) |
 | **Aerospace Corporation** | Space Enterprise Optimization Analyst | Chantilly, VA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016378?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Applied Science Manager, Prime Video Personalization & Discovery | Seattle, WA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-f86d58a7-11f7-49ef-953e-cbbc901dd62e?s=gh-new-grad-data-science-jobs-2027) |
@@ -275,7 +276,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DraftKings** | Analyst I, Customer Economics | New York, NY | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-draftkings-draftkings-JR15128?s=gh-new-grad-data-science-jobs-2027) |
 | **JLL** | Research Analyst | Menlo Park, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ536447?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Applied Science: PhD Microsoft AI Internship Opportunities | Redmond, Washington, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200037984?s=gh-new-grad-data-science-jobs-2027) |
-| **Google** | UX Quantitative Researcher, Geo Makers | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-96109534967145158?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -287,14 +287,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Data Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
-| **Amentum** | Data Engineer | TX-Houston | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Software Data Engineer | Burbank, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160911?s=gh-new-grad-data-science-jobs-2027) |
+| **Disney** | Data Engineer II | Seattle, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10153088?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Data Engineer 5, Insights Platform | Plano, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R1003328?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Engineer | Fort Belvoir, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250764?s=gh-new-grad-data-science-jobs-2027) |
 | **Booz Allen Hamilton** | Data Engineer | Arlington, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251495?s=gh-new-grad-data-science-jobs-2027) |
 | **Nelnet** | Data Engineer | Lincoln, NE | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23174?s=gh-new-grad-data-science-jobs-2027) |
-| **Disney** | Data Engineer II | Seattle, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10153088?s=gh-new-grad-data-science-jobs-2027) |
-| **Disney** | Software Data Engineer | Burbank, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160911?s=gh-new-grad-data-science-jobs-2027) |
 | **Sony Interactive Entertainment** | Data Engineer | TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sonyinteractiveentertainmentglobal-6147057004?s=gh-new-grad-data-science-jobs-2027) |
 | **Anthropic** | Data Engineer, Product | San Francisco, CA  New York... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-anthropic-5448481008?s=gh-new-grad-data-science-jobs-2027) |
 | **SpaceX** | Software Engineer (AI Data Engineering) | Hawthorne, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8880868002?s=gh-new-grad-data-science-jobs-2027) |
@@ -332,11 +332,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Data Engineer – Physical AI Platform | Chicago, Illinois | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Data Engineer, Core Experimentation | Seattle | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-2796d32a-9f7c-4008-a2c5-50dd53b0f2fe?s=gh-new-grad-data-science-jobs-2027) |
 | **NTT Data** | Fabric Data Engineer - Pyspark | Bangalore, IN-KA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ntt-data-390147?s=gh-new-grad-data-science-jobs-2027) |
+| **CIBC** | Databricks Data Engineer, Risk Technology | Chicago, IL | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2613362?s=gh-new-grad-data-science-jobs-2027) |
 | **Allstate** | Managing Engineer, Data Engineering | Remote | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35362?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon Development Center U.S., Inc.** | Data Engineer II, AWS Marketplace and Partner Services | Seattle, WA | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-efc175de-031c-4499-8bfe-9f652b82a7cb?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | Data Engineer | Reston, VA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603342?s=gh-new-grad-data-science-jobs-2027) |
 | **Salesforce** | Data Engineer (SMTS / LMTS) - MDM | California San Francisco | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR347388?s=gh-new-grad-data-science-jobs-2027) |
-| **CIBC** | Databricks Data Engineer, Risk Technology | Chicago, IL | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cibc-search-2613362?s=gh-new-grad-data-science-jobs-2027) |
 | **Comcast** | Platform Data Engineer - (DataBricks, PySpark, AWS) | PA - West Chester | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R442523?s=gh-new-grad-data-science-jobs-2027) |
 | **Samsara** | Data Engineer | Remote - US | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8141959?s=gh-new-grad-data-science-jobs-2027) |
 | **Dell Technologies** | Consultant, Data Engineering | TX, United States | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-dell-technologies-300054?s=gh-new-grad-data-science-jobs-2027) |
@@ -355,7 +355,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **State Street** | Data Engineer (Databricks), Assistant Vice President | Princeton New Jersey | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-790387?s=gh-new-grad-data-science-jobs-2027) |
 | **Blackstone** | 2024 Blackstone Technology and Innovations - Data Engineer Analyst | New York | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-blackstone-bx-external-site-29118?s=gh-new-grad-data-science-jobs-2027) |
 | **Parsons** | Data Engineer TS/SCI | VA, Arlington, R185016 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R185016?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Simulation Generative Data Engineer | Cupertino | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200686621?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | Data Engineer/Analyst | Alexandria, VA, US | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332915?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | Cloud Pipeline Data Engineer | 999 | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-329626?s=gh-new-grad-data-science-jobs-2027) |
 | **OpenAI** | Data Engineer, Hardware & Consumer Devices | San Francisco | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-openai-c25fd30e-056e-4a26-af80-7ea1074fc56e?s=gh-new-grad-data-science-jobs-2027) |
@@ -368,7 +367,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Amazon Web Services, Inc.** | Data Engineer II, AWS Partnerships | Austin, TX | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-845ba5e3-4c72-4538-93d3-2d30784f2cb1?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Data Engineer II, OpsTech Team, OTS Anchor Team | Austin, TX | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-4bc4313e-c3aa-4034-ab3c-84f6fd6a2a7a?s=gh-new-grad-data-science-jobs-2027) |
 | **Mastercard** | Data Engineer II | O'Fallon, Missouri | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-286580?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Finance Data Engineer | Austin | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200684451?s=gh-new-grad-data-science-jobs-2027) |
 | **RTX** | Reliability & Data Engineer II - Top Secret Clearance Required | TX-PLANO | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01865651?s=gh-new-grad-data-science-jobs-2027) |
 | **First Solar** | Data Engineering Intern (Spring 2027) | Perrysburg, OH, United States | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-first-solar-1026045?s=gh-new-grad-data-science-jobs-2027) |
 | **SpaceX** | Software Engineer (AI Data Engineering) | Hawthorne, CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-spacex-8843640002?s=gh-new-grad-data-science-jobs-2027) |
@@ -387,6 +385,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Campbell Soup Company** | Data Engineer - Operational Support (Co-op) | USA - NJ - Camden | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-65842?s=gh-new-grad-data-science-jobs-2027) |
 | **Campbell Soup Company** | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-campbellsoup-externalcareers-globalsite-Req-65843?s=gh-new-grad-data-science-jobs-2027) |
 | **LPL Financial** | Intern 2027 - Data Engineer | Fort MillCharlotte | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lplfinancial-university-R-052914?s=gh-new-grad-data-science-jobs-2027) |
+| **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marmon-marmon-msip-internships-JR0000037453?s=gh-new-grad-data-science-jobs-2027) |
+| **Philips** | Co-op-Data Engineering-Reedsville, PA-July-December 2027 | Reedsville, Pennsylvania,... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-587486?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -454,7 +454,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NREL** | Postdoctoral Researcher – Vision Machine Learning | Golden, CO | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nrel-nlr-R14557?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | AI Engineer | Reston, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603421?s=gh-new-grad-data-science-jobs-2027) |
 | **State Street** | Artificial Intelligence & Machine Learning, AVP | Quincy, Massachusetts | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-797810?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Applied AI Engineer, Agent Harness | Cupertino | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688056?s=gh-new-grad-data-science-jobs-2027) |
 | **Symbotic** | Intern- Machine Learning Ops | USA Wilmington,  MA - | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-symbotic-symbotic-R8202?s=gh-new-grad-data-science-jobs-2027) |
 | **Accenture Federal Services** | AI Engineer (Agentic AI) - Secret cleared | Arlington, VA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4719499006?s=gh-new-grad-data-science-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction | Mountain View, CA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8262154?s=gh-new-grad-data-science-jobs-2027) |
@@ -463,7 +462,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Software Engineer, Machine Learning Platform - Gen AI | San Francisco, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-8264542?s=gh-new-grad-data-science-jobs-2027) |
 | **Motorola Solutions** | GenAI & Machine Learning - 2027 Summer Internship (Chicago Hybrid) | Chicago, IL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R68929?s=gh-new-grad-data-science-jobs-2027) |
 | **MITRE** | AI Engineer (Intelligence Center) | Springfield, Virginia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R116977?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Applied AI Engineer | Cupertino | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200670689?s=gh-new-grad-data-science-jobs-2027) |
 | **Bose** | Audio Machine Learning Intern/Co-op | MA Framingham | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29277?s=gh-new-grad-data-science-jobs-2027) |
 | **Cardinal Health** | AI/ML Engineer | Nationwide-FIELD | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188828?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | Applied AI Engineer — Global Health & AI (REMOTE ROLE) | Rockville, MD | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603377?s=gh-new-grad-data-science-jobs-2027) |
@@ -486,7 +484,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) | San Francisco, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lyft-8817974002?s=gh-new-grad-data-science-jobs-2027) |
 | **Citi** | Python AI Engineer - Assistant Vice President | Irving Texas United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26999750?s=gh-new-grad-data-science-jobs-2027) |
 | **LinkedIn** | AI Engineer | Mountain View, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000153827538?s=gh-new-grad-data-science-jobs-2027) |
-| **Apple** | Machine Learning Evaluation Engineer | Sunnyvale | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200687261?s=gh-new-grad-data-science-jobs-2027) |
 | **HPE** | Finance Transformation Data/AIML Engineer | Spring, Texas, United States of... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215702?s=gh-new-grad-data-science-jobs-2027) |
 | **Tenstorrent** | Applied AI Engineer | Santa Clara, California, United... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-tenstorrent-5257595007?s=gh-new-grad-data-science-jobs-2027) |
 | **Micron Technology** | Intern - SMAI TD AI Engineering Team | Boise, ID - Main Site | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112991?s=gh-new-grad-data-science-jobs-2027) |
@@ -537,6 +534,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **DoorDash** | Software Engineer, Machine Learning (All Levels / All Teams) | Sunnyvale, CA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-doordashusa-5635021?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | 2027 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) -... | Seattle, WA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-de9fd61c-eb9b-488f-aac1-e0675b4e88fc?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | 2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)-... | Seattle, WA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-d420ccc4-503a-49ae-ac98-291cd216272b?s=gh-new-grad-data-science-jobs-2027) |
+| **Amazon.com Services LLC** | 2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning)... | Seattle, WA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-85268e35-b1d2-47a1-b804-f7d1bd353eb0?s=gh-new-grad-data-science-jobs-2027) |
+| **JPMorgan Chase** | Product Delivery Manager - Machine Learning and AI | Wilmington, DE, United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210763737?s=gh-new-grad-data-science-jobs-2027) |
+| **Grant Thornton** | AI Engineer Manager - Finance | Arlington, VA, United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-grant-thornton-116061?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -613,7 +613,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1683 current opportunities from 372 companies**
+**🎯 1661 current opportunities from 373 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
