@@ -287,8 +287,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
-| **Amentum** | Data Engineer | TX-Houston | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170371?s=gh-new-grad-data-science-jobs-2027) |
+| **Amentum** | Data Engineer | TX-Houston | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0170374?s=gh-new-grad-data-science-jobs-2027) |
 | **Nelnet** | Data Engineer | Lincoln, NE | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nelnet-mynelnet-R23174?s=gh-new-grad-data-science-jobs-2027) |
 | **Disney** | Software Data Engineer | Burbank, CA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10160911?s=gh-new-grad-data-science-jobs-2027) |
 | **Disney** | Data Engineer II | Seattle, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10153088?s=gh-new-grad-data-science-jobs-2027) |
@@ -322,7 +322,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Caterpillar** | Data Engineer | USA - TX - Irving - Walnut Hill | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398309?s=gh-new-grad-data-science-jobs-2027) |
 | **Home Depot** | Data Engineer | GEORGIA - VIRTUAL - GA01 | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req194939?s=gh-new-grad-data-science-jobs-2027) |
 | **DataCamp** | Learning Solution Architect - Data Engineering | United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datacamp-8261083?s=gh-new-grad-data-science-jobs-2027) |
-| **Comcast** | Data Engineer 2 | PA Virtual C | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R444603?s=gh-new-grad-data-science-jobs-2027) |
+| **Comcast** | Data Engineer 2 | PA Virtual C | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R444603?s=gh-new-grad-data-science-jobs-2027) |
 | **Caterpillar** | Data Engineer – Physical AI Platform | Chicago, Illinois | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000397754?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon Development Center U.S., Inc.** | Data Engineer II, Product BI | Seattle, WA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-e5f1dff0-b033-414a-bcad-e361703bdf4c?s=gh-new-grad-data-science-jobs-2027) |
 | **JPMorgan Chase** | Data Engineer III - ETL | Jersey City, NJ, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210796387?s=gh-new-grad-data-science-jobs-2027) |
