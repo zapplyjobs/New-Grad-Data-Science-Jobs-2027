@@ -358,7 +358,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Research Intern - Machine Learning at MSR NYC | New York, New York, United States | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062418?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Research Intern - Machine Learning at MSR NYC | New York, New York, United States | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062418?s=gh-new-grad-data-science-jobs-2027) |
 | **Emerson Electric** | Machine Learning R&D Co-Op | Marshalltown, IA, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-emerson-electric-26008762?s=gh-new-grad-data-science-jobs-2027) |
 | **S&P Global** | Machine Learning Operations Engineer I | Cambridge, MA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-330647?s=gh-new-grad-data-science-jobs-2027) |
 | **General Motors** | 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) | Warren, Michigan, United States... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622539?s=gh-new-grad-data-science-jobs-2027) |
