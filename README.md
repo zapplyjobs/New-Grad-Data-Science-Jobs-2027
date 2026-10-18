@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20Jobs-656-3FB950?style=flat&logo=briefcase" height="30" alt="Data Science Jobs">
-  <img src="https://img.shields.io/badge/Data%20Analyst-288-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
+  <img src="https://img.shields.io/badge/Data%20Analyst-287-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
   <img src="https://img.shields.io/badge/Companies-219-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -117,10 +117,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Machine Learning Engineer Intern (E-Commerce Risk Control)- 2027 Start (PhD) | San Jose, California | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/bytedance-7675478684795881781?s=gh-new-grad-data-science-jobs-2027) |
 | **Pinterest** | Master's Data Science Internship 2027 (USA) | San Francisco, CA, US | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8138097?s=gh-new-grad-data-science-jobs-2027) |
 | **Pinterest** | PhD Data Science Internship 2027 (USA) | San Francisco, CA, US | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8140169?s=gh-new-grad-data-science-jobs-2027) |
+| **Federal Reserve System** | Summer 2027 Intern-Data Science and Business Analytics | Chicago, IL | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033609?s=gh-new-grad-data-science-jobs-2027) |
+| **Federal Reserve System** | Summer 2027 Intern- PhD Data Science or Computer Science | Chicago, IL | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033634?s=gh-new-grad-data-science-jobs-2027) |
 | **Stripe** | PhD Data Scientist, Intern | New York, Seattle, South San... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-stripe-8194283?s=gh-new-grad-data-science-jobs-2027) |
 | **Adobe** | 2027 Intern - Machine Learning Engineer | San Jose | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171519?s=gh-new-grad-data-science-jobs-2027) |
-| **Federal Reserve System** | Summer 2027 Intern- PhD Data Science or Computer Science | Chicago, IL | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033634?s=gh-new-grad-data-science-jobs-2027) |
-| **Federal Reserve System** | Summer 2027 Intern-Data Science and Business Analytics | Chicago, IL | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033609?s=gh-new-grad-data-science-jobs-2027) |
 | **Johnson & Johnson** | Data Science Co-op | Danvers, Massachusetts, United... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100341?s=gh-new-grad-data-science-jobs-2027) |
 | **Flagship Pioneering** | Terrana: Bioinformatics Co-Op: Computational Biology & Data Science | Cambridge, MA USA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8843290002?s=gh-new-grad-data-science-jobs-2027) |
 | **Verizon** | Irving V Teamer for a Day: Verizon Data Science Summer 2027 Internship | Irving, Texas | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101386?s=gh-new-grad-data-science-jobs-2027) |
@@ -291,6 +291,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **The Travelers Companies** | Data Engineer I (Databricks, AWS, Python) | CT Hartford | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-51638?s=gh-new-grad-data-science-jobs-2027) |
 | **State Street** | Junior SIEM Data Engineer | Quincy, Massachusetts | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-794329?s=gh-new-grad-data-science-jobs-2027) |
 | **Cox** | Data Engineer I | Carmel IN | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202683561?s=gh-new-grad-data-science-jobs-2027) |
+| **Apple** | Engineering Project Manager, Ai & Data Platforms | Sunnyvale | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200688678?s=gh-new-grad-data-science-jobs-2027) |
 | **Symbotic** | Intern- Data Engineer | USA Wilmington,  MA - | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-symbotic-symbotic-R7967?s=gh-new-grad-data-science-jobs-2027) |
 | **The Travelers Companies** | Data Engineer I (AWS, Python, SQL) | CT Hartford | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-52876?s=gh-new-grad-data-science-jobs-2027) |
 | **CapTech Consulting** | Consulting Internship: Data Analysis/Data Engineering  (Summer 2027) | Richmond, VA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-CapTechConsulting-744000155023169?s=gh-new-grad-data-science-jobs-2027) |
