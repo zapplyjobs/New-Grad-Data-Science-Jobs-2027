@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Quality Data Science Co-Op , Summer 2027 | Cincinnati, Ohio, United States... | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103629?s=gh-new-grad-data-science-jobs-2027) |
+| **Johnson & Johnson** | Quality Data Science Co-Op , Summer 2027 | Cincinnati, Ohio, United States... | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103629?s=gh-new-grad-data-science-jobs-2027) |
 | **Cox** | Data Scientist Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682164?s=gh-new-grad-data-science-jobs-2027) |
 | **Zoetis** | Chemistry Data Science Intern - Digital CMC Workflows | Kalamazoo - Downtown Portage Street | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021822?s=gh-new-grad-data-science-jobs-2027) |
 | **Wash U** | Research Statistician I - Data Scientist - Anesthesiology | Washington University Medical | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wustl-external-JR98120?s=gh-new-grad-data-science-jobs-2027) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **KLA** | Tax & Data Analytics Intern | Ann Arbor, MI | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2642280?s=gh-new-grad-data-science-jobs-2027) |
-| **Microsoft** | Applied Sciences INTERN | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Applied Sciences INTERN | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-new-grad-data-science-jobs-2027) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Winter 2027) | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5267197007?s=gh-new-grad-data-science-jobs-2027) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) | San Francisco | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-togetherai-5267198007?s=gh-new-grad-data-science-jobs-2027) |
 | **Accenture Federal Services** | SAP Data Migration Consultant - 100% onsite in St. Louis, MO | St. Louis, MO | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4722622006?s=gh-new-grad-data-science-jobs-2027) |
