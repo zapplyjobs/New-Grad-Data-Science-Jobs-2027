@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Wells Fargo** | 2027 Technology Summer Internship – Early Careers (Data Engineering) | CHARLOTTE, NC | 14m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583066?s=gh-new-grad-data-science-jobs-2027) |
+| **Wells Fargo** | 2027 Technology Summer Internship – Early Careers (Data Engineering) | CHARLOTTE, NC | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-583066?s=gh-new-grad-data-science-jobs-2027) |
 | **Google** | AI Data Engineer I, Professional Services, Google Cloud | United States | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/google-90752211805446854?s=gh-new-grad-data-science-jobs-2027) |
 | **Flagship Pioneering** | ProFound Therapeutics: Bioinformatics Data Engineering Co-Op | Cambridge, MA USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8911245002?s=gh-new-grad-data-science-jobs-2027) |
 | **CVS Health** | Innovation & Technology Internship – Data Engineering – Summer 2027 (Graduate) | NY - New York | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081101?s=gh-new-grad-data-science-jobs-2027) |
@@ -296,7 +296,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **The Travelers Companies** | Data Engineer I (AWS, Python, GenAI) | CT Hartford | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53217?s=gh-new-grad-data-science-jobs-2027) |
 | **Snowflake** | Product Marketing, AI-Powered Data Engineering Intern (Spring 2027) | CA-Menlo Park | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-45f2aa43-731d-4bab-a02b-9ef979f2c86e?s=gh-new-grad-data-science-jobs-2027) |
 | **The Travelers Companies** | Data Engineer I (Databricks, AWS, Python) | CT Hartford | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-51638?s=gh-new-grad-data-science-jobs-2027) |
-| **CapTech Consulting** | Consulting Internship: Data Analysis/Data Engineering  (Summer 2027) | Richmond, VA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-CapTechConsulting-744000155023169?s=gh-new-grad-data-science-jobs-2027) |
+| **CapTech Consulting** | Consulting Internship: Data Analysis/Data Engineering  (Summer 2027) | Richmond, VA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-CapTechConsulting-744000155023169?s=gh-new-grad-data-science-jobs-2027) |
 | **Symbotic** | Intern- Data Engineer | USA Wilmington,  MA - | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-symbotic-symbotic-R7967?s=gh-new-grad-data-science-jobs-2027) |
 | **Perpay** | Super Day - Data Engineering Internship | Philadelphia, Pennsylvania,... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perpay-5260444007?s=gh-new-grad-data-science-jobs-2027) |
 | **ICF** | 2027 Summer Intern, Data Engineer (Reston, VA or Remote) | Reston, VA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-icf-icfexternal-career-site-R2603380?s=gh-new-grad-data-science-jobs-2027) |
@@ -315,7 +315,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Coinbase** | Data Engineer Intern | Hybrid - San Francisco, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-coinbase-8175459?s=gh-new-grad-data-science-jobs-2027) |
 | **Kodiak Robotics** | Winter 2027 Intern, Data Engineering | Mountain View, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-kodiak-4396622009?s=gh-new-grad-data-science-jobs-2027) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 3mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-jumptrading-8002998?s=gh-new-grad-data-science-jobs-2027) |
-| **Perpay** | Data Engineering Internship, Summer 2027 | Philadelphia, Pennsylvania,... | 37mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perpay-4076965007?s=gh-new-grad-data-science-jobs-2027) |
+| **Perpay** | Data Engineering Internship, Summer 2027 | Philadelphia, Pennsylvania,... | 38mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perpay-4076965007?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
