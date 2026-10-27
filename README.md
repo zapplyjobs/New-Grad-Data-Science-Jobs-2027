@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-new-grad-data-science-jobs-2027) |
-| **Saviynt** | Research Scientist Intern - PhD | Milpitas, California | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-saviynt-183188c3-c043-4f91-b3f0-30ec4961f4c7?s=gh-new-grad-data-science-jobs-2027) |
+| **Visa** | Data Science Intern, Data and AI Team – Summer 2027 | Foster City, CA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089883W?s=gh-new-grad-data-science-jobs-2027) |
+| **Saviynt** | Research Scientist Intern - PhD | Milpitas, California | 13h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-saviynt-183188c3-c043-4f91-b3f0-30ec4961f4c7?s=gh-new-grad-data-science-jobs-2027) |
 | **Zillow** | Data Science Intern | Seattle-WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751677?s=gh-new-grad-data-science-jobs-2027) |
 | **Applied Materials** | 2027 Spring Data Scientist Co-op - Gloucester, MA | Gloucester,MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2632146?s=gh-new-grad-data-science-jobs-2027) |
 | **Baxter International** | Research Scientist I | Round Lake, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-210052?s=gh-new-grad-data-science-jobs-2027) |
