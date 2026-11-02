@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Sierra Nevada Corporation** | Data Science Intern (Summer 2027) | Sparks, NV | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031257?s=gh-new-grad-data-science-jobs-2027) |
+| **Sierra Nevada Corporation** | Data Science Intern (Summer 2027) | Sparks, NV | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031257?s=gh-new-grad-data-science-jobs-2027) |
 | **CoStar Group** | Data Science Intern – Richmond, VA (Summer 2027) | VA Richmond | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-costar-costar-campus-R40140?s=gh-new-grad-data-science-jobs-2027) |
 | **Cigna** | The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer... | Bloomfield, CT | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009533?s=gh-new-grad-data-science-jobs-2027) |
 | **University of Miami** | Data Science & AI Intern | Miami, Florida | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102549?s=gh-new-grad-data-science-jobs-2027) |
@@ -157,7 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Figma** | PhD Intern, AI Applied Scientist (2027) | San Francisco, CA • New York, NY | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6207801004?s=gh-new-grad-data-science-jobs-2027) |
 | **First Solar** | Data Science Intern – Device Characterization (Spring 2027) | Perrysburg, OH, United States | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-first-solar-1026161?s=gh-new-grad-data-science-jobs-2027) |
 | **Ardian** | Data Scientist Intern | New York | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1001434?s=gh-new-grad-data-science-jobs-2027) |
-| **Thomson Reuters** | Applied Scientist Intern | Ann Arbor, California | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ203428?s=gh-new-grad-data-science-jobs-2027) |
+| **Thomson Reuters** | Applied Scientist Intern | Ann Arbor, California | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ203428?s=gh-new-grad-data-science-jobs-2027) |
 | **Vanguard** | College to Corporate IT Internship - Data Science (NC) | Charlotte, NC | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-181765?s=gh-new-grad-data-science-jobs-2027) |
 | **Vanguard** | College to Corporate IT Internship - Data Science (PA) | Malvern, PA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vanguard-vanguard-external-181766?s=gh-new-grad-data-science-jobs-2027) |
 | **Visa** | Staff Research Scientist, Intern - PhD Quantum | Foster City, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF088578W?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NBCUniversal** | Project Coordinator, Media Group Decision Sciences | New York, NEW YORK | 43m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000159170845?s=gh-new-grad-data-science-jobs-2027) |
-| **National Interstate Insurance** | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9830?s=gh-new-grad-data-science-jobs-2027) |
+| **NBCUniversal** | Project Coordinator, Media Group Decision Sciences | New York, NEW YORK | 51m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000159170845?s=gh-new-grad-data-science-jobs-2027) |
+| **National Interstate Insurance** | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9830?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Pain Territory Business Manager, Kansas City, KS | United States - Field Based | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30521?s=gh-new-grad-data-science-jobs-2027) |
 | **Citizens Financial Group** | Sr Executive Assistant- Consumer Credit Management & Decision Sciences | United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-citizens-financial-50039?s=gh-new-grad-data-science-jobs-2027) |
 | **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-new-grad-data-science-jobs-2027) |
