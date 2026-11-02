@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CoStar Group** | Data Science Intern – Richmond, VA (Summer 2027) | VA Richmond | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-costar-costar-campus-R40140?s=gh-new-grad-data-science-jobs-2027) |
+| **CoStar Group** | Data Science Intern – Richmond, VA (Summer 2027) | VA Richmond | 31m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-costar-costar-campus-R40140?s=gh-new-grad-data-science-jobs-2027) |
 | **Cigna** | The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer... | Bloomfield, CT | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009533?s=gh-new-grad-data-science-jobs-2027) |
 | **University of Miami** | Data Science & AI Intern | Miami, Florida | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100102549?s=gh-new-grad-data-science-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern | Mountain View, CA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8337719?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH | 58m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9830?s=gh-new-grad-data-science-jobs-2027) |
+| **National Interstate Insurance** | Risk and Compliance Intern - Summer 2027 | Cincinnati, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9830?s=gh-new-grad-data-science-jobs-2027) |
 | **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-new-grad-data-science-jobs-2027) |
 | **Arch Capital Group** | Data Analytics Intern | Greensboro, NC United States of... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1137?s=gh-new-grad-data-science-jobs-2027) |
 | **GDIT** | Junior Intelligence Analyst - Onsite - Active Top Secret required | USA VA Vienna | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ217410?s=gh-new-grad-data-science-jobs-2027) |
