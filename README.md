@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15091?s=gh-new-grad-data-science-jobs-2027) |
-| **Zillow** | Applied Scientist (Economics) Intern | Seattle-WA | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751642?s=gh-new-grad-data-science-jobs-2027) |
-| **Zillow** | Data Science Intern | Seattle-WA | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751677?s=gh-new-grad-data-science-jobs-2027) |
-| **NVIDIA** | PhD Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 58m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739?s=gh-new-grad-data-science-jobs-2027) |
+| **Invesco** | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15091?s=gh-new-grad-data-science-jobs-2027) |
+| **Zillow** | Applied Scientist (Economics) Intern | Seattle-WA | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751642?s=gh-new-grad-data-science-jobs-2027) |
+| **Zillow** | Data Science Intern | Seattle-WA | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zillow-zillow-group-external-P751677?s=gh-new-grad-data-science-jobs-2027) |
+| **NVIDIA** | PhD Research Scientist, Fundamental Generative AI - New College Grad 2026 | US, CA, Santa Clara | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026739?s=gh-new-grad-data-science-jobs-2027) |
 | **Capital One** | Manager, Data Science - Model Risk Office | McLean, VA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-capitalone-capital-one-R242995?s=gh-new-grad-data-science-jobs-2027) |
-| **Zoox** | Data Science Intern \[Summer 2027\] | Foster City, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-new-grad-data-science-jobs-2027) |
+| **Zoox** | Data Science Intern \[Summer 2027\] | Foster City, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-85c6aec7-8da2-445d-9c4d-812365dbce97?s=gh-new-grad-data-science-jobs-2027) |
 | **Match Group** | Data Scientist Intern | San Francisco, California | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-573621f6-9931-4e39-840a-1d04171be2ff?s=gh-new-grad-data-science-jobs-2027) |
 | **Match Group** | Machine Learning Engineer Intern | Palo Alto, California | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-matchgroup-860a839a-5be3-44dc-916f-eb2e71d67d72?s=gh-new-grad-data-science-jobs-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,12 +176,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **National Interstate Insurance** | Claims Technical Intern - Summer 2027 | Cincinnati, OH | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9873?s=gh-new-grad-data-science-jobs-2027) |
-| **Invesco** | Quantitative Researcher | Atlanta, Georgia | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15755?s=gh-new-grad-data-science-jobs-2027) |
-| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334800?s=gh-new-grad-data-science-jobs-2027) |
-| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334801?s=gh-new-grad-data-science-jobs-2027) |
-| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334802?s=gh-new-grad-data-science-jobs-2027) |
-| **Southwest Airlines** | Innovation Analytics Consultant | Dallas, TX | 58m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74266?s=gh-new-grad-data-science-jobs-2027) |
+| **National Interstate Insurance** | Claims Technical Intern - Summer 2027 | Cincinnati, OH | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9873?s=gh-new-grad-data-science-jobs-2027) |
+| **Invesco** | Quantitative Researcher | Atlanta, Georgia | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15755?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334800?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334801?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334802?s=gh-new-grad-data-science-jobs-2027) |
+| **Southwest Airlines** | Innovation Analytics Consultant | Dallas, TX | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-swa-external-R-2026-74266?s=gh-new-grad-data-science-jobs-2027) |
 | **BBVA** | DATA SPECIALIST ASSOCIATE | 01010, SAN BERNARDINO, Distrito... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbva-bbva-JR00118813?s=gh-new-grad-data-science-jobs-2027) |
 | **KLA** | Algorithm Engineering Intern | Ann Arbor, MI | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641512?s=gh-new-grad-data-science-jobs-2027) |
 | **Lila Sciences** | Co-op, AI for Protein Design | San Francisco, CA USA | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lilasciences-4480337009?s=gh-new-grad-data-science-jobs-2027) |
@@ -366,8 +366,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474?s=gh-new-grad-data-science-jobs-2027) |
-| **Thales** | AI Engineer - Graduate | Orlando | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341851?s=gh-new-grad-data-science-jobs-2027) |
+| **General Motors** | R&D Researcher – AI and Machine Learning | Warren, Michigan, United States... | 25m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621474?s=gh-new-grad-data-science-jobs-2027) |
+| **Thales** | AI Engineer - Graduate | Orlando | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341851?s=gh-new-grad-data-science-jobs-2027) |
 | **Parspec** | Applied AI Engineer Intern | Hybrid - San Mateo, California | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-parspec-0a897c21-0df7-40ba-85f2-694bf6678504?s=gh-new-grad-data-science-jobs-2027) |
 | **CACI** | AI/ML Engineering Co-op - Spring 2027 | King of Prussia, PA, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334662?s=gh-new-grad-data-science-jobs-2027) |
 | **T-Mobile** | Summer 2027 AI Engineering Internship | Bellevue, Washington | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ381194?s=gh-new-grad-data-science-jobs-2027) |
