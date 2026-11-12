@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Arch Capital Group** | Data Analytics Intern | Greensboro, NC United States of... | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1137?s=gh-new-grad-data-science-jobs-2027) |
-| **Booz Allen Hamilton** | Bioinformatics Specialist | Atlanta, GA | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253391?s=gh-new-grad-data-science-jobs-2027) |
+| **Arch Capital Group** | Data Analytics Intern | Greensboro, NC United States of... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1137?s=gh-new-grad-data-science-jobs-2027) |
+| **Booz Allen Hamilton** | Bioinformatics Specialist | Atlanta, GA | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0253391?s=gh-new-grad-data-science-jobs-2027) |
 | **onsemi** | Reporting and Data Analytics | Hopewell Junction, NY, United... | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-onsemi-2506203?s=gh-new-grad-data-science-jobs-2027) |
 | **Toyota Research Institute** | Future Product Innovation Research Intern, Human-AI Computational Design | Los Altos, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-ad346610-e4a6-4cd2-a357-11d731b136a2?s=gh-new-grad-data-science-jobs-2027) |
 | **Airbnb** | Advanced Analytics Intern | United States | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-airbnb-8380007?s=gh-new-grad-data-science-jobs-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASML** | Internship/Co-Op: Data Engineer | San Diego, CA, USA | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-new-grad-data-science-jobs-2027) |
+| **ASML** | Internship/Co-Op: Data Engineer | San Diego, CA, USA | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-new-grad-data-science-jobs-2027) |
 | **Riot Games** | Data Engineering Intern - Summer 2027 | Los Angeles, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-new-grad-data-science-jobs-2027) |
 | **Warner Bros. Discovery** | WB Games Data Engineering Co-op: Needham, MA - January-May 2027 | MA Needham 117 Kendrick St | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000109902?s=gh-new-grad-data-science-jobs-2027) |
 | **T-Mobile** | Summer 2027 Data Engineering Internship | Frisco Texas | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380754?s=gh-new-grad-data-science-jobs-2027) |
