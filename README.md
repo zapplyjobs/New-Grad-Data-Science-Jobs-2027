@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boston Scientific** | Product Data Analyst Intern | Marlborough US-MA, United... | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813864319?s=gh-new-grad-data-science-jobs-2027) |
-| **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-new-grad-data-science-jobs-2027) |
+| **Boston Scientific** | Product Data Analyst Intern | Marlborough US-MA, United... | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813864319?s=gh-new-grad-data-science-jobs-2027) |
+| **National Interstate Insurance** | Predictive Analytics Intern - Summer 2027 | Cincinnati, OH | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gaig-gaig-external-R9904?s=gh-new-grad-data-science-jobs-2027) |
 | **ABB** | Sales Excellence Data Analytics Intern - Summer 2027 | USA, NC, Cary | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050987?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Summer Intern 2027, Process Chemistry - San Diego | San Diego, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31307?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Applied Sciences | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200067493?s=gh-new-grad-data-science-jobs-2027) |
@@ -362,7 +362,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 40m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-data-science-jobs-2027) |
+| **Boston Scientific** | AI Engineering Intern (Generative & Agentic AI) | Marlborough US-MA, United... | 48m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813827837?s=gh-new-grad-data-science-jobs-2027) |
 | **Carnegie Mellon University** | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025346?s=gh-new-grad-data-science-jobs-2027) |
 | **Carnegie Mellon SEI** | Cyber AI Engineering Intern (Spring 2027) | Pittsburgh, PA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025346?s=gh-new-grad-data-science-jobs-2027) |
 | **Postman** | AI Engineer, Intern | San Francisco, CA, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-postman-careers-JR1000055?s=gh-new-grad-data-science-jobs-2027) |
