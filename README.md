@@ -16,8 +16,8 @@
 <p align="center">🚀 Data science, analytics, and ML jobs for new graduates, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20Jobs-678-3FB950?style=flat&logo=briefcase" height="30" alt="Data Science Jobs">
-  <img src="https://img.shields.io/badge/Data%20Analyst-268-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
+  <img src="https://img.shields.io/badge/Data%20Science%20Jobs-680-3FB950?style=flat&logo=briefcase" height="30" alt="Data Science Jobs">
+  <img src="https://img.shields.io/badge/Data%20Analyst-270-2F81F7?style=flat&logo=briefcase" height="30" alt="Data Analyst">
   <img src="https://img.shields.io/badge/Companies-219-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -161,10 +161,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Micron** | Intern - Machine Learning Engineering | Richardson, Texas, United... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-micron-45050125?s=gh-new-grad-data-science-jobs-2027) |
 | **Johnson & Johnson** | Quality Data Science Co-Op , Summer 2027 | Cincinnati, Ohio, United States... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103629?s=gh-new-grad-data-science-jobs-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | Mountain View, CA, USA | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-waymo-8292367?s=gh-new-grad-data-science-jobs-2027) |
+| **AspenTech** | Data Science Intern - Summer 2027 - Bedford, MA | Bedford, Massachusetts | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aspentech-aspentech-R9459?s=gh-new-grad-data-science-jobs-2027) |
+| **Johnson & Johnson** | Data Science Co-Op, Summer 2027 | Cincinnati, Ohio, United States... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-096746?s=gh-new-grad-data-science-jobs-2027) |
 | **Visa** | Staff Research Scientist, Intern - PhD Quantum | Foster City, CA | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF088578W?s=gh-new-grad-data-science-jobs-2027) |
 | **Federal Reserve System** | Summer 2027 Intern- PhD Data Science or Computer Science | Chicago, IL | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033634?s=gh-new-grad-data-science-jobs-2027) |
-| **Federal Reserve System** | Summer 2027 Intern-Data Science and Business Analytics | Chicago, IL | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033609?s=gh-new-grad-data-science-jobs-2027) |
-| **Adobe** | 2027 Intern - Machine Learning Engineer | San Jose | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-adobe-external-experienced-R171519?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -243,6 +243,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **WSP** | Transportation Data Analyst Intern - Summer 2027 | Seattle, WA, United States | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-wsp-97952?s=gh-new-grad-data-science-jobs-2027) |
 | **University of Miami** | Postdoctoral Associate - Cancer, Lifestyle Medicine & Data Analytics | Miami, Florida | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-university-of-miami-R100096161?s=gh-new-grad-data-science-jobs-2027) |
 | **Cisco** | Data Analyst I (Intern) - United States | San Jose California US | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024561?s=gh-new-grad-data-science-jobs-2027) |
+| **General Motors** | 2027 Summer Intern - Research and Development - Aftertreatment Catalysis | Warren, Michigan, United States... | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622721?s=gh-new-grad-data-science-jobs-2027) |
+| **General Motors** | 2027 Summer Intern – Research and Development – Vehicle Health Management | Warren, Michigan, United States... | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622258?s=gh-new-grad-data-science-jobs-2027) |
 | **UPS** | MHR Summer 2027 Intern - Data Analytics (HR Systems) | ATLANTA, Georgia | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26039546?s=gh-new-grad-data-science-jobs-2027) |
 | **Illinois Tool Works** | Marketing Research Analyst Intern (Summer 2027) | Glenview, Illinois | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-illinois-tool-works-JR10818?s=gh-new-grad-data-science-jobs-2027) |
 | **Cisco** | Data Analyst I (Intern) - United States | San Jose, California | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2024561?s=gh-new-grad-data-science-jobs-2027) |
@@ -250,8 +252,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Toyota Research Institute** | Human Interactive Driving Research Intern, Decision-Making for Driving at the Limits | Los Altos, CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-3e69a8d4-6286-4d00-8677-7597e98fdb56?s=gh-new-grad-data-science-jobs-2027) |
 | **Per Scholas** | Instructional Assistant (Data Analytics) | United States | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4725726006?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Applied Science: PhD Internship Opportunities, Turing | Redmond, Washington, United States | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064449?s=gh-new-grad-data-science-jobs-2027) |
-| **Applied Materials** | Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA) | Santa Clara,CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2627411?s=gh-new-grad-data-science-jobs-2027) |
 | **Micron Technology** | Intern - Memory Performance and Power Modeling | San Jose, CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112542?s=gh-new-grad-data-science-jobs-2027) |
+| **Applied Materials** | Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA) | Santa Clara,CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2627411?s=gh-new-grad-data-science-jobs-2027) |
 | **Federal Reserve System** | 2027 Summer Internship Program - REIN Data Intern | Atlanta, GA | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000033089?s=gh-new-grad-data-science-jobs-2027) |
 | **Arrowstreet Capital** | Investment Processes Intern, Summer 2027 | Boston | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrowstreetcapital-campus-careers-R1557?s=gh-new-grad-data-science-jobs-2027) |
 | **Micron** | Intern - Memory Performance and Power Modeling | San Jose, California, United... | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-micron-45227339?s=gh-new-grad-data-science-jobs-2027) |
@@ -274,8 +276,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's... | Austin,TX | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2626381?s=gh-new-grad-data-science-jobs-2027) |
 | **Affirm** | Analyst, Early Career (Full Stack) | New York, New York, United States | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-8039471003?s=gh-new-grad-data-science-jobs-2027) |
 | **Per Scholas** | Instructional Assistant (Data Analytics) | Bronx, New York, United States | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-perscholashires-4721600006?s=gh-new-grad-data-science-jobs-2027) |
-| **S&P Global** | Ratings Analytical Intern | Colorado, US | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-spgi-spgi-careers-332371?s=gh-new-grad-data-science-jobs-2027) |
-| **Anduril** | 2027 Finance Data Analyst Intern | Costa Mesa, California, United... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5269977007?s=gh-new-grad-data-science-jobs-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -288,8 +288,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **ASML** | Internship/Co-Op: Data Engineer | San Diego, CA, USA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355626?s=gh-new-grad-data-science-jobs-2027) |
-| **BAE Systems** | Data Engineer_ SPLUNK | Sterling, Virginia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131110BR?s=gh-new-grad-data-science-jobs-2027) |
 | **Entegris** | Data Engineering Intern - Summer 2027 | Aurora, IL | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15839?s=gh-new-grad-data-science-jobs-2027) |
+| **BAE Systems** | Data Engineer_ SPLUNK | Sterling, Virginia | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131110BR?s=gh-new-grad-data-science-jobs-2027) |
 | **Riot Games** | Data Engineering Intern - Summer 2027 | Los Angeles, USA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-riotgames-8356716?s=gh-new-grad-data-science-jobs-2027) |
 | **Warner Bros. Discovery** | WB Games Data Engineering Co-op: Needham, MA - January-May 2027 | MA Needham 117 Kendrick St | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-warnerbros-global-R000109902?s=gh-new-grad-data-science-jobs-2027) |
 | **The Travelers Companies** | Data Engineer I (AWS, Python, GenAI) | CT Hartford | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53217?s=gh-new-grad-data-science-jobs-2027) |
@@ -400,8 +400,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Computational Support for Machine Learning and Transformers, Core OS | Cupertino | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/apple-200692952?s=gh-new-grad-data-science-jobs-2027) |
 | **Intuitive** | AI/ML Engineer Intern | Sunnyvale, CA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000159218439?s=gh-new-grad-data-science-jobs-2027) |
 | **Roku** | Software Engineer Intern, AI Engineering | San Jose, California | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-roku-8258241?s=gh-new-grad-data-science-jobs-2027) |
-| **Applied Materials** | New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027) | Santa Clara,CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2630376?s=gh-new-grad-data-science-jobs-2027) |
 | **General Motors** | 2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning | Warren, Michigan, United States... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202622746?s=gh-new-grad-data-science-jobs-2027) |
+| **Applied Materials** | New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027) | Santa Clara,CA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2630376?s=gh-new-grad-data-science-jobs-2027) |
 | **General Motors** | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | Sunnyvale, California, United... | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202623439?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | Seattle, WA | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-04fba0c4-1a5d-46d5-a69a-04bc82fec77e?s=gh-new-grad-data-science-jobs-2027) |
 | **Microsoft** | Research Intern - Machine Learning and Optimization - Redmond | Redmond, Washington, United States | 2w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064359?s=gh-new-grad-data-science-jobs-2027) |
@@ -548,7 +548,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 678 current opportunities from 219 companies**
+**🎯 680 current opportunities from 219 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
