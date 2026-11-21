@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Intuitive** | Data Engineering Intern | Sunnyvale, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162832659?s=gh-new-grad-data-science-jobs-2027) |
+| **Intuitive** | Data Engineering Intern | Sunnyvale, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000162832659?s=gh-new-grad-data-science-jobs-2027) |
 | **Starbucks** | engineer I, Operations Data Engineering (Seattle, WA) | 1101 Church ST, Nashville,... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260088215?s=gh-new-grad-data-science-jobs-2027) |
 | **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-new-grad-data-science-jobs-2027) |
 | **Amazon.com Services LLC** | Data Engineer I | Bellevue, WA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-26da23c5-c25b-4c2f-858e-3ff3bc0cf29b?s=gh-new-grad-data-science-jobs-2027) |
@@ -368,7 +368,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microsoft** | Research Intern - AI /Machine Learning Numerics & Efficiency | Mountain View, California,... | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068214?s=gh-new-grad-data-science-jobs-2027) |
+| **Microsoft** | Research Intern - AI /Machine Learning Numerics & Efficiency | Mountain View, California,... | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068214?s=gh-new-grad-data-science-jobs-2027) |
 | **LinkedIn** | AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) | Mountain View, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162628808?s=gh-new-grad-data-science-jobs-2027) |
 | **LinkedIn** | AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623639?s=gh-new-grad-data-science-jobs-2027) |
 | **LinkedIn** | AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA) | Mountain View, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-LinkedIn3-744000162623368?s=gh-new-grad-data-science-jobs-2027) |
