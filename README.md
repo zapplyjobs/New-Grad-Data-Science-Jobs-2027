@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Baxter International** | Research Scientist I - Biochemistry | Round Lake, Illinois | 7m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-213558?s=gh-new-grad-data-science-jobs-2027) |
+| **Baxter International** | Research Scientist I - Biochemistry | Round Lake, Illinois | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-baxter-baxter-JR-213558?s=gh-new-grad-data-science-jobs-2027) |
 | **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-new-grad-data-science-jobs-2027) |
 | **Stantec** | Data Scientist Intern - Water (Summer 2027) | San Diego, CA, United States | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1009005?s=gh-new-grad-data-science-jobs-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-new-grad-data-science-jobs-2027) |
@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MITRE** | Data Science and Engineering Intern | McLean, Virginia | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117661?s=gh-new-grad-data-science-jobs-2027) |
 | **Boston Scientific** | R&D Research Data Science Intern | United States   N/A | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813968810?s=gh-new-grad-data-science-jobs-2027) |
 | **Aerospace Corporation** | 2027 Machine Learning Engineer Undergrad Intern | El Segundo, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016667?s=gh-new-grad-data-science-jobs-2027) |
-| **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United... | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5274037007?s=gh-new-grad-data-science-jobs-2027) |
+| **Anduril** | 2027 Machine Learning Engineer Intern | Santa Ana, California, United... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5274037007?s=gh-new-grad-data-science-jobs-2027) |
 | **State Street** | State Street Investment Management - Data Scientist - Summer Internship 2027 | Boston, Massachusetts | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801213?s=gh-new-grad-data-science-jobs-2027) |
 | **Aerospace Corporation** | 2027 Machine Learning Engineering Graduate Intern | El Segundo, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R016432?s=gh-new-grad-data-science-jobs-2027) |
 | **Bose** | Data Science Co-Op (NLP & GenAI) | MA Framingham | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boseallaboutme-bose-careers-R29251?s=gh-new-grad-data-science-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **LabCorp** | Intern - Bioinformatics | Baltimore MD | 16m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634135?s=gh-new-grad-data-science-jobs-2027) |
-| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 38m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332939?s=gh-new-grad-data-science-jobs-2027) |
+| **LabCorp** | Intern - Bioinformatics | Baltimore MD | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634135?s=gh-new-grad-data-science-jobs-2027) |
+| **CACI** | Data Engineering/Analytics Support | Norco, CA, US | 44m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332939?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow Boston | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30683?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow San Diego | San Diego, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30686?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow Seattle, WA | Seattle, WA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30687?s=gh-new-grad-data-science-jobs-2027) |
