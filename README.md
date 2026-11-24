@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASML** | Internship - Data Analyst | San Jose, CA, USA | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-new-grad-data-science-jobs-2027) |
+| **ASML** | Internship - Data Analyst | San Jose, CA, USA | 32m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00355833?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow Boston | Boston, MA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30683?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow San Diego | San Diego, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30686?s=gh-new-grad-data-science-jobs-2027) |
 | **Vertex Pharmaceuticals** | Vertex Fellow Seattle, WA | Seattle, WA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-30687?s=gh-new-grad-data-science-jobs-2027) |
